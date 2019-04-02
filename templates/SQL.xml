@@ -1,0 +1,7 @@
+<templateSet group="SQL">
+  <template name="selc" value="select count(*) from $table$ $alias$ where $alias$.$END$;" description="select the number of specific rows in a table" toReformat="true" toShortenFQNames="false">
+    <variable name="table" expression="complete()" defaultValue="" alwaysStopAt="true" />
+    <variable name="alias" expression="complete()" defaultValue="&quot;alias&quot;" alwaysStopAt="true" />
+    <context />
+  </template>
+</templateSet>

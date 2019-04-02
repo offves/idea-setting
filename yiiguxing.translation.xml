@@ -1,0 +1,76 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="Pair" />
+      <item value="Caller Runs Policy" />
+      <item value="set Keep Alive Seconds" />
+      <item value="fixed Rate" />
+      <item value="Sensors Analysis" />
+      <item value="Statistics" />
+      <item value="approve" />
+      <item value="initial Delay" />
+      <item value="redis Utils" />
+      <item value="put If Absent" />
+      <item value="Async Batch Consumer" />
+      <item value="Batch Consumer" />
+      <item value="track" />
+      <item value="auto Track" />
+      <item value="quick" />
+      <item value="policy" />
+      <item value="神策" />
+      <item value="sensors" />
+      <item value="next Node By Reject" />
+      <item value="forward 2 Workflow Request 4 Multi" />
+      <item value="do Force Over" />
+      <item value="do Retract" />
+      <item value="get Processed Workflow Request Count" />
+      <item value="转发" />
+      <item value="recipients" />
+      <item value="belong Dept Id" />
+      <item value="bzglbry yyd" />
+      <item value="承接" />
+      <item value="是否承接" />
+      <item value="test Registration" />
+      <item value="match If Missing" />
+      <item value="Inet Utils" />
+      <item value="should be wrapped into optional" />
+      <item value="Conditional On Missing Bean" />
+      <item value="EXCLUSIVE MASK" />
+      <item value="reader Should Block" />
+      <item value="writer Should Block" />
+      <item value="自动生成" />
+      <item value="auto" />
+      <item value="配置化" />
+      <item value="has Queued Predecessors" />
+      <item value="Queries whether any threads have been waiting to acquire longer than the current thread. An invocation of this method is equivalent to (but may be more efficient than):" />
+      <item value="Queries whether any threads have been waiting to acquire longer than the current thread.&#10;An invocation of this method is equivalent to (but may be more efficient than):" />
+      <item value="Illegal Monitor State Exception" />
+      <item value="set Exclusive Owner Thread" />
+      <item value="nonfair Try Acquire" />
+      <item value="Sync" />
+      <item value="Deprecated" />
+      <item value="Successor" />
+      <item value="unpark Successor" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="134" />
+        <entry key="ENGLISH" value="135" />
+        <entry key="ESTONIAN" value="1" />
+        <entry key="DANISH" value="1" />
+        <entry key="FRENCH" value="2" />
+        <entry key="CZECH" value="1" />
+        <entry key="GREEK" value="1" />
+        <entry key="ITALIAN" value="1" />
+      </map>
+    </option>
+  </component>
+  <component name="Settings">
+    <option name="googleTranslateSettings">
+      <google-translate>
+        <option name="useTranslateGoogleCom" value="true" />
+      </google-translate>
+    </option>
+    <option name="ignoreRegExp" value="" />
+  </component>
+</application>

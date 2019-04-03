@@ -26,6 +26,8 @@
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="meta w" />
   </action>
+  <action id="Console.TableResult.CompareCells" />
+  <action id="Diff.ShowSettingsPopup" />
   <action id="DuplicatesForm.SendToRight" />
   <action id="Editor EditorTranslateAction">
     <keyboard-shortcut first-keystroke="alt e" />
@@ -40,6 +42,9 @@
   <action id="FileChooser.GotoProject" />
   <action id="FindInPath">
     <keyboard-shortcut first-keystroke="alt f" />
+  </action>
+  <action id="FixDocComment">
+    <keyboard-shortcut first-keystroke="shift meta d" />
   </action>
   <action id="GotoImplementation">
     <keyboard-shortcut first-keystroke="meta alt b" />
@@ -77,6 +82,7 @@
   </action>
   <action id="RunDashboard.ShowConfigurations" />
   <action id="ShelveChanges.UnshelveWithDialog" />
+  <action id="Uml.ShowDiff" />
   <action id="Vcs.UpdateProject">
     <keyboard-shortcut first-keystroke="shift meta u" />
   </action>

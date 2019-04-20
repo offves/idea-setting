@@ -1,3 +1,3 @@
 <application>
-  <component name="MavenVersion" mavenHome="$USER_HOME$/offves/developer/apache-maven-3.6.0" />
+  <component name="MavenVersion" mavenHome="/usr/local/Cellar/maven/3.6.1" />
 </application>

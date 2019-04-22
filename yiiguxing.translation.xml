@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="persistence" />
       <item value="Consider defining a bean of type 'com.deppon.module.infrastructure.support.message.dao.MessageDao' in your configuration" />
       <item value="建议" />
       <item value="Client" />
@@ -50,12 +51,11 @@
       <item value="Illegal Monitor State Exception" />
       <item value="set Exclusive Owner Thread" />
       <item value="nonfair Try Acquire" />
-      <item value="Sync" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="135" />
-        <entry key="ENGLISH" value="136" />
+        <entry key="CHINESE" value="136" />
+        <entry key="ENGLISH" value="137" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="2" />

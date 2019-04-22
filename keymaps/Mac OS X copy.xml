@@ -3,6 +3,16 @@
     <keyboard-shortcut first-keystroke="ctrl meta u" />
     <keyboard-shortcut first-keystroke="alt e" />
   </action>
+  <action id="$Redo">
+    <keyboard-shortcut first-keystroke="shift meta z" />
+    <keyboard-shortcut first-keystroke="shift alt back_space" />
+    <keyboard-shortcut first-keystroke="shift alt z" />
+  </action>
+  <action id="$Undo">
+    <keyboard-shortcut first-keystroke="meta z" />
+    <keyboard-shortcut first-keystroke="alt z" />
+    <keyboard-shortcut first-keystroke="ctrl z" />
+  </action>
   <action id="ActivateDatabaseToolWindow">
     <keyboard-shortcut first-keystroke="meta 4" />
   </action>
@@ -26,15 +36,30 @@
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="meta w" />
   </action>
+  <action id="CodeCompletion">
+    <keyboard-shortcut first-keystroke="meta slash" />
+  </action>
+  <action id="CommentByBlockComment">
+    <keyboard-shortcut first-keystroke="shift alt slash" />
+  </action>
+  <action id="CommentByLineComment">
+    <keyboard-shortcut first-keystroke="alt slash" />
+  </action>
+  <action id="Console.TableResult.CloneRow" />
   <action id="Console.TableResult.CompareCells" />
   <action id="Diff.ShowSettingsPopup" />
   <action id="DuplicatesForm.SendToRight" />
   <action id="Editor EditorTranslateAction">
     <keyboard-shortcut first-keystroke="alt e" />
   </action>
-  <action id="EditorDuplicate">
-    <keyboard-shortcut first-keystroke="alt d" />
+  <action id="Editor Redo">
+    <keyboard-shortcut first-keystroke="shift alt z" />
   </action>
+  <action id="Editor Undo">
+    <keyboard-shortcut first-keystroke="alt z" />
+    <keyboard-shortcut first-keystroke="ctrl z" />
+  </action>
+  <action id="EditorDuplicate" />
   <action id="EditorSelectWord" />
   <action id="EditorToggleCase" />
   <action id="Exit" />
@@ -44,7 +69,7 @@
     <keyboard-shortcut first-keystroke="alt f" />
   </action>
   <action id="FixDocComment">
-    <keyboard-shortcut first-keystroke="shift meta d" />
+    <keyboard-shortcut first-keystroke="alt d" />
   </action>
   <action id="GotoImplementation">
     <keyboard-shortcut first-keystroke="meta alt b" />
@@ -56,6 +81,14 @@
     <keyboard-shortcut first-keystroke="shift meta t" />
   </action>
   <action id="GotoTest" />
+  <action id="Graph.ActualSize">
+    <keyboard-shortcut first-keystroke="meta divide" />
+  </action>
+  <action id="HippieBackwardCompletion" />
+  <action id="HippieCompletion" />
+  <action id="Images.Editor.ActualSize">
+    <keyboard-shortcut first-keystroke="meta divide" />
+  </action>
   <action id="Images.ShowThumbnails" />
   <action id="OptimizeImports">
     <keyboard-shortcut first-keystroke="shift meta o" />
@@ -80,8 +113,13 @@
   <action id="Replace">
     <keyboard-shortcut first-keystroke="shift meta r" />
   </action>
+  <action id="RunDashboard.CopyConfiguration" />
   <action id="RunDashboard.ShowConfigurations" />
   <action id="ShelveChanges.UnshelveWithDialog" />
+  <action id="SmartTypeCompletion">
+    <keyboard-shortcut first-keystroke="meta slash" />
+    <keyboard-shortcut first-keystroke="shift meta slash" />
+  </action>
   <action id="Uml.ShowDiff" />
   <action id="Vcs.UpdateProject">
     <keyboard-shortcut first-keystroke="shift meta u" />

@@ -45,8 +45,19 @@
   <action id="CommentByLineComment">
     <keyboard-shortcut first-keystroke="alt slash" />
   </action>
+  <action id="CompareTwoFiles" />
   <action id="Console.TableResult.CloneRow" />
   <action id="Console.TableResult.CompareCells" />
+  <action id="CopyPaths">
+    <keyboard-shortcut first-keystroke="shift ctrl c" />
+  </action>
+  <action id="CopyReference">
+    <keyboard-shortcut first-keystroke="shift meta c" />
+  </action>
+  <action id="DatabaseView.CopyDdlAction">
+    <keyboard-shortcut first-keystroke="shift meta alt g" />
+  </action>
+  <action id="Diff.ShowDiff" />
   <action id="Diff.ShowSettingsPopup" />
   <action id="DuplicatesForm.SendToRight" />
   <action id="Editor EditorTranslateAction">
@@ -59,10 +70,15 @@
     <keyboard-shortcut first-keystroke="alt z" />
     <keyboard-shortcut first-keystroke="ctrl z" />
   </action>
+  <action id="EditorDeleteLine">
+    <keyboard-shortcut first-keystroke="meta y" />
+    <keyboard-shortcut first-keystroke="meta d" />
+  </action>
   <action id="EditorDuplicate" />
   <action id="EditorSelectWord" />
   <action id="EditorToggleCase" />
   <action id="Exit" />
+  <action id="FileChooser.GotoDesktop" />
   <action id="FileChooser.GotoModule" />
   <action id="FileChooser.GotoProject" />
   <action id="FindInPath">
@@ -115,14 +131,16 @@
   </action>
   <action id="RunDashboard.CopyConfiguration" />
   <action id="RunDashboard.ShowConfigurations" />
+  <action id="SendEOF" />
   <action id="ShelveChanges.UnshelveWithDialog" />
   <action id="SmartTypeCompletion">
-    <keyboard-shortcut first-keystroke="meta slash" />
     <keyboard-shortcut first-keystroke="shift meta slash" />
+    <keyboard-shortcut first-keystroke="shift ctrl slash" />
   </action>
   <action id="Uml.ShowDiff" />
   <action id="Vcs.UpdateProject">
     <keyboard-shortcut first-keystroke="shift meta u" />
   </action>
+  <action id="openAssertEqualsDiff" />
   <action id="tasks.close" />
 </keymap>

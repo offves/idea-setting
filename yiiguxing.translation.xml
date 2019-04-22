@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="建议" />
       <item value="Client" />
       <item value="Pair" />
       <item value="Caller Runs Policy" />
@@ -50,7 +51,6 @@
       <item value="nonfair Try Acquire" />
       <item value="Sync" />
       <item value="Deprecated" />
-      <item value="Successor" />
     </histories>
     <option name="languageScores">
       <map>
@@ -66,11 +66,6 @@
     </option>
   </component>
   <component name="Settings">
-    <option name="googleTranslateSettings">
-      <google-translate>
-        <option name="useTranslateGoogleCom" value="true" />
-      </google-translate>
-    </option>
     <option name="ignoreRegExp" value="" />
   </component>
 </application>

@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="message Service" />
+      <item value="retries" />
       <item value="resteasy" />
       <item value="transform" />
       <item value="转换" />
@@ -49,13 +51,11 @@
       <item value="writer Should Block" />
       <item value="自动生成" />
       <item value="auto" />
-      <item value="配置化" />
-      <item value="has Queued Predecessors" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="138" />
-        <entry key="ENGLISH" value="138" />
+        <entry key="CHINESE" value="139" />
+        <entry key="ENGLISH" value="140" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="2" />

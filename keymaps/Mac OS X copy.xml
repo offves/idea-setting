@@ -53,7 +53,7 @@
   <action id="Console.TableResult.CloneRow" />
   <action id="Console.TableResult.CompareCells" />
   <action id="ConsoleView.ClearAll">
-    <keyboard-shortcut first-keystroke="shift meta alt c" />
+    <keyboard-shortcut first-keystroke="alt c" />
   </action>
   <action id="CopyPaths">
     <keyboard-shortcut first-keystroke="shift ctrl c" />

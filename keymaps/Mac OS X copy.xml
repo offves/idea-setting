@@ -89,7 +89,9 @@
   <action id="EditorScrollUp" />
   <action id="EditorSelectWord" />
   <action id="EditorSplitLine" />
-  <action id="EditorToggleCase" />
+  <action id="EditorToggleCase">
+    <keyboard-shortcut first-keystroke="alt x" />
+  </action>
   <action id="Exit" />
   <action id="FileChooser.GotoDesktop" />
   <action id="FileChooser.GotoModule" />

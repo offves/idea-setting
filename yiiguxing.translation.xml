@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="failure" />
+      <item value="失败" />
+      <item value="待发送" />
       <item value="Overriding bean definition for bean 'stringRedisTemplate' with a different definition" />
       <item value="Lifecycle method annotation requires a no-arg method" />
       <item value="union And Store" />
@@ -48,14 +51,11 @@
       <item value="recipients" />
       <item value="belong Dept Id" />
       <item value="bzglbry yyd" />
-      <item value="承接" />
-      <item value="是否承接" />
-      <item value="test Registration" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="145" />
-        <entry key="ENGLISH" value="146" />
+        <entry key="CHINESE" value="147" />
+        <entry key="ENGLISH" value="148" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="2" />

@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="You must use at least one, but no more than one http method annotation on" />
       <item value="failure" />
       <item value="失败" />
       <item value="待发送" />
@@ -50,12 +51,11 @@
       <item value="转发" />
       <item value="recipients" />
       <item value="belong Dept Id" />
-      <item value="bzglbry yyd" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="147" />
-        <entry key="ENGLISH" value="148" />
+        <entry key="CHINESE" value="148" />
+        <entry key="ENGLISH" value="149" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="2" />

@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Add URL patterns to which the registered interceptor should apply to" />
       <item value="exchange 2007 Compatibility Mode" />
       <item value="The remote server returned an error: (401)Unauthorized" />
       <item value="You must use at least one, but no more than one http method annotation on" />
@@ -50,12 +51,11 @@
       <item value="do Force Over" />
       <item value="do Retract" />
       <item value="get Processed Workflow Request Count" />
-      <item value="转发" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="150" />
-        <entry key="ENGLISH" value="151" />
+        <entry key="CHINESE" value="151" />
+        <entry key="ENGLISH" value="152" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="2" />

@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="exchange 2007 Compatibility Mode" />
       <item value="The remote server returned an error: (401)Unauthorized" />
       <item value="You must use at least one, but no more than one http method annotation on" />
       <item value="failure" />
@@ -50,12 +51,11 @@
       <item value="do Retract" />
       <item value="get Processed Workflow Request Count" />
       <item value="转发" />
-      <item value="recipients" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="149" />
-        <entry key="ENGLISH" value="150" />
+        <entry key="CHINESE" value="150" />
+        <entry key="ENGLISH" value="151" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="2" />

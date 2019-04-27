@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="message" />
       <item value="Ensures that the entity content is fully consumed and the content stream, if exists, * is closed" />
       <item value="Add URL patterns to which the registered interceptor should apply to" />
       <item value="exchange 2007 Compatibility Mode" />
@@ -50,12 +51,11 @@
       <item value="next Node By Reject" />
       <item value="forward 2 Workflow Request 4 Multi" />
       <item value="do Force Over" />
-      <item value="do Retract" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="152" />
-        <entry key="ENGLISH" value="153" />
+        <entry key="CHINESE" value="153" />
+        <entry key="ENGLISH" value="154" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="2" />

@@ -26,9 +26,6 @@
     <keyboard-shortcut first-keystroke="meta 5" />
     <keyboard-shortcut first-keystroke="alt 3" />
   </action>
-  <action id="ActivateRunDashboardToolWindow">
-    <keyboard-shortcut first-keystroke="meta 2" />
-  </action>
   <action id="ActivateRunToolWindow" />
   <action id="ActivateStructureToolWindow" />
   <action id="ActivateTODOToolWindow" />

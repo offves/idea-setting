@@ -66,6 +66,10 @@
           <option name="url" value="https://github.com/apache/incubator-dubbo-admin.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/leftvalue/NeteaseApi.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/offves/projects" />

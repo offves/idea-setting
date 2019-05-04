@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="cheating" />
       <item value="JS Secret" />
       <item value="force Delete" />
       <item value="Save filename same as source filename" />
@@ -50,11 +51,10 @@
       <item value="Statistics" />
       <item value="approve" />
       <item value="initial Delay" />
-      <item value="redis Utils" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="161" />
+        <entry key="CHINESE" value="162" />
         <entry key="ENGLISH" value="162" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="1" />

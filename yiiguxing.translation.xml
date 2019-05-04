@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="JS Secret" />
       <item value="force Delete" />
       <item value="Save filename same as source filename" />
       <item value="for Each Remaining" />
@@ -50,12 +51,11 @@
       <item value="approve" />
       <item value="initial Delay" />
       <item value="redis Utils" />
-      <item value="put If Absent" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="160" />
-        <entry key="ENGLISH" value="161" />
+        <entry key="CHINESE" value="161" />
+        <entry key="ENGLISH" value="162" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="2" />

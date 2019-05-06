@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="转换" />
       <item value="cheating" />
       <item value="JS Secret" />
       <item value="force Delete" />
@@ -36,7 +37,6 @@
       <item value="retries" />
       <item value="resteasy" />
       <item value="transform" />
-      <item value="转换" />
       <item value="Duplicate spring bean id CMDS" />
       <item value="Checks types of parameters annotated @PathParam, @QueryParam, etc. The type of the annotated parameter, field or property must either: Be a primitive type. Have a constructor that accepts a single String argument. Have a static method named valueOf or fromString that accepts a single String argument (see, for example, Integer.valueOf(String)). Have a registered implementation of ParamConverterProvider JAX-RS extension SPI that returns a ParamConverter instance capable of a &quot;from string&quot; conversion for the type. Be List&lt;T&gt;, Set&lt;T&gt; or SortedSet&lt;T&gt;, where T satisfies 2, 3 or 4 above. The resulting collection is read-only." />
       <item value="persistence" />
@@ -55,7 +55,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="162" />
-        <entry key="ENGLISH" value="162" />
+        <entry key="ENGLISH" value="163" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="2" />

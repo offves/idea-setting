@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Data truncation: Data too long for column 'mobile' at row 1" />
+      <item value="Parameter 'employee' not found. Available parameters are [employees, param1]" />
       <item value="Column count doesn't match value count at row 1" />
       <item value="Data truncation: Data too long for column 'data' at row 1" />
       <item value="Employee" />
@@ -49,13 +51,11 @@
       <item value="Checks types of parameters annotated @PathParam, @QueryParam, etc. The type of the annotated parameter, field or property must either: Be a primitive type. Have a constructor that accepts a single String argument. Have a static method named valueOf or fromString that accepts a single String argument (see, for example, Integer.valueOf(String)). Have a registered implementation of ParamConverterProvider JAX-RS extension SPI that returns a ParamConverter instance capable of a &quot;from string&quot; conversion for the type. Be List&lt;T&gt;, Set&lt;T&gt; or SortedSet&lt;T&gt;, where T satisfies 2, 3 or 4 above. The resulting collection is read-only." />
       <item value="persistence" />
       <item value="Consider defining a bean of type 'com.deppon.module.infrastructure.support.message.dao.MessageDao' in your configuration" />
-      <item value="建议" />
-      <item value="Client" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="167" />
-        <entry key="ENGLISH" value="168" />
+        <entry key="CHINESE" value="169" />
+        <entry key="ENGLISH" value="170" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="2" />

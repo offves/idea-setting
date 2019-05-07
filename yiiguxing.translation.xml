@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="批量" />
       <item value="身份证号码" />
       <item value="转换" />
       <item value="cheating" />
@@ -50,7 +51,6 @@
       <item value="fixed Rate" />
       <item value="Sensors Analysis" />
       <item value="Statistics" />
-      <item value="approve" />
     </histories>
     <option name="languageScores">
       <map>

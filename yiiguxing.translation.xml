@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="employee consume failed" />
+      <item value="查询 boas 人员数据失败" />
+      <item value="人员数据失败" />
       <item value="consume String" />
       <item value="Failed to refer invoker for interface:interface" />
       <item value="Failed to check the status of the service" />
@@ -48,14 +51,11 @@
       <item value="Lifecycle method annotation requires a no-arg method" />
       <item value="union And Store" />
       <item value="message Job Scheduler" />
-      <item value="Lite Job Configuration" />
-      <item value="耗时1 秒" />
-      <item value="heartbeat" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="178" />
-        <entry key="ENGLISH" value="179" />
+        <entry key="CHINESE" value="181" />
+        <entry key="ENGLISH" value="182" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="2" />

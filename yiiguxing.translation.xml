@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="this OfficeManager is currently stopped" />
       <item value="on project distword: Error assembling WAR: webxml attribute is required (or pre-existing WEB-INF/web.xml if executing in update mode" />
       <item value="or pre-existing WEB-INF/web.xml if executing in update mode" />
       <item value="Benchmark" />
@@ -50,12 +51,11 @@
       <item value="elapsed" />
       <item value="Reports any attempts to reflectively check for the presence of an annotation which is not defined as being retained at runtime. Using Class.isAnnotationPresent() to test for an annotation which has source retention or class-file retention (the default) will always result in a negative result, but is easy to do inadvertently." />
       <item value="release" />
-      <item value="Lua Distribute Lock" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="195" />
-        <entry key="ENGLISH" value="196" />
+        <entry key="CHINESE" value="196" />
+        <entry key="ENGLISH" value="197" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="2" />

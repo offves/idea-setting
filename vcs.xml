@@ -70,9 +70,13 @@
           <option name="url" value="https://github.com/leftvalue/NeteaseApi.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/DistChen/distword.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/offves/projects" />
+    <option name="cloneParentDir" value="$USER_HOME$/projects" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_DIFF_PREVIEW" value="true" />

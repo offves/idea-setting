@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Data truncation: Data too long for column 'dept_code' at row 1" />
       <item value="NSWindow drag regions should only be invalidated on the Main Thread! This will throw an exception in the future." />
       <item value="it doesn't contain soffice.bin" />
       <item value="No content to map to Object due to end of input" />
@@ -50,12 +51,11 @@
       <item value="message" />
       <item value="Ensures that the entity content is fully consumed and the content stream, if exists, * is closed" />
       <item value="Add URL patterns to which the registered interceptor should apply to" />
-      <item value="exchange 2007 Compatibility Mode" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="191" />
-        <entry key="ENGLISH" value="191" />
+        <entry key="ENGLISH" value="192" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="2" />

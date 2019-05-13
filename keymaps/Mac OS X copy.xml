@@ -59,6 +59,9 @@
   <action id="CompareTwoFiles" />
   <action id="Console.Execute.Multiline" />
   <action id="Console.Jdbc.Execute" />
+  <action id="Console.Jdbc.Execute.2">
+    <keyboard-shortcut first-keystroke="meta r" />
+  </action>
   <action id="Console.TableResult.CloneRow" />
   <action id="Console.TableResult.CompareCells" />
   <action id="ConsoleView.ClearAll">

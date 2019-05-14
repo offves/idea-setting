@@ -1,6 +1,16 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="列名" />
+      <item value="表单域" />
+      <item value="域" />
+      <item value="label" />
+      <item value="lebal" />
+      <item value="表单" />
+      <item value="Form Field" />
+      <item value="字段" />
+      <item value="Filed" />
+      <item value="Form Filed" />
       <item value="Digital partner" />
       <item value="Digital_partner" />
       <item value="get Paragraphs" />
@@ -41,25 +51,16 @@
       <item value="同步数据" />
       <item value="批量" />
       <item value="身份证号码" />
-      <item value="转换" />
-      <item value="cheating" />
-      <item value="JS Secret" />
-      <item value="force Delete" />
-      <item value="Save filename same as source filename" />
-      <item value="for Each Remaining" />
-      <item value="Note that Sun's javac compiler often generates dead stores for final local variables. Because FindBugs is a bytecode-based tool, there is no easy way to eliminate these" />
-      <item value="This instruction assigns a value to a local variable, but the value is not read or used in any subsequent instruction. Often, this indicates an error, because the value computed is never used." />
-      <item value="base Bean" />
-      <item value="耗时" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="198" />
-        <entry key="ENGLISH" value="198" />
+        <entry key="CHINESE" value="202" />
+        <entry key="ENGLISH" value="203" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="FRISIAN" value="1" />
+        <entry key="GUJARATI" value="1" />
         <entry key="CZECH" value="1" />
         <entry key="ROMANIAN" value="1" />
         <entry key="GREEK" value="1" />

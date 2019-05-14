@@ -1,6 +1,12 @@
 <profile version="1.0">
   <option name="myName" value="Default" />
   <inspection_tool class="DuplicateCaseLabelJS" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="Duplicates" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+    <Java>
+      <minSize>73</minSize>
+      <isEnabled>true</isEnabled>
+    </Java>
+  </inspection_tool>
   <inspection_tool class="HtmlUnknownAttribute" enabled="false" level="WARNING" enabled_by_default="false">
     <option name="myValues">
       <value>
@@ -62,6 +68,7 @@
     <option name="ignoreAnonymousInnerClasses" value="false" />
     <option name="superClassString" value="java.awt.Component" />
   </inspection_tool>
+  <inspection_tool class="SpringCacheableComponentsInspection" enabled="false" level="ERROR" enabled_by_default="false" />
   <inspection_tool class="SpringJavaAutowiredFieldsWarningInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="SpringJavaAutowiredMembersInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="SpringJavaConstructorAutowiringInspection" enabled="false" level="ERROR" enabled_by_default="false" />

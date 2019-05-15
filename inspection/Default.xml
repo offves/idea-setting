@@ -69,6 +69,7 @@
     <option name="superClassString" value="java.awt.Component" />
   </inspection_tool>
   <inspection_tool class="SpringCacheableComponentsInspection" enabled="false" level="ERROR" enabled_by_default="false" />
+  <inspection_tool class="SpringElInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="SpringJavaAutowiredFieldsWarningInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="SpringJavaAutowiredMembersInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="SpringJavaConstructorAutowiringInspection" enabled="false" level="ERROR" enabled_by_default="false" />

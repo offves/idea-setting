@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="固定模板" />
+      <item value="合同" />
       <item value="contain illegal charactor, only digit, letter, '-', '_' and '.' is legal." />
       <item value="PropertyAccessException 1: org.springframework.beans.MethodInvocationException: Property 'protocol' threw exception; nested exception is java.lang.IllegalStateException: Invalid protocol=&quot;${dubbo.registry.protocol}&quot; contain illegal charactor, only digit, letter, '-', '_' and '.' is legal." />
       <item value="flyway" />
@@ -49,8 +51,6 @@
       <item value="Parameter 'employee' not found. Available parameters are [employees, param1]" />
       <item value="Column count doesn't match value count at row 1" />
       <item value="Data truncation: Data too long for column 'data' at row 1" />
-      <item value="Employee" />
-      <item value="员工" />
     </histories>
     <option name="languageScores">
       <map>

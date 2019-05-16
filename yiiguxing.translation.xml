@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="营业执照" />
+      <item value="third" />
       <item value="拒绝" />
       <item value="审批拒绝" />
       <item value="审批同意" />
@@ -49,13 +51,11 @@
       <item value="Data truncation: Data too long for column 'dept_code' at row 1" />
       <item value="NSWindow drag regions should only be invalidated on the Main Thread! This will throw an exception in the future." />
       <item value="it doesn't contain soffice.bin" />
-      <item value="No content to map to Object due to end of input" />
-      <item value="Cannot consume content type" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="224" />
-        <entry key="ENGLISH" value="224" />
+        <entry key="CHINESE" value="225" />
+        <entry key="ENGLISH" value="225" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="2" />

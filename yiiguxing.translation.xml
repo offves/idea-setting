@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="ENTERPRISE" />
+      <item value="选择框" />
+      <item value="下拉框" />
       <item value="营业执照" />
       <item value="third" />
       <item value="拒绝" />
@@ -48,14 +51,11 @@
       <item value="or pre-existing WEB-INF/web.xml if executing in update mode" />
       <item value="Benchmark" />
       <item value="get Org Benchmark Code" />
-      <item value="Data truncation: Data too long for column 'dept_code' at row 1" />
-      <item value="NSWindow drag regions should only be invalidated on the Main Thread! This will throw an exception in the future." />
-      <item value="it doesn't contain soffice.bin" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="225" />
-        <entry key="ENGLISH" value="225" />
+        <entry key="CHINESE" value="228" />
+        <entry key="ENGLISH" value="229" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="2" />

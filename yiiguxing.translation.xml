@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Tried 2 times of the providers" />
       <item value="ENTERPRISE" />
       <item value="选择框" />
       <item value="下拉框" />
@@ -50,12 +51,11 @@
       <item value="on project distword: Error assembling WAR: webxml attribute is required (or pre-existing WEB-INF/web.xml if executing in update mode" />
       <item value="or pre-existing WEB-INF/web.xml if executing in update mode" />
       <item value="Benchmark" />
-      <item value="get Org Benchmark Code" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="228" />
-        <entry key="ENGLISH" value="229" />
+        <entry key="CHINESE" value="229" />
+        <entry key="ENGLISH" value="230" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="2" />

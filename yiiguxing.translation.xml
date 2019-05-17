@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="签约对方单位" />
+      <item value="获取签约对方单位" />
+      <item value="get Sing Other Company" />
       <item value="You must use at least one, but no more than one http method annotation on" />
       <item value="枢纽中心" />
       <item value="get Business Dept" />
@@ -48,14 +51,11 @@
       <item value="lebal" />
       <item value="表单" />
       <item value="Form Field" />
-      <item value="字段" />
-      <item value="Filed" />
-      <item value="Form Filed" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="234" />
-        <entry key="ENGLISH" value="235" />
+        <entry key="CHINESE" value="238" />
+        <entry key="ENGLISH" value="238" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="2" />

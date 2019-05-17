@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="You must use at least one, but no more than one http method annotation on" />
       <item value="枢纽中心" />
       <item value="get Business Dept" />
       <item value="暂存" />
@@ -50,12 +51,11 @@
       <item value="字段" />
       <item value="Filed" />
       <item value="Form Filed" />
-      <item value="Digital partner" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="234" />
-        <entry key="ENGLISH" value="234" />
+        <entry key="ENGLISH" value="235" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="2" />

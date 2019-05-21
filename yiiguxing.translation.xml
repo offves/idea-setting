@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="mode Id" />
       <item value="from" />
       <item value="form" />
       <item value="generating Contract" />
@@ -50,12 +51,11 @@
       <item value="客户" />
       <item value="Custom" />
       <item value="Custom Type Enum" />
-      <item value="已终止" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="258" />
-        <entry key="ENGLISH" value="259" />
+        <entry key="CHINESE" value="259" />
+        <entry key="ENGLISH" value="260" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="2" />

@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="generating Contract" />
+      <item value="get Department Id By Code" />
+      <item value="Stand" />
+      <item value="dept Stand Code" />
       <item value="生成合同" />
       <item value="纸质" />
       <item value="electronic" />
@@ -47,15 +51,11 @@
       <item value="已终止" />
       <item value="已失效" />
       <item value="已生效" />
-      <item value="未生效" />
-      <item value="未提交" />
-      <item value="终止" />
-      <item value="变更" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="250" />
-        <entry key="ENGLISH" value="251" />
+        <entry key="CHINESE" value="256" />
+        <entry key="ENGLISH" value="257" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="2" />

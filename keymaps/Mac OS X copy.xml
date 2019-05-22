@@ -214,6 +214,10 @@
   <action id="StringManipulation.ToSnakeCaseOrCamelCase">
     <keyboard-shortcut first-keystroke="ctrl x" />
   </action>
+  <action id="SurroundWith">
+    <keyboard-shortcut first-keystroke="meta alt t" />
+    <keyboard-shortcut first-keystroke="alt t" />
+  </action>
   <action id="ToggleDistractionFreeMode">
     <keyboard-shortcut first-keystroke="ctrl d" />
   </action>

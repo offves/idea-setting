@@ -1,8 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="大写" />
+      <item value="generating" />
       <item value="generating Contract" />
+      <item value="大写" />
       <item value="mode Id" />
       <item value="from" />
       <item value="form" />
@@ -50,12 +51,11 @@
       <item value="NEWSIGN" />
       <item value="customer" />
       <item value="客户" />
-      <item value="Custom" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="260" />
-        <entry key="ENGLISH" value="261" />
+        <entry key="CHINESE" value="262" />
+        <entry key="ENGLISH" value="263" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="2" />

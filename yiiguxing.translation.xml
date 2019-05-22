@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="大写" />
       <item value="generating Contract" />
       <item value="mode Id" />
       <item value="from" />
@@ -50,7 +51,6 @@
       <item value="customer" />
       <item value="客户" />
       <item value="Custom" />
-      <item value="Custom Type Enum" />
     </histories>
     <option name="languageScores">
       <map>

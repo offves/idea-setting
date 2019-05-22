@@ -199,6 +199,18 @@
   <action id="SplitVertically">
     <keyboard-shortcut first-keystroke="shift ctrl v" />
   </action>
+  <action id="StringManipulation.SwitchStyleAction">
+    <keyboard-shortcut first-keystroke="ctrl s" />
+  </action>
+  <action id="StringManipulation.ToPascalCaseOrCamelCase">
+    <keyboard-shortcut first-keystroke="ctrl x" />
+  </action>
+  <action id="StringManipulation.ToSentenceCaseOrCamelCase">
+    <keyboard-shortcut first-keystroke="ctrl x" />
+  </action>
+  <action id="StringManipulation.ToSnakeCaseOrCamelCase">
+    <keyboard-shortcut first-keystroke="ctrl x" />
+  </action>
   <action id="ToggleDistractionFreeMode">
     <keyboard-shortcut first-keystroke="ctrl d" />
   </action>
@@ -211,5 +223,11 @@
   </action>
   <action id="ViewSource" />
   <action id="openAssertEqualsDiff" />
+  <action id="osmedile.intellij.stringmanip.ToCamelCaseAction">
+    <keyboard-shortcut first-keystroke="ctrl x" />
+  </action>
+  <action id="osmedile.intellij.stringmanip.styles.ToCamelCaseOrToWordLowercaseAction">
+    <keyboard-shortcut first-keystroke="ctrl x" />
+  </action>
   <action id="tasks.close" />
 </keymap>

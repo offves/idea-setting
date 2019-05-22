@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="provided" />
       <item value="flag" />
       <item value="generating" />
       <item value="generating Contract" />
@@ -50,12 +51,11 @@
       <item value="个人" />
       <item value="企业" />
       <item value="NEWSIGN" />
-      <item value="customer" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="263" />
-        <entry key="ENGLISH" value="264" />
+        <entry key="CHINESE" value="264" />
+        <entry key="ENGLISH" value="265" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="2" />

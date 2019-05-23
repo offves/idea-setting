@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="新签合同" />
+      <item value="Contract" />
       <item value="get Contract Detail" />
       <item value="合伙人合同" />
       <item value="Contract Dto" />
@@ -49,13 +51,11 @@
       <item value="营业执照" />
       <item value="third" />
       <item value="拒绝" />
-      <item value="审批拒绝" />
-      <item value="审批同意" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="267" />
-        <entry key="ENGLISH" value="268" />
+        <entry key="CHINESE" value="268" />
+        <entry key="ENGLISH" value="269" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="2" />

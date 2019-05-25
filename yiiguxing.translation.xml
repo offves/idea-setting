@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="flag" />
       <item value="Result Maps collection already contains value for com.deppon.module.infrastructure.persistence.dao.master.PartnerContractDao.BaseResultMap" />
       <item value="workflow End Function" />
       <item value="次数" />
@@ -19,7 +20,6 @@
       <item value="get Formfields For Template Id" />
       <item value="juli" />
       <item value="provided" />
-      <item value="flag" />
       <item value="generating" />
       <item value="generating Contract" />
       <item value="大写" />

@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="data" />
+      <item value="Online" />
       <item value="The value may indicate a suggestion for a logical component name, * to be turned into a Spring bean in case of an autodetected component" />
       <item value="操作" />
       <item value="flag" />
@@ -49,8 +51,6 @@
       <item value="签约对方单位" />
       <item value="获取签约对方单位" />
       <item value="get Sing Other Company" />
-      <item value="You must use at least one, but no more than one http method annotation on" />
-      <item value="枢纽中心" />
     </histories>
     <option name="languageScores">
       <map>
@@ -69,6 +69,11 @@
     </option>
   </component>
   <component name="Settings">
+    <option name="googleTranslateSettings">
+      <google-translate>
+        <option name="primaryLanguage" value="CHINESE" />
+      </google-translate>
+    </option>
     <option name="ignoreRegExp" value="" />
   </component>
 </application>

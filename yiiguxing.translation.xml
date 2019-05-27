@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="message Manager" />
+      <item value="message" />
+      <item value="SUCCESS" />
+      <item value="The request failed. Connection is still allocated" />
       <item value="str" />
       <item value="xcs" />
       <item value="X 509 Certificate" />
@@ -47,15 +51,11 @@
       <item value="iseleccontract" />
       <item value="sign Other Company Code" />
       <item value="sign" />
-      <item value="sing Other Company Code" />
-      <item value="CHARGEINDEPARTMENT" />
-      <item value="for Each Remaining" />
-      <item value="The action to be performed for each element" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="279" />
-        <entry key="ENGLISH" value="280" />
+        <entry key="ENGLISH" value="283" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="2" />
@@ -69,6 +69,11 @@
     </option>
   </component>
   <component name="Settings">
+    <option name="googleTranslateSettings">
+      <google-translate>
+        <option name="primaryLanguage" value="CHINESE" />
+      </google-translate>
+    </option>
     <option name="ignoreRegExp" value="" />
   </component>
 </application>

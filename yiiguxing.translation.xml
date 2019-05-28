@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Form Field Type Enum" />
+      <item value="From" />
+      <item value="From Field Type Enum" />
       <item value="get Sing Other Company List" />
       <item value="org Benchmark Code" />
       <item value="Big Decimal" />
@@ -48,14 +51,11 @@
       <item value="mode Id" />
       <item value="from" />
       <item value="form" />
-      <item value="get Department Id By Code" />
-      <item value="Stand" />
-      <item value="dept Stand Code" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="287" />
-        <entry key="ENGLISH" value="291" />
+        <entry key="CHINESE" value="290" />
+        <entry key="ENGLISH" value="294" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="2" />
@@ -69,12 +69,6 @@
     </option>
   </component>
   <component name="Settings">
-    <option name="googleTranslateSettings">
-      <google-translate>
-        <option name="primaryLanguage" value="CHINESE" />
-        <option name="useTranslateGoogleCom" value="false" />
-      </google-translate>
-    </option>
     <option name="ignoreRegExp" value="" />
   </component>
 </application>

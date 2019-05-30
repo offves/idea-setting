@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="准备预览文件" />
       <item value="预览" />
       <item value="group Ordering" />
       <item value="Form Field Type Enum" />
@@ -50,7 +51,6 @@
       <item value="generating" />
       <item value="generating Contract" />
       <item value="大写" />
-      <item value="mode Id" />
     </histories>
     <option name="languageScores">
       <map>

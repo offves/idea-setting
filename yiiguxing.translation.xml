@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Error response from daemon: Dockerfile parse error line 3: ADD requires at least two arguments, but only one was provided. Destination could not be determined." />
       <item value="准备预览文件" />
       <item value="预览" />
       <item value="group Ordering" />
@@ -50,11 +51,10 @@
       <item value="provided" />
       <item value="generating" />
       <item value="generating Contract" />
-      <item value="大写" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="291" />
+        <entry key="CHINESE" value="292" />
         <entry key="ENGLISH" value="295" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="1" />

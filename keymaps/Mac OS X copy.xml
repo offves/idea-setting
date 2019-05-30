@@ -22,6 +22,9 @@
   </action>
   <action id="ActivateFavoritesToolWindow" />
   <action id="ActivateFindToolWindow" />
+  <action id="ActivateGradleToolWindow">
+    <keyboard-shortcut first-keystroke="alt 4" />
+  </action>
   <action id="ActivateMavenToolWindow">
     <keyboard-shortcut first-keystroke="meta 5" />
     <keyboard-shortcut first-keystroke="alt 3" />

@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Indicates one or more @Configuration classes to import. Provides functionality equivalent to the &lt;import/&gt; element in Spring XML. Allows for importing @Configuration classes, ImportSelector and ImportBeanDefinitionRegistrar implementations, as well as regular component classes (as of 4.2; analogous to AnnotationConfigApplicationContext.register). @Bean definitions declared in imported @Configuration classes should be accessed by using @Autowired injection. Either the bean itself can be autowired, or the configuration class instance declaring the bean can be autowired. The latter approach allows for explicit, IDE-friendly navigation between @Configuration class methods. May be declared at the class level or as a meta-annotation. If XML or other non-@Configuration bean definition resources need to be imported, use the @ImportResource annotation instead" />
+      <item value="Indicates one or more @Configuration classes to import.&#10;Provides functionality equivalent to the &lt;import/&gt; element in Spring XML. Allows for importing @Configuration classes, ImportSelector and ImportBeanDefinitionRegistrar implementations, as well as regular component classes (as of 4.2; analogous to AnnotationConfigApplicationContext.register).&#10;@Bean definitions declared in imported @Configuration classes should be accessed by using @Autowired injection. Either the bean itself can be autowired, or the configuration class instance declaring the bean can be autowired. The latter approach allows for explicit, IDE-friendly navigation between @Configuration class methods.&#10;May be declared at the class level or as a meta-annotation.&#10;If XML or other non-@Configuration bean definition resources need to be imported, use the @ImportResource annotation instead" />
+      <item value="Beams" />
+      <item value="Indicates one or more @Configuration classes to import. Provides functionality equivalent to the &lt;import/&gt; element in Spring XML. Allows for importing @Configuration classes, ImportSelector and ImportBeanDefinitionRegistrar implementations, as well as regular component classes (as of 4.2; analogous to AnnotationConfigApplicationContext.register). @Bean definitions declared in imported @Configuration classes should be accessed by using @Autowired injection. Either the bean itself can be autowired, or the configuration class instance declaring the bean can be autowired. The latter approach allows for explicit, IDE-friendly navigation between @Configuration class methods. May be declared at the class level or as a meta-annotation. If XML or other non-@Configuration bean definition resources need to be imported, use the @ImportResource annotation instead." />
+      <item value="Indicates one or more @Configuration classes to import.&#10;Provides functionality equivalent to the &lt;import/&gt; element in Spring XML. Allows for importing @Configuration classes, ImportSelector and ImportBeanDefinitionRegistrar implementations, as well as regular component classes (as of 4.2; analogous to AnnotationConfigApplicationContext.register).&#10;@Bean definitions declared in imported @Configuration classes should be accessed by using @Autowired injection. Either the bean itself can be autowired, or the configuration class instance declaring the bean can be autowired. The latter approach allows for explicit, IDE-friendly navigation between @Configuration class methods.&#10;May be declared at the class level or as a meta-annotation.&#10;If XML or other non-@Configuration bean definition resources need to be imported, use the @ImportResource annotation instead." />
       <item value="terms Information" />
       <item value="is not visible from class loader" />
       <item value="function main is undeclared in the main package" />
@@ -46,16 +51,11 @@
       <item value="次数" />
       <item value="get Name For Type" />
       <item value="search With Name" />
-      <item value="sign Type Label" />
-      <item value="update Counterparty" />
-      <item value="contract strategy loaded" />
-      <item value="each Type" />
-      <item value="get Instance" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="302" />
-        <entry key="ENGLISH" value="303" />
+        <entry key="CHINESE" value="304" />
+        <entry key="ENGLISH" value="304" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="2" />

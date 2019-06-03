@@ -1,9 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="is not visible from class loader" />
       <item value="function main is undeclared in the main package" />
       <item value="java.lang.IllegalArgumentException: interface com.deppon.module.api.TransferServiceI is not visible from class loader" />
-      <item value="is not visible from class loader" />
       <item value="expected" />
       <item value="Decode rpc invocation failed" />
       <item value="A query was run and no Result Maps were found for the Mapped Statement" />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="300" />
-        <entry key="ENGLISH" value="301" />
+        <entry key="CHINESE" value="301" />
+        <entry key="ENGLISH" value="302" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="2" />

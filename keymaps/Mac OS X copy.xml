@@ -179,6 +179,7 @@
     <keyboard-shortcut first-keystroke="meta p" />
     <keyboard-shortcut first-keystroke="meta q" />
   </action>
+  <action id="QuickChangeScheme" />
   <action id="QuickJavaDoc">
     <keyboard-shortcut first-keystroke="ctrl j" />
     <mouse-shortcut keystroke="control button2" />

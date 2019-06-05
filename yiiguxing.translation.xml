@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="归档合同" />
       <item value="Support a current transaction, create a new one if none exists. Analogous to EJB transaction attribute of the same name. This is the default setting of a transaction annotation." />
       <item value="Support a current transaction, create a new one if none exists. Analogous to EJB transaction attribute of the same name.&#10;This is the default setting of a transaction annotation." />
       <item value="Support a current transaction, execute non-transactionally if none exists. Analogous to EJB transaction attribute of the same name. Note: For transaction managers with transaction synchronization, PROPAGATION_SUPPORTS is slightly different from no transaction at all, as it defines a transaction scope that synchronization will apply for. As a consequence, the same resources (JDBC Connection, Hibernate Session, etc) will be shared for the entire specified scope. Note that this depends on the actual synchronization configuration of the transaction manager." />
@@ -50,12 +51,11 @@
       <item value="The value may indicate a suggestion for a logical component name, * to be turned into a Spring bean in case of an autodetected component" />
       <item value="操作" />
       <item value="flag" />
-      <item value="Result Maps collection already contains value for com.deppon.module.infrastructure.persistence.dao.master.PartnerContractDao.BaseResultMap" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="304" />
-        <entry key="ENGLISH" value="304" />
+        <entry key="ENGLISH" value="305" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="2" />

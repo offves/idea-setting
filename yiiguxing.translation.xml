@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="seal" />
       <item value="is Has Account" />
       <item value="link Man 1" />
       <item value="company Stand Code" />
@@ -50,11 +51,10 @@
       <item value="curr" />
       <item value="serial Version UID" />
       <item value="get Amount" />
-      <item value="get Rate" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="328" />
+        <entry key="CHINESE" value="329" />
         <entry key="ENGLISH" value="329" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="1" />

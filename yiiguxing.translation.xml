@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="BROADCASTING" />
+      <item value="CLUSTERING" />
       <item value="seal" />
       <item value="is Has Account" />
       <item value="link Man 1" />
@@ -49,13 +51,11 @@
       <item value="Big Decimal" />
       <item value="multiply" />
       <item value="curr" />
-      <item value="serial Version UID" />
-      <item value="get Amount" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="329" />
-        <entry key="ENGLISH" value="329" />
+        <entry key="CHINESE" value="330" />
+        <entry key="ENGLISH" value="331" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="2" />

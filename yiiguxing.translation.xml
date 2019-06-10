@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="dubbo-cluster" />
+      <item value="cluster" />
       <item value="子节点" />
       <item value="归档合同" />
       <item value="Support a current transaction, create a new one if none exists. Analogous to EJB transaction attribute of the same name. This is the default setting of a transaction annotation." />
@@ -49,13 +51,11 @@
       <item value="耗时" />
       <item value="data" />
       <item value="Online" />
-      <item value="The value may indicate a suggestion for a logical component name, * to be turned into a Spring bean in case of an autodetected component" />
-      <item value="操作" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="304" />
-        <entry key="ENGLISH" value="305" />
+        <entry key="CHINESE" value="306" />
+        <entry key="ENGLISH" value="307" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="2" />

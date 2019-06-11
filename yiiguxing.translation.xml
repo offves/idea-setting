@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="special" />
+      <item value="specialapplication" />
+      <item value="will not be managed by Spring" />
       <item value="簇" />
       <item value="cluster" />
       <item value="instance must be started before calling this method" />
@@ -48,14 +51,11 @@
       <item value="Form Field Type Enum" />
       <item value="From" />
       <item value="From Field Type Enum" />
-      <item value="get Sing Other Company List" />
-      <item value="org Benchmark Code" />
-      <item value="Big Decimal" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="333" />
-        <entry key="ENGLISH" value="333" />
+        <entry key="CHINESE" value="335" />
+        <entry key="ENGLISH" value="336" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="2" />

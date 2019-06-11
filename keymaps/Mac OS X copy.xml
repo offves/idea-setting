@@ -16,6 +16,9 @@
     <keyboard-shortcut first-keystroke="alt z" />
     <keyboard-shortcut first-keystroke="ctrl z" />
   </action>
+  <action id="ActivateDatabaseConsoleToolWindow">
+    <keyboard-shortcut first-keystroke="meta 4" />
+  </action>
   <action id="ActivateDatabaseToolWindow">
     <keyboard-shortcut first-keystroke="alt 2" />
   </action>
@@ -29,9 +32,6 @@
   </action>
   <action id="ActivateMavenToolWindow">
     <keyboard-shortcut first-keystroke="alt 3" />
-  </action>
-  <action id="ActivateMyBatisSqlLogToolWindow">
-    <keyboard-shortcut first-keystroke="meta 4" />
   </action>
   <action id="ActivateRunToolWindow" />
   <action id="ActivateStructureToolWindow" />

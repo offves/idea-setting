@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <histories>
       <item value="置顶" />
+      <item value="topping" />
+      <item value="取消置顶" />
       <item value="special" />
       <item value="specialapplication" />
       <item value="will not be managed by Spring" />
@@ -49,13 +51,11 @@
       <item value="准备预览文件" />
       <item value="预览" />
       <item value="group Ordering" />
-      <item value="Form Field Type Enum" />
-      <item value="From" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="335" />
-        <entry key="ENGLISH" value="336" />
+        <entry key="CHINESE" value="337" />
+        <entry key="ENGLISH" value="337" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="2" />

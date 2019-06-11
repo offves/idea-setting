@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="簇" />
+      <item value="cluster" />
       <item value="instance must be started before calling this method" />
       <item value="BROADCASTING" />
       <item value="CLUSTERING" />
@@ -18,7 +20,6 @@
       <item value="change Type" />
       <item value="company" />
       <item value="dubbo-cluster" />
-      <item value="cluster" />
       <item value="子节点" />
       <item value="归档合同" />
       <item value="Support a current transaction, create a new one if none exists. Analogous to EJB transaction attribute of the same name. This is the default setting of a transaction annotation." />
@@ -50,12 +51,11 @@
       <item value="get Sing Other Company List" />
       <item value="org Benchmark Code" />
       <item value="Big Decimal" />
-      <item value="multiply" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="331" />
-        <entry key="ENGLISH" value="332" />
+        <entry key="CHINESE" value="333" />
+        <entry key="ENGLISH" value="333" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="2" />

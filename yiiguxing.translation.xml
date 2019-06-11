@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="置顶" />
       <item value="special" />
       <item value="specialapplication" />
       <item value="will not be managed by Spring" />
@@ -50,7 +51,6 @@
       <item value="group Ordering" />
       <item value="Form Field Type Enum" />
       <item value="From" />
-      <item value="From Field Type Enum" />
     </histories>
     <option name="languageScores">
       <map>

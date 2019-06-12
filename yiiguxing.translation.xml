@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="重新" />
+      <item value="renew Add" />
+      <item value="renew Add Department For Error Data" />
+      <item value="重试插入人员数据失败" />
+      <item value="重试插入失败" />
       <item value="Clause" />
       <item value="set Order By Clause" />
       <item value="置顶" />
@@ -46,16 +51,11 @@
       <item value="expected" />
       <item value="Decode rpc invocation failed" />
       <item value="A query was run and no Result Maps were found for the Mapped Statement" />
-      <item value="Fail to decode request due to" />
-      <item value="Pulling is not possible because you have unmerged files. hint: Fix them up in the work tree, and then use 'git add/rm &lt;file&gt;' hint: as appropriate to mark resolution and make a commit. Exiting because of an unresolved conflict." />
-      <item value="docker: Error response from daemon: Conflict. The container name &quot;/con&quot; is already in use by container &quot;320cb55a68b023c0fe008937d1fe6d3698b3cb5329862672f5b7be2350ed4e17&quot;. You have to remove (or rename) that container to be able to reuse that name." />
-      <item value="Error response from daemon: Dockerfile parse error line 3: ADD requires at least two arguments, but only one was provided. Destination could not be determined." />
-      <item value="准备预览文件" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="338" />
-        <entry key="ENGLISH" value="339" />
+        <entry key="CHINESE" value="342" />
+        <entry key="ENGLISH" value="342" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="2" />

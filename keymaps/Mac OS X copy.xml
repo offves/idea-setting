@@ -250,6 +250,9 @@
   </action>
   <action id="Vcs.UpdateProject" />
   <action id="ViewSource" />
+  <action id="io.github.trubitsyn.carbonnowsh.open">
+    <keyboard-shortcut first-keystroke="shift ctrl a" />
+  </action>
   <action id="one.util.ideaplugin.screenshoter.SaveImageAction">
     <keyboard-shortcut first-keystroke="shift ctrl a" />
   </action>

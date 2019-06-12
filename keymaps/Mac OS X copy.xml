@@ -250,6 +250,9 @@
   </action>
   <action id="Vcs.UpdateProject" />
   <action id="ViewSource" />
+  <action id="one.util.ideaplugin.screenshoter.SaveImageAction">
+    <keyboard-shortcut first-keystroke="shift ctrl a" />
+  </action>
   <action id="openAssertEqualsDiff" />
   <action id="osmedile.intellij.stringmanip.ToCamelCaseAction">
     <keyboard-shortcut first-keystroke="ctrl x" />

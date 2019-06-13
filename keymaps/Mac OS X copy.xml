@@ -142,8 +142,7 @@
     <keyboard-shortcut first-keystroke="meta t" />
   </action>
   <action id="GotoSuperMethod">
-    <keyboard-shortcut first-keystroke="meta u" />
-    <keyboard-shortcut first-keystroke="shift meta t" />
+    <keyboard-shortcut first-keystroke="alt t" />
   </action>
   <action id="GotoTest" />
   <action id="Graph.ActualSize">
@@ -235,8 +234,7 @@
     <keyboard-shortcut first-keystroke="ctrl x" />
   </action>
   <action id="SurroundWith">
-    <keyboard-shortcut first-keystroke="meta alt t" />
-    <keyboard-shortcut first-keystroke="alt t" />
+    <keyboard-shortcut first-keystroke="alt r" />
   </action>
   <action id="ToggleDistractionFreeMode">
     <keyboard-shortcut first-keystroke="ctrl d" />
@@ -248,7 +246,9 @@
   <action id="Vcs.ShowTabbedFileHistory">
     <keyboard-shortcut first-keystroke="meta alt s" />
   </action>
-  <action id="Vcs.UpdateProject" />
+  <action id="Vcs.UpdateProject">
+    <keyboard-shortcut first-keystroke="meta u" />
+  </action>
   <action id="ViewSource" />
   <action id="io.github.trubitsyn.carbonnowsh.open">
     <keyboard-shortcut first-keystroke="shift ctrl a" />

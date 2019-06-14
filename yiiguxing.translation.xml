@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="is Trusted" />
       <item value="un Topping" />
       <item value="set Type Order" />
       <item value="knowledge Base Manager" />
@@ -50,12 +51,11 @@
       <item value="terms Information" />
       <item value="is not visible from class loader" />
       <item value="function main is undeclared in the main package" />
-      <item value="java.lang.IllegalArgumentException: interface com.deppon.module.api.TransferServiceI is not visible from class loader" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="345" />
-        <entry key="ENGLISH" value="345" />
+        <entry key="ENGLISH" value="346" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="2" />

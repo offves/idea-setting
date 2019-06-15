@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Manager" />
+      <item value="get Manager By Emp Code" />
       <item value="failed" />
       <item value="fail" />
       <item value="失败" />
@@ -49,13 +51,11 @@
       <item value="归档合同" />
       <item value="Support a current transaction, create a new one if none exists. Analogous to EJB transaction attribute of the same name. This is the default setting of a transaction annotation." />
       <item value="Support a current transaction, create a new one if none exists. Analogous to EJB transaction attribute of the same name.&#10;This is the default setting of a transaction annotation." />
-      <item value="Support a current transaction, execute non-transactionally if none exists. Analogous to EJB transaction attribute of the same name. Note: For transaction managers with transaction synchronization, PROPAGATION_SUPPORTS is slightly different from no transaction at all, as it defines a transaction scope that synchronization will apply for. As a consequence, the same resources (JDBC Connection, Hibernate Session, etc) will be shared for the entire specified scope. Note that this depends on the actual synchronization configuration of the transaction manager." />
-      <item value="Support a current transaction, execute non-transactionally if none exists. Analogous to EJB transaction attribute of the same name.&#10;Note: For transaction managers with transaction synchronization, PROPAGATION_SUPPORTS is slightly different from no transaction at all, as it defines a transaction scope that synchronization will apply for. As a consequence, the same resources (JDBC Connection, Hibernate Session, etc) will be shared for the entire specified scope. Note that this depends on the actual synchronization configuration of the transaction manager." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="349" />
-        <entry key="ENGLISH" value="350" />
+        <entry key="CHINESE" value="351" />
+        <entry key="ENGLISH" value="352" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="2" />

@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="failed" />
+      <item value="fail" />
+      <item value="失败" />
+      <item value="filaed" />
       <item value="offves" />
       <item value="records specialist" />
       <item value="档案专员" />
@@ -47,15 +51,11 @@
       <item value="Support a current transaction, create a new one if none exists. Analogous to EJB transaction attribute of the same name.&#10;This is the default setting of a transaction annotation." />
       <item value="Support a current transaction, execute non-transactionally if none exists. Analogous to EJB transaction attribute of the same name. Note: For transaction managers with transaction synchronization, PROPAGATION_SUPPORTS is slightly different from no transaction at all, as it defines a transaction scope that synchronization will apply for. As a consequence, the same resources (JDBC Connection, Hibernate Session, etc) will be shared for the entire specified scope. Note that this depends on the actual synchronization configuration of the transaction manager." />
       <item value="Support a current transaction, execute non-transactionally if none exists. Analogous to EJB transaction attribute of the same name.&#10;Note: For transaction managers with transaction synchronization, PROPAGATION_SUPPORTS is slightly different from no transaction at all, as it defines a transaction scope that synchronization will apply for. As a consequence, the same resources (JDBC Connection, Hibernate Session, etc) will be shared for the entire specified scope. Note that this depends on the actual synchronization configuration of the transaction manager." />
-      <item value="Indicates one or more @Configuration classes to import. Provides functionality equivalent to the &lt;import/&gt; element in Spring XML. Allows for importing @Configuration classes, ImportSelector and ImportBeanDefinitionRegistrar implementations, as well as regular component classes (as of 4.2; analogous to AnnotationConfigApplicationContext.register). @Bean definitions declared in imported @Configuration classes should be accessed by using @Autowired injection. Either the bean itself can be autowired, or the configuration class instance declaring the bean can be autowired. The latter approach allows for explicit, IDE-friendly navigation between @Configuration class methods. May be declared at the class level or as a meta-annotation. If XML or other non-@Configuration bean definition resources need to be imported, use the @ImportResource annotation instead" />
-      <item value="Indicates one or more @Configuration classes to import.&#10;Provides functionality equivalent to the &lt;import/&gt; element in Spring XML. Allows for importing @Configuration classes, ImportSelector and ImportBeanDefinitionRegistrar implementations, as well as regular component classes (as of 4.2; analogous to AnnotationConfigApplicationContext.register).&#10;@Bean definitions declared in imported @Configuration classes should be accessed by using @Autowired injection. Either the bean itself can be autowired, or the configuration class instance declaring the bean can be autowired. The latter approach allows for explicit, IDE-friendly navigation between @Configuration class methods.&#10;May be declared at the class level or as a meta-annotation.&#10;If XML or other non-@Configuration bean definition resources need to be imported, use the @ImportResource annotation instead" />
-      <item value="Beams" />
-      <item value="Indicates one or more @Configuration classes to import. Provides functionality equivalent to the &lt;import/&gt; element in Spring XML. Allows for importing @Configuration classes, ImportSelector and ImportBeanDefinitionRegistrar implementations, as well as regular component classes (as of 4.2; analogous to AnnotationConfigApplicationContext.register). @Bean definitions declared in imported @Configuration classes should be accessed by using @Autowired injection. Either the bean itself can be autowired, or the configuration class instance declaring the bean can be autowired. The latter approach allows for explicit, IDE-friendly navigation between @Configuration class methods. May be declared at the class level or as a meta-annotation. If XML or other non-@Configuration bean definition resources need to be imported, use the @ImportResource annotation instead." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="348" />
-        <entry key="ENGLISH" value="348" />
+        <entry key="CHINESE" value="349" />
+        <entry key="ENGLISH" value="350" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="2" />
@@ -63,6 +63,7 @@
         <entry key="GUJARATI" value="1" />
         <entry key="CZECH" value="1" />
         <entry key="ROMANIAN" value="1" />
+        <entry key="WELSH" value="1" />
         <entry key="GREEK" value="1" />
         <entry key="ITALIAN" value="2" />
       </map>

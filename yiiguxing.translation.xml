@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="update Counterparty Remark" />
       <item value="Manager" />
       <item value="get Manager By Emp Code" />
       <item value="failed" />
@@ -50,12 +51,11 @@
       <item value="子节点" />
       <item value="归档合同" />
       <item value="Support a current transaction, create a new one if none exists. Analogous to EJB transaction attribute of the same name. This is the default setting of a transaction annotation." />
-      <item value="Support a current transaction, create a new one if none exists. Analogous to EJB transaction attribute of the same name.&#10;This is the default setting of a transaction annotation." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="351" />
-        <entry key="ENGLISH" value="352" />
+        <entry key="CHINESE" value="352" />
+        <entry key="ENGLISH" value="353" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="2" />

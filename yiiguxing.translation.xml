@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Benchmark" />
+      <item value="get Org Benchmark Code" />
       <item value="Performs the given action for each remaining element until all elements * have been processed or the action throws an exception. Actions are * performed in the order of iteration, if that order is specified. * Exceptions thrown by the action are relayed to the caller" />
       <item value="update Counterparty Remark" />
       <item value="Manager" />
@@ -49,13 +51,11 @@
       <item value="change Type" />
       <item value="company" />
       <item value="dubbo-cluster" />
-      <item value="子节点" />
-      <item value="归档合同" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="353" />
-        <entry key="ENGLISH" value="354" />
+        <entry key="CHINESE" value="355" />
+        <entry key="ENGLISH" value="356" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="2" />

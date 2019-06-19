@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="金额" />
       <item value="check Persion Two" />
       <item value="flag" />
       <item value="falg" />
@@ -50,11 +51,10 @@
       <item value="company Name" />
       <item value="company Code" />
       <item value="owner Share Rate" />
-      <item value="briefintro" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="361" />
+        <entry key="CHINESE" value="362" />
         <entry key="ENGLISH" value="362" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="2" />

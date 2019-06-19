@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="By" />
+      <item value="For" />
       <item value="idcard" />
       <item value="Benchmark" />
       <item value="get Org Benchmark Code" />
@@ -49,13 +51,11 @@
       <item value="is Seal" />
       <item value="is Working Unit" />
       <item value="legal Person" />
-      <item value="change Type" />
-      <item value="company" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="357" />
-        <entry key="ENGLISH" value="358" />
+        <entry key="CHINESE" value="359" />
+        <entry key="ENGLISH" value="360" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="2" />

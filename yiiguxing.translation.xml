@@ -1,6 +1,20 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="承揽" />
+      <item value="具体任务" />
+      <item value="任务名称" />
+      <item value="各执份数" />
+      <item value="合同份数" />
+      <item value="试用" />
+      <item value="解除合同违约金" />
+      <item value="未履约违约金" />
+      <item value="临时外请差价" />
+      <item value="Monthly aging rate" />
+      <item value="月时效合格率" />
+      <item value="Billing tax" />
+      <item value="开票税额" />
+      <item value="税额" />
       <item value="Foreign contract" />
       <item value="外请合同" />
       <item value="外请" />
@@ -37,25 +51,11 @@
       <item value="renew Add" />
       <item value="renew Add Department For Error Data" />
       <item value="重试插入人员数据失败" />
-      <item value="重试插入失败" />
-      <item value="Clause" />
-      <item value="set Order By Clause" />
-      <item value="置顶" />
-      <item value="topping" />
-      <item value="取消置顶" />
-      <item value="special" />
-      <item value="specialapplication" />
-      <item value="will not be managed by Spring" />
-      <item value="簇" />
-      <item value="cluster" />
-      <item value="instance must be started before calling this method" />
-      <item value="BROADCASTING" />
-      <item value="CLUSTERING" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="368" />
-        <entry key="ENGLISH" value="368" />
+        <entry key="CHINESE" value="370" />
+        <entry key="ENGLISH" value="371" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="FRENCH" value="2" />

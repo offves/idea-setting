@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Foreign contract" />
+      <item value="外请合同" />
+      <item value="外请" />
       <item value="properties" />
       <item value="ctx" />
       <item value="Application Context" />
@@ -48,13 +51,10 @@
       <item value="instance must be started before calling this method" />
       <item value="BROADCASTING" />
       <item value="CLUSTERING" />
-      <item value="seal" />
-      <item value="is Has Account" />
-      <item value="link Man 1" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="367" />
+        <entry key="CHINESE" value="368" />
         <entry key="ENGLISH" value="368" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="2" />

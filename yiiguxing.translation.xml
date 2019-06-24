@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="转让" />
       <item value="承揽" />
       <item value="具体任务" />
       <item value="任务名称" />
@@ -50,11 +51,10 @@
       <item value="重新" />
       <item value="renew Add" />
       <item value="renew Add Department For Error Data" />
-      <item value="重试插入人员数据失败" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="370" />
+        <entry key="CHINESE" value="371" />
         <entry key="ENGLISH" value="371" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="2" />

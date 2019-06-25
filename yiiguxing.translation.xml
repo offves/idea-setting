@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="signingourunit" />
       <item value="Package should contain a content type part [M1.13]" />
       <item value="Invalid Format Exception" />
       <item value="Package should contain a content type part" />
@@ -50,7 +51,6 @@
       <item value="is Trusted" />
       <item value="un Topping" />
       <item value="set Type Order" />
-      <item value="knowledge Base Manager" />
     </histories>
     <option name="languageScores">
       <map>

@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="external" />
       <item value="e" />
       <item value="cluster" />
       <item value="search" />
@@ -50,12 +51,11 @@
       <item value="filaed" />
       <item value="offves" />
       <item value="records specialist" />
-      <item value="档案专员" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="377" />
-        <entry key="ENGLISH" value="377" />
+        <entry key="ENGLISH" value="378" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="FRENCH" value="2" />

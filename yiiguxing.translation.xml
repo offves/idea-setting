@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Stamp Information Entity" />
       <item value="Callback used to run the bean" />
       <item value="get Headquarters" />
       <item value="archives" />
@@ -50,12 +51,11 @@
       <item value="update Counterparty Remark" />
       <item value="Manager" />
       <item value="get Manager By Emp Code" />
-      <item value="failed" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="379" />
-        <entry key="ENGLISH" value="380" />
+        <entry key="CHINESE" value="380" />
+        <entry key="ENGLISH" value="381" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="FRENCH" value="2" />

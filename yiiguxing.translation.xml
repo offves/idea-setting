@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Default File Rename Policy" />
       <item value="Stamp Information Entity" />
       <item value="Callback used to run the bean" />
       <item value="get Headquarters" />
@@ -50,12 +51,11 @@
       <item value="Performs the given action for each remaining element until all elements * have been processed or the action throws an exception. Actions are * performed in the order of iteration, if that order is specified. * Exceptions thrown by the action are relayed to the caller" />
       <item value="update Counterparty Remark" />
       <item value="Manager" />
-      <item value="get Manager By Emp Code" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="380" />
-        <entry key="ENGLISH" value="381" />
+        <entry key="CHINESE" value="381" />
+        <entry key="ENGLISH" value="382" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="FRENCH" value="2" />

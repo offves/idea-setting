@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Not enough variable values available to expand 'workflowId'" />
       <item value="belongpage" />
       <item value="Internal Server Error" />
       <item value="Default File Rename Policy" />
@@ -50,12 +51,11 @@
       <item value="idcard" />
       <item value="Benchmark" />
       <item value="get Org Benchmark Code" />
-      <item value="Performs the given action for each remaining element until all elements * have been processed or the action throws an exception. Actions are * performed in the order of iteration, if that order is specified. * Exceptions thrown by the action are relayed to the caller" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="383" />
-        <entry key="ENGLISH" value="384" />
+        <entry key="CHINESE" value="384" />
+        <entry key="ENGLISH" value="385" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="FRENCH" value="2" />

@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="ratepayer" />
+      <item value="ratepayerNum" />
       <item value="executor" />
       <item value="Not enough variable values available to expand 'workflowId'" />
       <item value="belongpage" />
@@ -49,12 +51,10 @@
       <item value="falg" />
       <item value="By" />
       <item value="For" />
-      <item value="idcard" />
-      <item value="Benchmark" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="385" />
+        <entry key="CHINESE" value="386" />
         <entry key="ENGLISH" value="386" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="2" />

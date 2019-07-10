@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="bank Three" />
+      <item value="三" />
       <item value="Business Exception" />
       <item value="Business Execption" />
       <item value="select Workflow Complete Count Byoriginal Contract Num" />
@@ -49,13 +51,11 @@
       <item value="Billing tax" />
       <item value="开票税额" />
       <item value="税额" />
-      <item value="Foreign contract" />
-      <item value="外请合同" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="392" />
-        <entry key="ENGLISH" value="393" />
+        <entry key="CHINESE" value="393" />
+        <entry key="ENGLISH" value="394" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="FRENCH" value="2" />

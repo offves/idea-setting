@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Institution ID" />
       <item value="bank Three" />
       <item value="三" />
       <item value="Business Exception" />
@@ -50,12 +51,11 @@
       <item value="月时效合格率" />
       <item value="Billing tax" />
       <item value="开票税额" />
-      <item value="税额" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="393" />
-        <entry key="ENGLISH" value="394" />
+        <entry key="CHINESE" value="394" />
+        <entry key="ENGLISH" value="395" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="FRENCH" value="2" />

@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The valid characters are defined in RFC 7230 and RFC 3986" />
       <item value="Institution ID" />
       <item value="bank Three" />
       <item value="三" />
@@ -50,7 +51,6 @@
       <item value="Monthly aging rate" />
       <item value="月时效合格率" />
       <item value="Billing tax" />
-      <item value="开票税额" />
     </histories>
     <option name="languageScores">
       <map>

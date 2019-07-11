@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="check Sealer" />
+      <item value="check Sal Data" />
       <item value="The valid characters are defined in RFC 7230 and RFC 3986" />
       <item value="Institution ID" />
       <item value="bank Three" />
@@ -49,13 +51,11 @@
       <item value="未履约违约金" />
       <item value="临时外请差价" />
       <item value="Monthly aging rate" />
-      <item value="月时效合格率" />
-      <item value="Billing tax" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="394" />
-        <entry key="ENGLISH" value="395" />
+        <entry key="CHINESE" value="396" />
+        <entry key="ENGLISH" value="397" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="FRENCH" value="2" />

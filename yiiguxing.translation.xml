@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="父" />
       <item value="子菜单" />
       <item value="整车" />
       <item value="check Sealer" />
@@ -50,7 +51,6 @@
       <item value="合同份数" />
       <item value="试用" />
       <item value="解除合同违约金" />
-      <item value="未履约违约金" />
     </histories>
     <option name="languageScores">
       <map>

@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="IDENTITY" />
       <item value="introduction" />
       <item value="Authentication Token Filter" />
       <item value="Entry Point Unauthorized Handler" />
@@ -13,11 +14,6 @@
     </option>
   </component>
   <component name="Settings">
-    <option name="googleTranslateSettings">
-      <google-translate>
-        <option name="useTranslateGoogleCom" value="false" />
-      </google-translate>
-    </option>
     <option name="ignoreRegExp" value="" />
   </component>
 </application>

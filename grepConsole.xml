@@ -1,12 +1,5 @@
 <application>
   <component name="GrepConsole">
-    <option name="donationNagger">
-      <DonationNagger>
-        <option name="actionsExecuted" value="3" />
-        <option name="firstUsage" value="0" />
-        <option name="firstUsedVersion" value="9.0.162.000.2" />
-      </DonationNagger>
-    </option>
     <option name="profiles">
       <list>
         <Profile>
@@ -90,7 +83,7 @@
               </GrepExpressionGroup>
             </list>
           </option>
-          <option name="id" value="1550282692398" />
+          <option name="id" value="1563076358679" />
           <option name="inputFilterGroups">
             <list>
               <GrepExpressionGroup>

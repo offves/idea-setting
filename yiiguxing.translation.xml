@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="determine" />
       <item value="private String getContractNum" />
       <item value="sign Type" />
       <item value="Outsourcing Po" />
@@ -31,8 +32,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="24" />
-        <entry key="ENGLISH" value="25" />
+        <entry key="CHINESE" value="25" />
+        <entry key="ENGLISH" value="26" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="RUSSIAN" value="1" />
         <entry key="SESOTHO" value="4" />

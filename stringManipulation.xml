@@ -66,5 +66,6 @@
         <option name="collatorLanguageTag" value="zh_CN" />
       </SortSettings>
     </option>
+    <option name="version" value="2" />
   </component>
 </application>

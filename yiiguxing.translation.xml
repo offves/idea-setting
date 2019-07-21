@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="get Generic Interfaces" />
+      <item value="    } " />
+      <item value="    }&#10;" />
       <item value="Bean already defined with the same name" />
       <item value="process Property Place Holders" />
       <item value="set Add To Config" />
@@ -38,8 +41,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="31" />
-        <entry key="ENGLISH" value="32" />
+        <entry key="CHINESE" value="32" />
+        <entry key="ENGLISH" value="33" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="RUSSIAN" value="1" />
         <entry key="SESOTHO" value="4" />

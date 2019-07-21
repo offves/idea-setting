@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="column" />
       <item value="Returns a new {@link Page} with the content of the current one mapped by the given {@link Function}." />
       <item value="Parses the given sort expressions into a {@link Sort} instance. The implementation expects the sources to be a * concatenation of Strings using the given delimiter. If the last element can be parsed into a {@link Direction} it's * considered a {@link Direction} and a simple property otherwise" />
       <item value="select By Condition" />
@@ -49,8 +50,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="41" />
-        <entry key="ENGLISH" value="42" />
+        <entry key="CHINESE" value="42" />
+        <entry key="ENGLISH" value="43" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="RUSSIAN" value="1" />
         <entry key="SESOTHO" value="4" />

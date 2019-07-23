@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The packaging for this project did not assign a file to the build artifact" />
       <item value="ERR invalid expire time in psetex" />
       <item value="could not be instantiated" />
       <item value="Talk is cheap. Show me the code" />
@@ -50,12 +51,11 @@
       <item value="A page is a sublist of a list of objects. It allows gain information about the position of it in the containing * entire list" />
       <item value="At least one property must be given" />
       <item value="IDENTITY" />
-      <item value="introduction" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="48" />
-        <entry key="ENGLISH" value="49" />
+        <entry key="CHINESE" value="49" />
+        <entry key="ENGLISH" value="50" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="RUSSIAN" value="1" />
         <entry key="SESOTHO" value="4" />

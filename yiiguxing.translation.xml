@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Not Contract Service Group" />
       <item value="ngalain" />
       <item value="Global" />
       <item value="Business Exception" />
@@ -50,12 +51,11 @@
       <item value="Username Password Authentication Token" />
       <item value="get Authorities" />
       <item value="directive" />
-      <item value="waves" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="52" />
-        <entry key="ENGLISH" value="52" />
+        <entry key="ENGLISH" value="53" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="RUSSIAN" value="1" />
         <entry key="SESOTHO" value="4" />

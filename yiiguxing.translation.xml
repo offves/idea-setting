@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="confirmed Contract" />
+      <item value="confirmedContract" />
       <item value="Fail to decode request due to" />
       <item value="Not Contract Service Group" />
       <item value="ngalain" />
@@ -49,12 +51,10 @@
       <item value="method Name" />
       <item value="object Mapper" />
       <item value="dispatch" />
-      <item value="Username Password Authentication Token" />
-      <item value="get Authorities" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="53" />
+        <entry key="CHINESE" value="54" />
         <entry key="ENGLISH" value="54" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="RUSSIAN" value="1" />

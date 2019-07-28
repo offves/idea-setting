@@ -163,6 +163,9 @@
     <keyboard-shortcut first-keystroke="alt v" />
   </action>
   <action id="KotlinShellExecute" />
+  <action id="LocalHistory.ShowHistory">
+    <keyboard-shortcut first-keystroke="ctrl alt s" />
+  </action>
   <action id="MethodOverloadSwitchDown" />
   <action id="MethodOverloadSwitchUp" />
   <action id="MoveLineDown">

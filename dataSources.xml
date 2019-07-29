@@ -1,6 +1,6 @@
 <application>
   <component name="dataSourceStorage" format="xml" multifile-model="true">
-    <data-source source="LOCAL" name="cms-test" uuid="fd388b75-9518-4669-9e5b-4eca999a6eca">
+    <data-source source="LOCAL" name="cms@test" uuid="fd388b75-9518-4669-9e5b-4eca999a6eca">
       <driver-ref>mysql.8</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
@@ -24,7 +24,7 @@
         <property name="v$session.program" value="DataGrip" />
       </driver-properties>
     </data-source>
-    <data-source source="LOCAL" name="cms-dev" uuid="7b01b5ef-6234-4fec-8f3d-72853a2a54e4">
+    <data-source source="LOCAL" name="cms@dev" uuid="7b01b5ef-6234-4fec-8f3d-72853a2a54e4">
       <driver-ref>mysql.8</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
@@ -38,7 +38,7 @@
         <property name="yearIsDateType" value="false" />
       </driver-properties>
     </data-source>
-    <data-source source="LOCAL" name="hotel" uuid="1ed60f10-08fb-4317-8c1d-a3d9b5d1abf1">
+    <data-source source="LOCAL" name="maxiao@test" uuid="1ed60f10-08fb-4317-8c1d-a3d9b5d1abf1">
       <driver-ref>mysql.8</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
@@ -52,7 +52,7 @@
         <property name="yearIsDateType" value="false" />
       </driver-properties>
     </data-source>
-    <data-source source="LOCAL" name="maxiao@localhost" uuid="3b82b0a8-b639-45a8-9bfc-dd3546847fc9">
+    <data-source source="LOCAL" name="maxiao@dev" uuid="3b82b0a8-b639-45a8-9bfc-dd3546847fc9">
       <driver-ref>mysql.8</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>

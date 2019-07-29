@@ -1,0 +1,99 @@
+<profile version="1.0">
+  <option name="myName" value="Default copy" />
+  <inspection_tool class="CheckEmptyScriptTag" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="DuplicateCaseLabelJS" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="DuplicatedCode" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+    <Languages>
+      <language minSize="591" name="Java" />
+    </Languages>
+  </inspection_tool>
+  <inspection_tool class="Duplicates" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+    <Java>
+      <minSize>591</minSize>
+      <isEnabled>true</isEnabled>
+    </Java>
+  </inspection_tool>
+  <inspection_tool class="Eslint" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="HtmlUnknownAttribute" enabled="false" level="WARNING" enabled_by_default="false">
+    <option name="myValues">
+      <value>
+        <list size="0" />
+      </value>
+    </option>
+    <option name="myCustomValuesEnabled" value="true" />
+  </inspection_tool>
+  <inspection_tool class="HtmlUnknownBooleanAttribute" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="HtmlUnknownTag" enabled="false" level="WARNING" enabled_by_default="false">
+    <option name="myValues">
+      <value>
+        <list size="6">
+          <item index="0" class="java.lang.String" itemvalue="nobr" />
+          <item index="1" class="java.lang.String" itemvalue="noembed" />
+          <item index="2" class="java.lang.String" itemvalue="comment" />
+          <item index="3" class="java.lang.String" itemvalue="noscript" />
+          <item index="4" class="java.lang.String" itemvalue="embed" />
+          <item index="5" class="java.lang.String" itemvalue="script" />
+        </list>
+      </value>
+    </option>
+    <option name="myCustomValuesEnabled" value="true" />
+  </inspection_tool>
+  <inspection_tool class="JSEqualityComparisonWithCoercion" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="JSJQueryEfficiency" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="JSUnresolvedExtXType" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="JSUnresolvedFunction" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+  <inspection_tool class="JSUnresolvedVariable" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+  <inspection_tool class="JavaDoc" enabled="false" level="WARNING" enabled_by_default="false">
+    <option name="TOP_LEVEL_CLASS_OPTIONS">
+      <value>
+        <option name="ACCESS_JAVADOC_REQUIRED_FOR" value="none" />
+        <option name="REQUIRED_TAGS" value="" />
+      </value>
+    </option>
+    <option name="INNER_CLASS_OPTIONS">
+      <value>
+        <option name="ACCESS_JAVADOC_REQUIRED_FOR" value="none" />
+        <option name="REQUIRED_TAGS" value="" />
+      </value>
+    </option>
+    <option name="METHOD_OPTIONS">
+      <value>
+        <option name="ACCESS_JAVADOC_REQUIRED_FOR" value="none" />
+        <option name="REQUIRED_TAGS" value="@return@param@throws or @exception" />
+      </value>
+    </option>
+    <option name="FIELD_OPTIONS">
+      <value>
+        <option name="ACCESS_JAVADOC_REQUIRED_FOR" value="none" />
+        <option name="REQUIRED_TAGS" value="" />
+      </value>
+    </option>
+    <option name="IGNORE_DEPRECATED" value="false" />
+    <option name="IGNORE_JAVADOC_PERIOD" value="true" />
+    <option name="IGNORE_DUPLICATED_THROWS" value="false" />
+    <option name="IGNORE_POINT_TO_ITSELF" value="false" />
+    <option name="myAdditionalJavadocTags" value="" />
+  </inspection_tool>
+  <inspection_tool class="SerializableHasSerialVersionUIDField" enabled="true" level="WARNING" enabled_by_default="true">
+    <option name="ignoreAnonymousInnerClasses" value="false" />
+    <option name="superClassString" value="java.awt.Component" />
+  </inspection_tool>
+  <inspection_tool class="SpringCacheableComponentsInspection" enabled="false" level="ERROR" enabled_by_default="false" />
+  <inspection_tool class="SpringElInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="SpringJavaAutowiredFieldsWarningInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="SpringJavaAutowiredMembersInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="SpringJavaConstructorAutowiringInspection" enabled="false" level="ERROR" enabled_by_default="false" />
+  <inspection_tool class="SpringJavaInjectionPointsAutowiringInspection" enabled="false" level="ERROR" enabled_by_default="false" />
+  <inspection_tool class="SpringJavaStaticMembersAutowiringInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="SqlDialectInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="SqlNoDataSourceInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="SqlStorageInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="ThymeleafVariablesResolveInspection" enabled="false" level="ERROR" enabled_by_default="false" />
+  <inspection_tool class="UNCHECKED_WARNING" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="UnnecessaryReturnJS" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="UnterminatedStatementJS" enabled="false" level="WARNING" enabled_by_default="false">
+    <option name="ignoreSemicolonAtEndOfBlock" value="true" />
+  </inspection_tool>
+  <inspection_tool class="XmlUnboundNsPrefix" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="XmlUnusedNamespaceDeclaration" enabled="false" level="WARNING" enabled_by_default="false" />
+</profile>

@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="does't annotated with @RelatedQuery" />
+      <item value="annotated" />
+      <item value="annotade" />
+      <item value="annotaed" />
+      <item value="annotationed" />
+      <item value="does't annotation @RelatedQuery" />
+      <item value="does`t @RelatedQuery" />
       <item value="$emit" />
       <item value="leaf" />
       <item value="is Leaf" />
@@ -44,20 +51,14 @@
       <item value="set Add To Config" />
       <item value="set Annotation Class" />
       <item value="set Marker Interface" />
-      <item value="collection To Comma Delimited String" />
-      <item value="determine" />
-      <item value="private String getContractNum" />
-      <item value="sign Type" />
-      <item value="Outsourcing Po" />
-      <item value="po" />
-      <item value="get Sign Type" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="66" />
-        <entry key="ENGLISH" value="67" />
+        <entry key="CHINESE" value="72" />
+        <entry key="ENGLISH" value="73" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="RUSSIAN" value="1" />
+        <entry key="FINNISH" value="1" />
         <entry key="SESOTHO" value="4" />
         <entry key="SUNDANESE" value="1" />
         <entry key="INDONESIAN" value="1" />

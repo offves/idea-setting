@@ -114,6 +114,10 @@
           <option name="url" value="https://github.com/zhangdaiscott/jeecg-boot.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/plutext/docx4j-export-FO.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/projects" />

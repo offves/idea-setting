@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="reason" />
+      <item value="specialreason" />
+      <item value="reson" />
       <item value="limit" />
       <item value="toomany" />
       <item value="ERR ILLAGAL CLIENT" />
@@ -48,14 +51,11 @@
       <item value="Mapped Statements collection does not contain value for com.maxiao.mapper.SysMenuMapper.selectAll" />
       <item value="since its singleton instance has been created too early" />
       <item value="Cannot enhance @Configuration bean definition" />
-      <item value="get Generic Interfaces" />
-      <item value="    } " />
-      <item value="    }&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="75" />
-        <entry key="ENGLISH" value="76" />
+        <entry key="CHINESE" value="77" />
+        <entry key="ENGLISH" value="77" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="RUSSIAN" value="1" />
         <entry key="FINNISH" value="1" />

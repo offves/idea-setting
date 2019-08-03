@@ -7,7 +7,7 @@
         <option name="ifTestStringNullAndEmpty" value="true" />
         <option name="mybatisGeneratorMapperSuffix" value="Dao" />
         <option name="mybatisGeneratorModelSuffix" value="Po" />
-        <option name="tempFilePath" value="/var/folders/8n/_0d1dw6n2nb6qhrwlm7hgp0w0000gn/T/startLearnGo-darwin-10.6-amd64.dylib1520597776475900234" />
+        <option name="tempFilePath" value="/var/folders/8n/_0d1dw6n2nb6qhrwlm7hgp0w0000gn/T/startLearnGo-darwin-10.6-amd64.dylib10263759827006241810" />
         <option name="valid" value="true" />
       </Profile>
     </option>

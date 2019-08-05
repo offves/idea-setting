@@ -141,8 +141,8 @@
   </action>
   <action id="GotoImplementation">
     <keyboard-shortcut first-keystroke="meta alt b" />
-    <mouse-shortcut keystroke="meta alt button1" />
     <keyboard-shortcut first-keystroke="meta t" />
+    <mouse-shortcut keystroke="meta button3" />
   </action>
   <action id="GotoSuperMethod">
     <keyboard-shortcut first-keystroke="alt t" />
@@ -215,6 +215,7 @@
   <action id="ShowIntentionActions">
     <keyboard-shortcut first-keystroke="alt enter" />
     <keyboard-shortcut first-keystroke="meta enter" />
+    <mouse-shortcut keystroke="alt button2" />
   </action>
   <action id="ShowSearchHistory" />
   <action id="SmartTypeCompletion">

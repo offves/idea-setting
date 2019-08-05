@@ -198,6 +198,7 @@
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="shift f6" />
     <keyboard-shortcut first-keystroke="meta r" />
+    <keyboard-shortcut first-keystroke="meta enter" />
   </action>
   <action id="Replace">
     <keyboard-shortcut first-keystroke="shift meta r" />
@@ -215,7 +216,6 @@
   <action id="ShowIntentionActions">
     <keyboard-shortcut first-keystroke="alt enter" />
     <keyboard-shortcut first-keystroke="meta enter" />
-    <mouse-shortcut keystroke="alt button2" />
   </action>
   <action id="ShowSearchHistory" />
   <action id="SmartTypeCompletion">

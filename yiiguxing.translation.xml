@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="EOF Exception" />
       <item value="tranlate" />
       <item value="lebal" />
       <item value="attempting" />
@@ -50,12 +51,11 @@
       <item value="Parses the given sort expressions into a {@link Sort} instance. The implementation expects the sources to be a * concatenation of Strings using the given delimiter. If the last element can be parsed into a {@link Direction} it's * considered a {@link Direction} and a simple property otherwise" />
       <item value="select By Condition" />
       <item value="truncated" />
-      <item value="incomplete Result Maps" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="78" />
-        <entry key="ENGLISH" value="79" />
+        <entry key="CHINESE" value="79" />
+        <entry key="ENGLISH" value="80" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="RUSSIAN" value="1" />
         <entry key="FINNISH" value="1" />

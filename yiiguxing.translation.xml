@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Temporal" />
       <item value="show Search" />
       <item value="com.lowagie.text.DocumentException: Font 'STSong-Light' with 'UniGB-UCS2-H' is not recognized." />
       <item value="is not recognized" />
@@ -50,12 +51,11 @@
       <item value="change Origin" />
       <item value="select List" />
       <item value="MILLISECONDS" />
-      <item value="column" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="82" />
-        <entry key="ENGLISH" value="83" />
+        <entry key="CHINESE" value="83" />
+        <entry key="ENGLISH" value="84" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="RUSSIAN" value="1" />
         <entry key="FINNISH" value="1" />

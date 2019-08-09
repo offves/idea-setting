@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="detail" />
+      <item value="detail 3" />
       <item value="The bucket you are attempting to access must be addressed using the specified endpoint. Please send all future requests to this endpoint" />
       <item value="Connection terminated as request was larger than 10485760" />
       <item value="match If Missing" />
@@ -49,13 +51,11 @@
       <item value="Business Exception" />
       <item value="The packaging for this project did not assign a file to the build artifact" />
       <item value="ERR invalid expire time in psetex" />
-      <item value="could not be instantiated" />
-      <item value="Talk is cheap. Show me the code" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="86" />
-        <entry key="ENGLISH" value="87" />
+        <entry key="CHINESE" value="88" />
+        <entry key="ENGLISH" value="89" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="RUSSIAN" value="1" />
         <entry key="FINNISH" value="1" />

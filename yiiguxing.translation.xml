@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="owner Share Rate" />
       <item value="headquarters" />
       <item value="HEAD QUARTER" />
       <item value="常量" />
@@ -50,12 +51,11 @@
       <item value="to Lower Case" />
       <item value="compute If Absent" />
       <item value="Related" />
-      <item value="put If Absent" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="100" />
-        <entry key="ENGLISH" value="101" />
+        <entry key="CHINESE" value="101" />
+        <entry key="ENGLISH" value="102" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="RUSSIAN" value="1" />
         <entry key="FILIPINO" value="1" />

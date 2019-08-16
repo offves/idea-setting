@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="principal" />
       <item value="STAR" />
       <item value="move" />
       <item value="defaut" />
@@ -50,12 +51,11 @@
       <item value="does't annotated with @RelatedQuery" />
       <item value="annotated" />
       <item value="annotade" />
-      <item value="annotaed" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="106" />
-        <entry key="ENGLISH" value="107" />
+        <entry key="CHINESE" value="107" />
+        <entry key="ENGLISH" value="108" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="RUSSIAN" value="1" />
         <entry key="FRENCH" value="3" />

@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="move" />
+      <item value="defaut" />
+      <item value="defaut Value" />
       <item value="An exceptionCaught() event was fired, and it reached at the tail of the pipeline. It usually means the last handler in the pipeline did not handle the exception" />
       <item value="Do not request a bean from a BeanFactory in a destroy method implementation" />
       <item value="Singleton bean creation not allowed while singletons of this factory are in destruction" />
@@ -48,17 +51,14 @@
       <item value="annotade" />
       <item value="annotaed" />
       <item value="annotationed" />
-      <item value="does't annotation @RelatedQuery" />
-      <item value="does`t @RelatedQuery" />
-      <item value="$emit" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="105" />
+        <entry key="CHINESE" value="106" />
         <entry key="ENGLISH" value="106" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="RUSSIAN" value="1" />
-        <entry key="FRENCH" value="1" />
+        <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="1" />
         <entry key="GUJARATI" value="1" />

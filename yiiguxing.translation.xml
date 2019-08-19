@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="simplify" />
       <item value="MILLISECONDS" />
       <item value="merge" />
       <item value="ng-alain" />
@@ -50,11 +51,10 @@
       <item value="toomany" />
       <item value="ERR ILLAGAL CLIENT" />
       <item value="ERR ORG ACCOUNT REGISTERED" />
-      <item value="ERR PERSON ACCOUNT REGISTERED" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="108" />
+        <entry key="CHINESE" value="109" />
         <entry key="ENGLISH" value="109" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="RUSSIAN" value="1" />

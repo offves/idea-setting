@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="merge" />
       <item value="ng-alain" />
       <item value="principal" />
       <item value="STAR" />
@@ -50,7 +51,6 @@
       <item value="ERR ORG ACCOUNT REGISTERED" />
       <item value="ERR PERSON ACCOUNT REGISTERED" />
       <item value="does't annotated with @RelatedQuery" />
-      <item value="annotated" />
     </histories>
     <option name="languageScores">
       <map>

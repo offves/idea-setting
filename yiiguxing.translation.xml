@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="token is illegal" />
+      <item value="invalidated" />
+      <item value="invalidate" />
+      <item value="过期" />
+      <item value="非法" />
       <item value="simplify" />
       <item value="MILLISECONDS" />
       <item value="merge" />
@@ -46,16 +51,11 @@
       <item value="attempting" />
       <item value="reason" />
       <item value="specialreason" />
-      <item value="reson" />
-      <item value="limit" />
-      <item value="toomany" />
-      <item value="ERR ILLAGAL CLIENT" />
-      <item value="ERR ORG ACCOUNT REGISTERED" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="109" />
-        <entry key="ENGLISH" value="109" />
+        <entry key="CHINESE" value="113" />
+        <entry key="ENGLISH" value="114" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="RUSSIAN" value="1" />
         <entry key="FRENCH" value="3" />

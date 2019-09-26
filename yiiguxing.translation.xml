@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="jetbrains" />
+      <item value="未读" />
       <item value="未发布" />
       <item value="publish" />
       <item value="高" />
@@ -49,13 +51,11 @@
       <item value="detail" />
       <item value="detail 3" />
       <item value="The bucket you are attempting to access must be addressed using the specified endpoint. Please send all future requests to this endpoint" />
-      <item value="Connection terminated as request was larger than 10485760" />
-      <item value="match If Missing" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="123" />
-        <entry key="ENGLISH" value="123" />
+        <entry key="CHINESE" value="124" />
+        <entry key="ENGLISH" value="125" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="RUSSIAN" value="1" />
         <entry key="FRENCH" value="3" />

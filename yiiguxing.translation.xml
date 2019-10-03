@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="formatter" />
       <item value="finished with non-zero exit value 1" />
       <item value="discount" />
       <item value="discount Card Id" />
@@ -50,11 +51,10 @@
       <item value="Execute the annotated method with a fixed period in milliseconds between the * end of the last invocation and the start of the next" />
       <item value="the period between successive executions" />
       <item value="period" />
-      <item value="dto" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="127" />
+        <entry key="CHINESE" value="128" />
         <entry key="ENGLISH" value="128" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="RUSSIAN" value="1" />

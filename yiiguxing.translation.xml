@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="应付款" />
+      <item value="应付" />
+      <item value="Compares this {@code BigDecimal} with the specified * {@code BigDecimal}. Two {@code BigDecimal} objects that are * equal in value but have a different scale (like 2.0 and 2.00) * are considered equal by this method. This method is provided * in preference to individual methods for each of the six boolean * comparison operators ({@literal &lt;}, ==, * {@literal &gt;}, {@literal &gt;=}, !=, {@literal &lt;=}). The * suggested idiom for performing these comparisons is: * {@code (x.compareTo(y)} &amp;lt;&lt;i&gt;op&lt;/i&gt;&amp;gt; {@code 0)}, where * &amp;lt;&lt;i&gt;op&lt;/i&gt;&amp;gt; is one of the six comparison operators" />
+      <item value="discounted" />
+      <item value="折扣后" />
+      <item value="multiply" />
+      <item value="abs" />
       <item value="计算价格" />
       <item value="余额" />
       <item value="blance" />
@@ -44,19 +51,13 @@
       <item value="送餐" />
       <item value="叫醒服务" />
       <item value="客房送餐" />
-      <item value="客房送餐3" />
-      <item value="客房物品" />
-      <item value="formatter" />
-      <item value="finished with non-zero exit value 1" />
-      <item value="discount" />
-      <item value="discount Card Id" />
-      <item value="jetbrains" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="167" />
-        <entry key="ENGLISH" value="168" />
+        <entry key="CHINESE" value="172" />
+        <entry key="ENGLISH" value="172" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
+        <entry key="GERMAN" value="1" />
         <entry key="RUSSIAN" value="1" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="2" />

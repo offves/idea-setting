@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="sur Name" />
       <item value="自增" />
       <item value="顺序" />
       <item value="倒序" />
@@ -50,12 +51,11 @@
       <item value="积分兑换" />
       <item value="Purchase PRODUCT" />
       <item value="购买商品" />
-      <item value="免费停车ß" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="175" />
-        <entry key="ENGLISH" value="176" />
+        <entry key="CHINESE" value="176" />
+        <entry key="ENGLISH" value="177" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="RUSSIAN" value="1" />

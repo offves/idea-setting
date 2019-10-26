@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="-1, 0, or 1 as this {@code BigDecimal} is numerically * less than, equal to, or greater than {@code val}." />
+      <item value="Compares this {@code BigDecimal} with the specified * {@code BigDecimal}. Two {@code BigDecimal} objects that are * equal in value but have a different scale (like 2.0 and 2.00) * are considered equal by this method. This method is provided * in preference to individual methods for each of the six boolean * comparison operators ({@literal &lt;}, ==, * {@literal &gt;}, {@literal &gt;=}, !=, {@literal &lt;=}). The * suggested idiom for performing these comparisons is: * {@code (x.compareTo(y)} &amp;lt;&lt;i&gt;op&lt;/i&gt;&amp;gt; {@code 0)}, where * &amp;lt;&lt;i&gt;op&lt;/i&gt;&amp;gt; is one of the six comparison operators." />
       <item value="支付场景" />
       <item value="sur Name" />
       <item value="自增" />
@@ -49,13 +51,11 @@
       <item value="充值" />
       <item value="member discount card" />
       <item value="购买会员卡" />
-      <item value="积分兑换" />
-      <item value="Purchase PRODUCT" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="177" />
-        <entry key="ENGLISH" value="178" />
+        <entry key="CHINESE" value="179" />
+        <entry key="ENGLISH" value="180" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="RUSSIAN" value="1" />

@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="consuming" />
+      <item value="Minute" />
+      <item value="consuming Minute" />
+      <item value="consuming minute" />
+      <item value="耗时分钟" />
       <item value="Finance Controller" />
       <item value="special characters are not allowed" />
       <item value="离店提醒" />
@@ -46,16 +51,11 @@
       <item value="column" />
       <item value="列" />
       <item value="clounm" />
-      <item value="已完成" />
-      <item value="已接单2" />
-      <item value="未接单" />
-      <item value="Ambiguous mapping" />
-      <item value="Carousel Map Vo" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="189" />
-        <entry key="ENGLISH" value="190" />
+        <entry key="CHINESE" value="193" />
+        <entry key="ENGLISH" value="194" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="RUSSIAN" value="1" />

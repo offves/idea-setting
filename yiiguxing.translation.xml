@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Wx Mp Properties" />
+      <item value="done" />
+      <item value="提单" />
+      <item value="接单" />
       <item value="limit" />
       <item value="Integral" />
       <item value="Integral Service" />
@@ -47,15 +51,11 @@
       <item value="Retail" />
       <item value="retail Id" />
       <item value="level" />
-      <item value="suppot" />
-      <item value="found" />
-      <item value="Find" />
-      <item value="WORKBEANCH" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="183" />
-        <entry key="ENGLISH" value="184" />
+        <entry key="CHINESE" value="186" />
+        <entry key="ENGLISH" value="187" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="RUSSIAN" value="1" />

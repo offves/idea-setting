@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Finance Controller" />
       <item value="special characters are not allowed" />
       <item value="离店提醒" />
       <item value="Wx Mp Properties" />
@@ -50,12 +51,11 @@
       <item value="未接单" />
       <item value="Ambiguous mapping" />
       <item value="Carousel Map Vo" />
-      <item value="Retail" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="188" />
-        <entry key="ENGLISH" value="189" />
+        <entry key="CHINESE" value="189" />
+        <entry key="ENGLISH" value="190" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="RUSSIAN" value="1" />

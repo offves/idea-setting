@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="减房间数量" />
       <item value="REQUIREMENT" />
       <item value="Execute non-transactionally, suspend the current transaction if one exists. * Analogous to EJB transaction attribute of the same name. * &lt;p&gt;&lt;b&gt;NOTE:&lt;/b&gt; Actual transaction suspension will not work out-of-the-box * on all transaction managers. This in particular applies to * {@link org.springframework.transaction.jta.JtaTransactionManager}, * which requires the {@code javax.transaction.TransactionManager} to be * made available to it (which is server-specific in standard Java EE)." />
       <item value="Support a current transaction, create a new one if none exists. * Analogous to EJB transaction attribute of the same name" />
@@ -50,11 +51,10 @@
       <item value="SATURDAY" />
       <item value="Gets the day-of-week field, which is an enum {@code DayOfWeek}. * &lt;p&gt; * This method returns the enum {@link DayOfWeek} for the day-of-week. * This avoids confusion as to what {@code int} values mean. * If you need access to the primitive {@code int} value then the enum * provides the {@link DayOfWeek#getValue() int value}. * &lt;p&gt; * Additional information can be obtained from the {@code DayOfWeek}. * This includes textual names of the values." />
       <item value="Gets the day-of-week field, which is an enum" />
-      <item value="Room Sale" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="196" />
+        <entry key="CHINESE" value="197" />
         <entry key="ENGLISH" value="197" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="GERMAN" value="1" />

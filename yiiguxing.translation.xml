@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Support a current transaction, create a new one if none exists. * Analogous to EJB transaction attribute of the same name. * &lt;p&gt;This is the default setting of a transaction annotation" />
+      <item value="ORDER" />
+      <item value="REQUIREMENT" />
       <item value="MISSED ORDER" />
       <item value="subtract" />
       <item value="minu Stock" />
@@ -8,7 +11,6 @@
       <item value="minus" />
       <item value="减" />
       <item value="减房间数量" />
-      <item value="REQUIREMENT" />
       <item value="Execute non-transactionally, suspend the current transaction if one exists. * Analogous to EJB transaction attribute of the same name. * &lt;p&gt;&lt;b&gt;NOTE:&lt;/b&gt; Actual transaction suspension will not work out-of-the-box * on all transaction managers. This in particular applies to * {@link org.springframework.transaction.jta.JtaTransactionManager}, * which requires the {@code javax.transaction.TransactionManager} to be * made available to it (which is server-specific in standard Java EE)." />
       <item value="Support a current transaction, create a new one if none exists. * Analogous to EJB transaction attribute of the same name" />
       <item value="consuming" />
@@ -49,13 +51,11 @@
       <item value="blance" />
       <item value="备注" />
       <item value="gender" />
-      <item value="first Name" />
-      <item value="预定" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="200" />
-        <entry key="ENGLISH" value="201" />
+        <entry key="CHINESE" value="203" />
+        <entry key="ENGLISH" value="204" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ESTONIAN" value="1" />
         <entry key="GERMAN" value="1" />

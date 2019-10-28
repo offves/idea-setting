@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Execute non-transactionally, suspend the current transaction if one exists. * Analogous to EJB transaction attribute of the same name. * &lt;p&gt;&lt;b&gt;NOTE:&lt;/b&gt; Actual transaction suspension will not work out-of-the-box * on all transaction managers. This in particular applies to * {@link org.springframework.transaction.jta.JtaTransactionManager}, * which requires the {@code javax.transaction.TransactionManager} to be * made available to it (which is server-specific in standard Java EE)." />
+      <item value="Support a current transaction, create a new one if none exists. * Analogous to EJB transaction attribute of the same name" />
       <item value="consuming" />
       <item value="Minute" />
       <item value="consuming Minute" />
@@ -49,13 +51,11 @@
       <item value="Gets the day-of-week field, which is an enum" />
       <item value="Room Sale" />
       <item value="column" />
-      <item value="列" />
-      <item value="clounm" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="193" />
-        <entry key="ENGLISH" value="194" />
+        <entry key="CHINESE" value="195" />
+        <entry key="ENGLISH" value="196" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="RUSSIAN" value="1" />

@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="iv Str" />
       <item value="permits Count" />
       <item value="permits" />
       <item value="permits Per Second" />
@@ -50,11 +51,10 @@
       <item value="折扣后" />
       <item value="multiply" />
       <item value="abs" />
-      <item value="计算价格" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="208" />
+        <entry key="CHINESE" value="209" />
         <entry key="ENGLISH" value="209" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ESTONIAN" value="1" />
@@ -65,6 +65,7 @@
         <entry key="FINNISH" value="1" />
         <entry key="GUJARATI" value="1" />
         <entry key="KANNADA" value="1" />
+        <entry key="ROMANIAN" value="1" />
         <entry key="SESOTHO" value="4" />
         <entry key="SUNDANESE" value="1" />
         <entry key="INDONESIAN" value="1" />

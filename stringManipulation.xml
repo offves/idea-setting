@@ -14,11 +14,11 @@
                 <option name="style" value="SNAKE_CASE" />
               </Step>
               <Step>
-                <option name="enabled" value="false" />
-                <option name="style" value="KEBAB_LOWERCASE" />
+                <option name="style" value="SCREAMING_SNAKE_CASE" />
               </Step>
               <Step>
-                <option name="style" value="SCREAMING_SNAKE_CASE" />
+                <option name="enabled" value="false" />
+                <option name="style" value="KEBAB_LOWERCASE" />
               </Step>
               <Step>
                 <option name="enabled" value="false" />

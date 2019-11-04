@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="By default, the class name is used" />
+      <item value="Provide an alternative name for the model" />
       <item value="purchase Discount Card" />
       <item value="&lt;a-input placeholder=&quot;请输入房间 id&quot; v-model=&quot;queryParam.roomId&quot;&gt;&lt;/a-input&gt;" />
       <item value="yester Date" />
@@ -49,13 +51,11 @@
       <item value="sur Name" />
       <item value="自增" />
       <item value="顺序" />
-      <item value="倒序" />
-      <item value="Desc" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="218" />
-        <entry key="ENGLISH" value="219" />
+        <entry key="CHINESE" value="220" />
+        <entry key="ENGLISH" value="221" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="1" />

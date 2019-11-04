@@ -1,12 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="purchase Discount Card" />
       <item value="&lt;a-input placeholder=&quot;请输入房间 id&quot; v-model=&quot;queryParam.roomId&quot;&gt;&lt;/a-input&gt;" />
       <item value="yester Date" />
       <item value="收费" />
       <item value="subject" />
       <item value="milliseconds" />
-      <item value="purchase Discount Card" />
       <item value="REQUIREMENT" />
       <item value="argument type mismatch" />
       <item value="is Collection" />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="217" />
-        <entry key="ENGLISH" value="217" />
+        <entry key="CHINESE" value="218" />
+        <entry key="ENGLISH" value="219" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="1" />

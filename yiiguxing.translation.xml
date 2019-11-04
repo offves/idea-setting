@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="&lt;a-input placeholder=&quot;请输入房间 id&quot; v-model=&quot;queryParam.roomId&quot;&gt;&lt;/a-input&gt;" />
       <item value="yester Date" />
       <item value="收费" />
       <item value="subject" />
@@ -50,7 +51,6 @@
       <item value="顺序" />
       <item value="倒序" />
       <item value="Desc" />
-      <item value="rounding Mode" />
     </histories>
     <option name="languageScores">
       <map>

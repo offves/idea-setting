@@ -1,6 +1,25 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="收费记录" />
+      <item value="balance" />
+      <item value="update user score and balance" />
+      <item value="record" />
+      <item value="recored" />
+      <item value="扣用户积分" />
+      <item value="扣积分" />
+      <item value="save product order record." />
+      <item value="send wechat ma template message" />
+      <item value="send voice notice to admin" />
+      <item value="send Voice notice" />
+      <item value="语音通知" />
+      <item value="discount card" />
+      <item value="discount Card" />
+      <item value="loyalty cards" />
+      <item value="Update the number of loyalty cards sold" />
+      <item value="更新会员卡已售数量" />
+      <item value="update user discountCard info" />
+      <item value="workBench ordered update status" />
       <item value="Corresponds to the 'notes' field of the operation. * &lt;p&gt; * A verbose description of the operation." />
       <item value="Allows overriding the name of the property." />
       <item value="最低" />
@@ -32,30 +51,11 @@
       <item value="permits Per Second" />
       <item value="process" />
       <item value="Support a current transaction, create a new one if none exists. * Analogous to EJB transaction attribute of the same name. * &lt;p&gt;This is the default setting of a transaction annotation" />
-      <item value="ORDER" />
-      <item value="MISSED ORDER" />
-      <item value="subtract" />
-      <item value="minu Stock" />
-      <item value="minus Stock" />
-      <item value="minus" />
-      <item value="减" />
-      <item value="减房间数量" />
-      <item value="Execute non-transactionally, suspend the current transaction if one exists. * Analogous to EJB transaction attribute of the same name. * &lt;p&gt;&lt;b&gt;NOTE:&lt;/b&gt; Actual transaction suspension will not work out-of-the-box * on all transaction managers. This in particular applies to * {@link org.springframework.transaction.jta.JtaTransactionManager}, * which requires the {@code javax.transaction.TransactionManager} to be * made available to it (which is server-specific in standard Java EE)." />
-      <item value="Support a current transaction, create a new one if none exists. * Analogous to EJB transaction attribute of the same name" />
-      <item value="consuming" />
-      <item value="Minute" />
-      <item value="consuming Minute" />
-      <item value="consuming minute" />
-      <item value="耗时分钟" />
-      <item value="Finance Controller" />
-      <item value="special characters are not allowed" />
-      <item value="离店提醒" />
-      <item value="Wx Mp Properties" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="232" />
-        <entry key="ENGLISH" value="233" />
+        <entry key="CHINESE" value="249" />
+        <entry key="ENGLISH" value="249" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="1" />

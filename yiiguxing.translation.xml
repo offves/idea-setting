@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Allows overriding the name of the property." />
+      <item value="最低" />
+      <item value="poster" />
+      <item value="分店信息" />
+      <item value="get" />
       <item value="DENY" />
       <item value="ROLLING" />
       <item value="is not eligible for getting processed by all BeanPostProcessors" />
@@ -46,16 +51,11 @@
       <item value="离店提醒" />
       <item value="Wx Mp Properties" />
       <item value="done" />
-      <item value="提单" />
-      <item value="接单" />
-      <item value="limit" />
-      <item value="Integral" />
-      <item value="Integral Service" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="227" />
-        <entry key="ENGLISH" value="228" />
+        <entry key="CHINESE" value="231" />
+        <entry key="ENGLISH" value="232" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="1" />

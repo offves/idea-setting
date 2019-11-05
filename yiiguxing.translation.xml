@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Corresponds to the 'notes' field of the operation. * &lt;p&gt; * A verbose description of the operation." />
       <item value="Allows overriding the name of the property." />
       <item value="最低" />
       <item value="poster" />
@@ -50,12 +51,11 @@
       <item value="special characters are not allowed" />
       <item value="离店提醒" />
       <item value="Wx Mp Properties" />
-      <item value="done" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="231" />
-        <entry key="ENGLISH" value="232" />
+        <entry key="CHINESE" value="232" />
+        <entry key="ENGLISH" value="233" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="1" />

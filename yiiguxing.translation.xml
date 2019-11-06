@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="chosen handler to execute, for type and/or instance evaluation" />
+      <item value="from" />
+      <item value="frmm" />
       <item value="访客" />
       <item value="Metric" />
       <item value="Metrics" />
@@ -48,14 +51,11 @@
       <item value="REQUIREMENT" />
       <item value="argument type mismatch" />
       <item value="is Collection" />
-      <item value="pure Phone Number" />
-      <item value="iv Str" />
-      <item value="permits Count" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="252" />
-        <entry key="ENGLISH" value="253" />
+        <entry key="CHINESE" value="254" />
+        <entry key="ENGLISH" value="255" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="1" />

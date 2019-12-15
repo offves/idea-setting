@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="上线日期" />
       <item value="add Content Disposition Header" />
       <item value="is Compatible With" />
       <item value="acceptable Types" />
@@ -50,12 +51,11 @@
       <item value="not eligible for auto-proxying" />
       <item value="first Recharge" />
       <item value="Currently not in use" />
-      <item value="Substitutes each generic class with it's direct parameterized type. Use this method to * only for types with a single parameterized type. e.g. &lt;code&gt;List&amp;lt;T&amp;gt; or ResponseEntity&amp;lt;T&amp;gt;&lt;/code&gt; * &lt;code&gt;.genericModelSubstitutes(ResponseEntity.class)&lt;/code&gt; * would substitute ResponseEntity &amp;lt;MyModel&amp;gt; with MyModel" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="262" />
-        <entry key="ENGLISH" value="263" />
+        <entry key="CHINESE" value="263" />
+        <entry key="ENGLISH" value="264" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="1" />

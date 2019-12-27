@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="alia" />
       <item value="Track Id" />
       <item value="dj Status" />
       <item value="expert Tags" />
@@ -50,12 +51,11 @@
       <item value="收费记录" />
       <item value="balance" />
       <item value="update user score and balance" />
-      <item value="record" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="286" />
-        <entry key="ENGLISH" value="287" />
+        <entry key="CHINESE" value="287" />
+        <entry key="ENGLISH" value="288" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="1" />

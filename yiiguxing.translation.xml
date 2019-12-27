@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="personalized" />
       <item value="record id" />
       <item value="name" />
       <item value="mp 3 url" />
@@ -50,12 +51,11 @@
       <item value="Update the number of loyalty cards sold" />
       <item value="更新会员卡已售数量" />
       <item value="update user discountCard info" />
-      <item value="workBench ordered update status" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="273" />
-        <entry key="ENGLISH" value="273" />
+        <entry key="ENGLISH" value="274" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="1" />

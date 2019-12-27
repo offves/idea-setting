@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="be Replied" />
+      <item value="decoration" />
+      <item value="replied Mark" />
+      <item value="replied Comment Id" />
+      <item value="be Replied Comment Id" />
       <item value="set Album Image" />
       <item value="Album" />
       <item value="歌手" />
@@ -33,7 +38,6 @@
       <item value="default Avatar" />
       <item value="province" />
       <item value="comment Location Type" />
-      <item value="decoration" />
       <item value="expression Url" />
       <item value="show Floor Comment" />
       <item value="pendant" />
@@ -47,15 +51,11 @@
       <item value="推荐歌单" />
       <item value="Playlist" />
       <item value="privileges" />
-      <item value="set Default Uri Variables" />
-      <item value="get personalized response body is null" />
-      <item value="get personalized body null" />
-      <item value="Constant" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="326" />
-        <entry key="ENGLISH" value="327" />
+        <entry key="CHINESE" value="334" />
+        <entry key="ENGLISH" value="335" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />

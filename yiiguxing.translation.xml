@@ -1,9 +1,22 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="dj Status" />
+      <item value="mutual" />
+      <item value="default Avatar" />
+      <item value="province" />
+      <item value="auth Status" />
+      <item value="followed" />
+      <item value="authority" />
+      <item value="signature" />
+      <item value="comment Location Type" />
+      <item value="decoration" />
+      <item value="expression Url" />
+      <item value="show Floor Comment" />
+      <item value="pendant" />
+      <item value="pendant Data" />
       <item value="alia" />
       <item value="Track Id" />
-      <item value="dj Status" />
       <item value="expert Tags" />
       <item value="Subscriber" />
       <item value="cover Img Id str" />
@@ -38,30 +51,17 @@
       <item value="Human-readable message to accompany the response." />
       <item value="single" />
       <item value="单例" />
-      <item value="serve" />
-      <item value="server" />
-      <item value="data-set" />
-      <item value="chosen handler to execute, for type and/or instance evaluation" />
-      <item value="from" />
-      <item value="frmm" />
-      <item value="访客" />
-      <item value="Metric" />
-      <item value="Metrics" />
-      <item value="empty" />
-      <item value="收费记录" />
-      <item value="balance" />
-      <item value="update user score and balance" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="287" />
-        <entry key="ENGLISH" value="288" />
+        <entry key="CHINESE" value="301" />
+        <entry key="ENGLISH" value="302" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="RUSSIAN" value="1" />
-        <entry key="FRENCH" value="3" />
+        <entry key="FRENCH" value="5" />
         <entry key="FILIPINO" value="2" />
         <entry key="FINNISH" value="1" />
         <entry key="GUJARATI" value="1" />

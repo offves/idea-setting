@@ -1,14 +1,37 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="set Album Image" />
+      <item value="Album" />
+      <item value="歌手" />
+      <item value="alternate Names" />
+      <item value="专辑" />
+      <item value="ar" />
+      <item value="pst" />
+      <item value="comment Thread Id" />
+      <item value="track Count" />
+      <item value="track Update Time" />
+      <item value="privacy" />
+      <item value="special Type" />
+      <item value="new Imported" />
+      <item value="track Number Update Time" />
+      <item value="ad Type" />
+      <item value="high Quality" />
+      <item value="ordered" />
+      <item value="subscribed Count" />
+      <item value="cloud Track Count" />
+      <item value="english Title" />
+      <item value="op Recommend" />
+      <item value="title Image" />
+      <item value="subscribed" />
+      <item value="followed" />
+      <item value="auth Status" />
+      <item value="authority" />
+      <item value="signature" />
       <item value="dj Status" />
       <item value="mutual" />
       <item value="default Avatar" />
       <item value="province" />
-      <item value="auth Status" />
-      <item value="followed" />
-      <item value="authority" />
-      <item value="signature" />
       <item value="comment Location Type" />
       <item value="decoration" />
       <item value="expression Url" />
@@ -28,44 +51,23 @@
       <item value="get personalized response body is null" />
       <item value="get personalized body null" />
       <item value="Constant" />
-      <item value="hasTaste" />
-      <item value="personalized" />
-      <item value="record id" />
-      <item value="name" />
-      <item value="mp 3 url" />
-      <item value="comment thread id" />
-      <item value="Song" />
-      <item value="Singer" />
-      <item value="Singer Mapper" />
-      <item value="id" />
-      <item value="intro" />
-      <item value="get Record List" />
-      <item value="get Singer" />
-      <item value="encoder" />
-      <item value="上线日期" />
-      <item value="add Content Disposition Header" />
-      <item value="is Compatible With" />
-      <item value="acceptable Types" />
-      <item value="producible Types" />
-      <item value="协议" />
-      <item value="Human-readable message to accompany the response." />
-      <item value="single" />
-      <item value="单例" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="301" />
-        <entry key="ENGLISH" value="302" />
+        <entry key="CHINESE" value="326" />
+        <entry key="ENGLISH" value="327" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ARABIC" value="1" />
-        <entry key="ESTONIAN" value="1" />
+        <entry key="ESTONIAN" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="RUSSIAN" value="1" />
         <entry key="FRENCH" value="5" />
         <entry key="FILIPINO" value="2" />
         <entry key="FINNISH" value="1" />
         <entry key="GUJARATI" value="1" />
+        <entry key="DUTCH" value="1" />
         <entry key="KANNADA" value="1" />
+        <entry key="LATVIAN" value="1" />
         <entry key="ROMANIAN" value="1" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="JAPANESE" value="1" />

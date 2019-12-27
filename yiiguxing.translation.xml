@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Notification that the web application initialization process is starting. * All ServletContextListeners are notified of context initialization before * any filter or servlet in the web application is initialized. * The default implementation is a NO-OP. *" />
       <item value="reptile" />
       <item value="爬虫" />
       <item value="Data truncation: Out of range value for column 'id' at row 1" />
@@ -50,12 +51,11 @@
       <item value="mutual" />
       <item value="default Avatar" />
       <item value="province" />
-      <item value="comment Location Type" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="345" />
-        <entry key="ENGLISH" value="345" />
+        <entry key="ENGLISH" value="346" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />

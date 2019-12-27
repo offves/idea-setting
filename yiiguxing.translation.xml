@@ -1,6 +1,17 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="record id" />
+      <item value="name" />
+      <item value="mp 3 url" />
+      <item value="comment thread id" />
+      <item value="Song" />
+      <item value="Singer" />
+      <item value="Singer Mapper" />
+      <item value="id" />
+      <item value="intro" />
+      <item value="get Record List" />
+      <item value="get Singer" />
       <item value="encoder" />
       <item value="上线日期" />
       <item value="add Content Disposition Header" />
@@ -40,22 +51,11 @@
       <item value="更新会员卡已售数量" />
       <item value="update user discountCard info" />
       <item value="workBench ordered update status" />
-      <item value="Corresponds to the 'notes' field of the operation. * &lt;p&gt; * A verbose description of the operation." />
-      <item value="Allows overriding the name of the property." />
-      <item value="最低" />
-      <item value="poster" />
-      <item value="分店信息" />
-      <item value="get" />
-      <item value="DENY" />
-      <item value="ROLLING" />
-      <item value="is not eligible for getting processed by all BeanPostProcessors" />
-      <item value="not eligible for auto-proxying" />
-      <item value="first Recharge" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="264" />
-        <entry key="ENGLISH" value="265" />
+        <entry key="CHINESE" value="273" />
+        <entry key="ENGLISH" value="273" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="1" />
@@ -67,6 +67,8 @@
         <entry key="GUJARATI" value="1" />
         <entry key="KANNADA" value="1" />
         <entry key="ROMANIAN" value="1" />
+        <entry key="NORWEGIAN" value="1" />
+        <entry key="JAPANESE" value="1" />
         <entry key="SESOTHO" value="4" />
         <entry key="SUNDANESE" value="1" />
         <entry key="INDONESIAN" value="1" />

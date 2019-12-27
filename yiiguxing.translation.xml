@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="stdout" />
+      <item value="stoud" />
+      <item value="fixed Delay" />
+      <item value="Cheating" />
       <item value="抓取" />
       <item value="爬虫" />
       <item value="Notification that the web application initialization process is starting. * All ServletContextListeners are notified of context initialization before * any filter or servlet in the web application is initialized. * The default implementation is a NO-OP. *" />
@@ -47,18 +51,15 @@
       <item value="followed" />
       <item value="auth Status" />
       <item value="authority" />
-      <item value="signature" />
-      <item value="dj Status" />
-      <item value="mutual" />
-      <item value="default Avatar" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="346" />
-        <entry key="ENGLISH" value="347" />
+        <entry key="CHINESE" value="349" />
+        <entry key="ENGLISH" value="350" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
+        <entry key="AFRIKAANS" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="RUSSIAN" value="1" />
         <entry key="FRENCH" value="5" />

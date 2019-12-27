@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="reptile" />
+      <item value="爬虫" />
+      <item value="Data truncation: Out of range value for column 'id' at row 1" />
+      <item value="Illegal character in scheme name at index" />
+      <item value="Expected scheme-specific part at index 10: localhost" />
+      <item value="Constructor with a base URI. * &lt;p&gt;The given URI template is parsed via * {@link UriComponentsBuilder#fromUriString} and then applied as a base URI * to every UriBuilder via {@link UriComponentsBuilder#uriComponents} unless * the UriBuilder itself was created with a URI template that already has a * target address" />
       <item value="ORDERED" />
       <item value="DISTINCT" />
       <item value="SORTED" />
@@ -45,17 +51,11 @@
       <item value="default Avatar" />
       <item value="province" />
       <item value="comment Location Type" />
-      <item value="expression Url" />
-      <item value="show Floor Comment" />
-      <item value="pendant" />
-      <item value="pendant Data" />
-      <item value="alia" />
-      <item value="Track Id" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="339" />
-        <entry key="ENGLISH" value="340" />
+        <entry key="CHINESE" value="345" />
+        <entry key="ENGLISH" value="345" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />

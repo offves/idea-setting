@@ -1,6 +1,20 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Track Id" />
+      <item value="dj Status" />
+      <item value="expert Tags" />
+      <item value="Subscriber" />
+      <item value="cover Img Id str" />
+      <item value="歌单" />
+      <item value="推荐歌单" />
+      <item value="Playlist" />
+      <item value="privileges" />
+      <item value="set Default Uri Variables" />
+      <item value="get personalized response body is null" />
+      <item value="get personalized body null" />
+      <item value="Constant" />
+      <item value="hasTaste" />
       <item value="personalized" />
       <item value="record id" />
       <item value="name" />
@@ -37,25 +51,11 @@
       <item value="balance" />
       <item value="update user score and balance" />
       <item value="record" />
-      <item value="recored" />
-      <item value="扣用户积分" />
-      <item value="扣积分" />
-      <item value="save product order record." />
-      <item value="send wechat ma template message" />
-      <item value="send voice notice to admin" />
-      <item value="send Voice notice" />
-      <item value="语音通知" />
-      <item value="discount card" />
-      <item value="discount Card" />
-      <item value="loyalty cards" />
-      <item value="Update the number of loyalty cards sold" />
-      <item value="更新会员卡已售数量" />
-      <item value="update user discountCard info" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="273" />
-        <entry key="ENGLISH" value="274" />
+        <entry key="CHINESE" value="286" />
+        <entry key="ENGLISH" value="287" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="1" />

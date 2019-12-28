@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="dashboard" />
+      <item value="首页" />
       <item value="followeds" />
       <item value="follows" />
       <item value="followed" />
@@ -49,13 +51,11 @@
       <item value="爬虫" />
       <item value="Notification that the web application initialization process is starting. * All ServletContextListeners are notified of context initialization before * any filter or servlet in the web application is initialized. * The default implementation is a NO-OP. *" />
       <item value="reptile" />
-      <item value="Data truncation: Out of range value for column 'id' at row 1" />
-      <item value="Illegal character in scheme name at index" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="390" />
-        <entry key="ENGLISH" value="391" />
+        <entry key="CHINESE" value="392" />
+        <entry key="ENGLISH" value="393" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />

@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="String collect = songIds.stream().map(String::valueOf).collect(Collectors.joining(&quot;,&quot;)); JSONObject obj = restTemplate.getForEntity(&quot;song/url?id={1}&quot;, JSONObject.class, collect).getBody(); Assert.notNull(obj, &quot;get song url response body is null&quot;); if (Objects.equals(obj.getInteger(Constant.NODEAPI_CODE_KEY), Constant.NODEAPI_SUCCESS_CODE)) { List&lt;Map&gt; data = obj.getJSONArray(&quot;data&quot;).toJavaList(Map.class); if (!CollectionUtils.isEmpty(data)) { List&lt;Pair&lt;Long, String&gt;&gt; songUrls = new ArrayList&lt;&gt;(); data.forEach(o -&gt; { Long id = Long.valueOf((Integer) o.get(&quot;id&quot;)); String url = (String) o.get(&quot;url&quot;); songUrls.add(Pair.of(id, url)); }); return songUrls; } }" />
       <item value="The last packet successfully received from the server was 4 milliseconds ago. The last packet sent successfully to the server was 6 milliseconds ago." />
       <item value="Scheduled Thread Pool Executor" />
       <item value="available Processors" />
@@ -50,12 +51,11 @@
       <item value="track Count" />
       <item value="track Update Time" />
       <item value="privacy" />
-      <item value="special Type" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="362" />
-        <entry key="ENGLISH" value="363" />
+        <entry key="CHINESE" value="363" />
+        <entry key="ENGLISH" value="364" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />

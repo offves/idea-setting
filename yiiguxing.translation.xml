@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="crawl comment end" />
+      <item value="crawl" />
+      <item value="song {} comment crawl end" />
+      <item value="song {} comment craw end" />
       <item value="crawl song start" />
       <item value="Communications link failure" />
       <item value="be Replied" />
@@ -47,15 +51,11 @@
       <item value="ordered" />
       <item value="subscribed Count" />
       <item value="cloud Track Count" />
-      <item value="english Title" />
-      <item value="op Recommend" />
-      <item value="title Image" />
-      <item value="subscribed" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="351" />
-        <entry key="ENGLISH" value="352" />
+        <entry key="CHINESE" value="355" />
+        <entry key="ENGLISH" value="356" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />

@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="be Replied" />
+      <item value="beReplied" />
       <item value="stdout" />
       <item value="stoud" />
       <item value="fixed Delay" />
@@ -20,7 +22,6 @@
       <item value="IMMUTABLE" />
       <item value="CONCURRENT" />
       <item value="Spliterator" />
-      <item value="be Replied" />
       <item value="decoration" />
       <item value="replied Mark" />
       <item value="replied Comment Id" />
@@ -50,11 +51,10 @@
       <item value="subscribed" />
       <item value="followed" />
       <item value="auth Status" />
-      <item value="authority" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="349" />
+        <entry key="CHINESE" value="350" />
         <entry key="ENGLISH" value="350" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ARABIC" value="1" />

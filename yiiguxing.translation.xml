@@ -1,6 +1,23 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="followeds" />
+      <item value="follows" />
+      <item value="followed" />
+      <item value="mutual" />
+      <item value="authstatus" />
+      <item value="authority" />
+      <item value="artist Name" />
+      <item value="follow Me" />
+      <item value="follow Time" />
+      <item value="artist Id" />
+      <item value="blacklist" />
+      <item value="expert Tags" />
+      <item value="account Status" />
+      <item value="auth Status" />
+      <item value="artist Identity" />
+      <item value="Main Auth Type" />
+      <item value="All Auth Types" />
       <item value="before" />
       <item value="proxy Parame" />
       <item value="parame" />
@@ -34,28 +51,11 @@
       <item value="reptile" />
       <item value="Data truncation: Out of range value for column 'id' at row 1" />
       <item value="Illegal character in scheme name at index" />
-      <item value="Expected scheme-specific part at index 10: localhost" />
-      <item value="Constructor with a base URI. * &lt;p&gt;The given URI template is parsed via * {@link UriComponentsBuilder#fromUriString} and then applied as a base URI * to every UriBuilder via {@link UriComponentsBuilder#uriComponents} unless * the UriBuilder itself was created with a URI template that already has a * target address" />
-      <item value="ORDERED" />
-      <item value="DISTINCT" />
-      <item value="SORTED" />
-      <item value="NONNULL" />
-      <item value="IMMUTABLE" />
-      <item value="CONCURRENT" />
-      <item value="Spliterator" />
-      <item value="decoration" />
-      <item value="replied Mark" />
-      <item value="replied Comment Id" />
-      <item value="be Replied Comment Id" />
-      <item value="set Album Image" />
-      <item value="Album" />
-      <item value="歌手" />
-      <item value="alternate Names" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="367" />
-        <entry key="ENGLISH" value="368" />
+        <entry key="CHINESE" value="390" />
+        <entry key="ENGLISH" value="391" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
@@ -69,7 +69,7 @@
         <entry key="DUTCH" value="1" />
         <entry key="KANNADA" value="1" />
         <entry key="CROATIAN" value="1" />
-        <entry key="LATIN" value="1" />
+        <entry key="LATIN" value="2" />
         <entry key="LATVIAN" value="1" />
         <entry key="ROMANIAN" value="1" />
         <entry key="NORWEGIAN" value="1" />

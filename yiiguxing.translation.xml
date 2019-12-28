@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="crawl song start" />
       <item value="Communications link failure" />
       <item value="be Replied" />
       <item value="beReplied" />
@@ -50,12 +51,11 @@
       <item value="op Recommend" />
       <item value="title Image" />
       <item value="subscribed" />
-      <item value="followed" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="350" />
-        <entry key="ENGLISH" value="351" />
+        <entry key="CHINESE" value="351" />
+        <entry key="ENGLISH" value="352" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />

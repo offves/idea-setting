@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="before" />
       <item value="proxy Parame" />
       <item value="parame" />
       <item value="param" />
@@ -50,12 +51,11 @@
       <item value="Album" />
       <item value="歌手" />
       <item value="alternate Names" />
-      <item value="专辑" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="366" />
-        <entry key="ENGLISH" value="367" />
+        <entry key="CHINESE" value="367" />
+        <entry key="ENGLISH" value="368" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />

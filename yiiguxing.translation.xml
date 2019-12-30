@@ -1,6 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="early" />
+      <item value="early Application Events" />
+      <item value="修复 bug" />
+      <item value="Fix bug" />
+      <item value="bug Fix" />
+      <item value="bug fixd" />
+      <item value="fixd bug" />
+      <item value="fix bug" />
       <item value="outlay" />
       <item value="支出" />
       <item value="total Consume" />
@@ -43,19 +51,11 @@
       <item value="proxy Pamram" />
       <item value="Porxy" />
       <item value="String collect = songIds.stream().map(String::valueOf).collect(Collectors.joining(&quot;,&quot;)); JSONObject obj = restTemplate.getForEntity(&quot;song/url?id={1}&quot;, JSONObject.class, collect).getBody(); Assert.notNull(obj, &quot;get song url response body is null&quot;); if (Objects.equals(obj.getInteger(Constant.NODEAPI_CODE_KEY), Constant.NODEAPI_SUCCESS_CODE)) { List&lt;Map&gt; data = obj.getJSONArray(&quot;data&quot;).toJavaList(Map.class); if (!CollectionUtils.isEmpty(data)) { List&lt;Pair&lt;Long, String&gt;&gt; songUrls = new ArrayList&lt;&gt;(); data.forEach(o -&gt; { Long id = Long.valueOf((Integer) o.get(&quot;id&quot;)); String url = (String) o.get(&quot;url&quot;); songUrls.add(Pair.of(id, url)); }); return songUrls; } }" />
-      <item value="The last packet successfully received from the server was 4 milliseconds ago. The last packet sent successfully to the server was 6 milliseconds ago." />
-      <item value="Scheduled Thread Pool Executor" />
-      <item value="available Processors" />
-      <item value="No operations allowed after connection closed." />
-      <item value="Failed to obtain JDBC Connection" />
-      <item value="Execute the annotated method with a fixed period in milliseconds between the * end of the last invocation and the start of the next." />
-      <item value="A special cron expression value that indicates a disabled trigger: {@value}. * &lt;p&gt;This is primarily meant for use with &lt;code&gt;${...}&lt;/code&gt; placeholders, * allowing for external disabling of corresponding scheduled methods." />
-      <item value="crawl comment end" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="403" />
-        <entry key="ENGLISH" value="404" />
+        <entry key="CHINESE" value="405" />
+        <entry key="ENGLISH" value="407" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />

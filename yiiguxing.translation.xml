@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="expire" />
+      <item value="到期" />
       <item value="early" />
       <item value="early Application Events" />
       <item value="修复 bug" />
@@ -49,13 +51,11 @@
       <item value="param" />
       <item value="Pamram" />
       <item value="proxy Pamram" />
-      <item value="Porxy" />
-      <item value="String collect = songIds.stream().map(String::valueOf).collect(Collectors.joining(&quot;,&quot;)); JSONObject obj = restTemplate.getForEntity(&quot;song/url?id={1}&quot;, JSONObject.class, collect).getBody(); Assert.notNull(obj, &quot;get song url response body is null&quot;); if (Objects.equals(obj.getInteger(Constant.NODEAPI_CODE_KEY), Constant.NODEAPI_SUCCESS_CODE)) { List&lt;Map&gt; data = obj.getJSONArray(&quot;data&quot;).toJavaList(Map.class); if (!CollectionUtils.isEmpty(data)) { List&lt;Pair&lt;Long, String&gt;&gt; songUrls = new ArrayList&lt;&gt;(); data.forEach(o -&gt; { Long id = Long.valueOf((Integer) o.get(&quot;id&quot;)); String url = (String) o.get(&quot;url&quot;); songUrls.add(Pair.of(id, url)); }); return songUrls; } }" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="405" />
-        <entry key="ENGLISH" value="407" />
+        <entry key="CHINESE" value="407" />
+        <entry key="ENGLISH" value="408" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />

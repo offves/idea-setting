@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Pubsub Message Listener" />
       <item value="publish message to redis" />
       <item value="接收" />
       <item value="接受" />
@@ -50,12 +51,11 @@
       <item value="artist Identity" />
       <item value="Main Auth Type" />
       <item value="All Auth Types" />
-      <item value="before" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="411" />
-        <entry key="ENGLISH" value="412" />
+        <entry key="CHINESE" value="412" />
+        <entry key="ENGLISH" value="413" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />

@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="接收" />
+      <item value="接受" />
       <item value="Keyspace Event Message Listener" />
       <item value="mutations" />
       <item value="expire" />
@@ -49,13 +51,11 @@
       <item value="All Auth Types" />
       <item value="before" />
       <item value="proxy Parame" />
-      <item value="parame" />
-      <item value="param" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="409" />
-        <entry key="ENGLISH" value="410" />
+        <entry key="CHINESE" value="410" />
+        <entry key="ENGLISH" value="411" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />

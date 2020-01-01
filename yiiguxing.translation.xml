@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Check if the right-hand side type may be assigned to the left-hand side * type following the Java generics rules." />
       <item value="Pubsub Message Listener" />
       <item value="publish message to redis" />
       <item value="接收" />
@@ -50,12 +51,11 @@
       <item value="auth Status" />
       <item value="artist Identity" />
       <item value="Main Auth Type" />
-      <item value="All Auth Types" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="412" />
-        <entry key="ENGLISH" value="413" />
+        <entry key="CHINESE" value="413" />
+        <entry key="ENGLISH" value="414" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />

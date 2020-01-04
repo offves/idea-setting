@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="task has already been invoked" />
+      <item value="trace Entry" />
+      <item value="tasks Cost" />
+      <item value="total Cost" />
+      <item value="executing Index" />
+      <item value="executed Index" />
       <item value="noinspection unchecked, type check is ok" />
       <item value="buttom" />
       <item value="Check if the right-hand side type may be assigned to the left-hand side * type following the Java generics rules." />
@@ -45,17 +51,11 @@
       <item value="authority" />
       <item value="artist Name" />
       <item value="follow Me" />
-      <item value="follow Time" />
-      <item value="artist Id" />
-      <item value="blacklist" />
-      <item value="expert Tags" />
-      <item value="account Status" />
-      <item value="auth Status" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="414" />
-        <entry key="ENGLISH" value="415" />
+        <entry key="CHINESE" value="420" />
+        <entry key="ENGLISH" value="421" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />

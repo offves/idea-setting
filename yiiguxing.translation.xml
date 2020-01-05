@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="blue" />
       <item value="argument type mismatch" />
       <item value="set Consume Amount" />
       <item value="task has already been invoked" />
@@ -50,12 +51,11 @@
       <item value="followed" />
       <item value="mutual" />
       <item value="authstatus" />
-      <item value="authority" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="422" />
-        <entry key="ENGLISH" value="423" />
+        <entry key="CHINESE" value="423" />
+        <entry key="ENGLISH" value="424" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />

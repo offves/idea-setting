@@ -1,6 +1,25 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Documentation Type" />
+      <item value="Request Handler Selectors" />
+      <item value="SWAGGER_2" />
+      <item value="prepare Environment" />
+      <item value="main Application Class" />
+      <item value="Annotation Config Reactive Web Server Application Context" />
+      <item value="required" />
+      <item value="annotated" />
+      <item value="Declares whether the annotated dependency is required. * &lt;p&gt;Defaults to {@code true}." />
+      <item value="and" />
+      <item value="Ordered" />
+      <item value="&lt;p&gt;Although {@code @Autowired} can technically be declared on individual method * or constructor parameters since Spring Framework 5.0, most parts of the * framework ignore such declarations. The only part of the core Spring Framework * that actively supports autowired parameters is the JUnit Jupiter support in * the {@code spring-test} module (see the" />
+      <item value="the" />
+      <item value="details" />
+      <item value="arguments" />
+      <item value="applicable" />
+      <item value="&lt;h3&gt;Multiple Arguments and 'required' Semantics&lt;/h3&gt; * &lt;p&gt;In the case of a multi-arg constructor or method, the {@link #required} attribute * is applicable to all arguments. Individual parameters may be declared as Java-8 style * {@link java.util.Optional} or, as of Spring Framework 5.0, also as {@code @Nullable} * or a not-null parameter type in Kotlin, overriding the base 'required' semantics. *" />
+      <item value="public" />
+      <item value="constructor" />
       <item value="blue" />
       <item value="argument type mismatch" />
       <item value="set Consume Amount" />
@@ -32,30 +51,11 @@
       <item value="outlay" />
       <item value="支出" />
       <item value="total Consume" />
-      <item value="MILLISECONDS" />
-      <item value="ge" />
-      <item value="week Day" />
-      <item value="FRIDAY" />
-      <item value="crypto" />
-      <item value="Msic Http Request Interceptor" />
-      <item value="max Body Size" />
-      <item value="compute If Absent" />
-      <item value="Client network socket disconnected before secure TLS connection was established" />
-      <item value="user Point" />
-      <item value="userPoint" />
-      <item value="user Profile" />
-      <item value="dashboard" />
-      <item value="首页" />
-      <item value="followeds" />
-      <item value="follows" />
-      <item value="followed" />
-      <item value="mutual" />
-      <item value="authstatus" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="423" />
-        <entry key="ENGLISH" value="424" />
+        <entry key="CHINESE" value="443" />
+        <entry key="ENGLISH" value="447" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
@@ -86,6 +86,7 @@
   <component name="Settings">
     <option name="googleTranslateSettings">
       <google-translate>
+        <option name="primaryLanguage" value="CHINESE" />
         <option name="useTranslateGoogleCom" value="false" />
       </google-translate>
     </option>

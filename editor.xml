@@ -8,7 +8,7 @@
   </component>
   <component name="DaemonCodeAnalyzerSettings" profile="offves" />
   <component name="DefaultFont">
-    <option name="FONT_SIZE" value="17" />
+    <option name="FONT_SIZE" value="16" />
   </component>
   <component name="EditorSettings">
     <option name="SOFT_WRAP_FILE_MASKS" value="*.md; *.txt; *.rst; *.adoc" />

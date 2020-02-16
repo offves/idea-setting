@@ -2,6 +2,14 @@
   <component name="ActionsLocalSummary">
     <option name="data">
       <map>
+        <entry key="ActivateDatabaseToolWindow">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581862876251" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="CloseContent">
           <value>
             <ActionSummary>

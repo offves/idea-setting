@@ -2,6 +2,14 @@
   <component name="ActionsLocalSummary">
     <option name="data">
       <map>
+        <entry key="$Undo">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581904489455" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="ActivateDatabaseToolWindow">
           <value>
             <ActionSummary>
@@ -13,8 +21,8 @@
         <entry key="CloseContent">
           <value>
             <ActionSummary>
-              <option name="last" value="1581774587104" />
-              <option name="times" value="1" />
+              <option name="last" value="1581862930174" />
+              <option name="times" value="2" />
             </ActionSummary>
           </value>
         </entry>
@@ -42,11 +50,35 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="EditorPaste">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581904496006" />
+              <option name="times" value="2" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="PasteMultiple">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581904501484" />
+              <option name="times" value="3" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="SaveAll">
           <value>
             <ActionSummary>
               <option name="last" value="1581774582447" />
               <option name="times" value="3" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="SplitVertically">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581904490591" />
+              <option name="times" value="1" />
             </ActionSummary>
           </value>
         </entry>
@@ -61,8 +93,8 @@
         <entry key="com.intellij.openapi.fileEditor.impl.EditorTabbedContainer$CloseTab">
           <value>
             <ActionSummary>
-              <option name="last" value="1581774584921" />
-              <option name="times" value="2" />
+              <option name="last" value="1581904492674" />
+              <option name="times" value="3" />
             </ActionSummary>
           </value>
         </entry>

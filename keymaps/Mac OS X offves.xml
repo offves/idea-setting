@@ -21,9 +21,7 @@
     <keyboard-shortcut first-keystroke="alt z" />
     <keyboard-shortcut first-keystroke="ctrl z" />
   </action>
-  <action id="ActivateCommitToolWindow">
-    <keyboard-shortcut first-keystroke="meta 4" />
-  </action>
+  <action id="ActivateCommitToolWindow" />
   <action id="ActivateDatabaseConsoleToolWindow">
     <keyboard-shortcut first-keystroke="meta 4" />
   </action>
@@ -42,10 +40,13 @@
     <keyboard-shortcut first-keystroke="alt 1" />
   </action>
   <action id="ActivateRunToolWindow" />
+  <action id="ActivateServicesToolWindow">
+    <keyboard-shortcut first-keystroke="meta 5" />
+  </action>
   <action id="ActivateStructureToolWindow" />
   <action id="ActivateTODOToolWindow" />
   <action id="ActivateTerminalToolWindow">
-    <keyboard-shortcut first-keystroke="meta 5" />
+    <keyboard-shortcut first-keystroke="meta 4" />
   </action>
   <action id="ActivateVersionControlToolWindow">
     <keyboard-shortcut first-keystroke="meta 3" />

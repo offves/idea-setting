@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="耗时" />
+      <item value="time consuming" />
+      <item value="consuming" />
+      <item value="time consumering" />
+      <item value="Time consumering" />
       <item value="batch" />
       <item value="stub" />
       <item value="Objenesis" />
@@ -46,16 +51,11 @@
       <item value="Check if the right-hand side type may be assigned to the left-hand side * type following the Java generics rules." />
       <item value="Pubsub Message Listener" />
       <item value="publish message to redis" />
-      <item value="接收" />
-      <item value="接受" />
-      <item value="Keyspace Event Message Listener" />
-      <item value="mutations" />
-      <item value="expire" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="454" />
-        <entry key="ENGLISH" value="455" />
+        <entry key="CHINESE" value="460" />
+        <entry key="ENGLISH" value="462" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
@@ -87,7 +87,6 @@
   <component name="Settings">
     <option name="googleTranslateSettings">
       <google-translate>
-        <option name="primaryLanguage" value="CHINESE" />
         <option name="useTranslateGoogleCom" value="false" />
       </google-translate>
     </option>

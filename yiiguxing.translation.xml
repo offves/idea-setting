@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="spatial" />
+      <item value="spat" />
       <item value="耗时" />
       <item value="time consuming" />
       <item value="consuming" />
@@ -49,12 +51,10 @@
       <item value="noinspection unchecked, type check is ok" />
       <item value="buttom" />
       <item value="Check if the right-hand side type may be assigned to the left-hand side * type following the Java generics rules." />
-      <item value="Pubsub Message Listener" />
-      <item value="publish message to redis" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="460" />
+        <entry key="CHINESE" value="461" />
         <entry key="ENGLISH" value="462" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ARABIC" value="1" />

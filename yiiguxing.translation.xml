@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Logstash Tcp Socket Appender" />
       <item value="NOT ACCEPTABLE" />
       <item value="select Count" />
       <item value="SCHEDULED ANNOTATION PROCESSOR BEAN NAME" />
@@ -50,7 +51,6 @@
       <item value="set Consume Amount" />
       <item value="task has already been invoked" />
       <item value="trace Entry" />
-      <item value="tasks Cost" />
     </histories>
     <option name="languageScores">
       <map>

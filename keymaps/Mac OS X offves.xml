@@ -39,6 +39,9 @@
   <action id="ActivateMavenToolWindow">
     <keyboard-shortcut first-keystroke="alt 1" />
   </action>
+  <action id="ActivateRemoteHostToolWindow">
+    <keyboard-shortcut first-keystroke="alt 3" />
+  </action>
   <action id="ActivateRunToolWindow" />
   <action id="ActivateServicesToolWindow">
     <keyboard-shortcut first-keystroke="meta 4" />

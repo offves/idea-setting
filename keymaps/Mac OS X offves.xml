@@ -142,9 +142,7 @@
   <action id="EditorScrollUp" />
   <action id="EditorSelectWord" />
   <action id="EditorSplitLine" />
-  <action id="EditorToggleCase">
-    <keyboard-shortcut first-keystroke="alt x" />
-  </action>
+  <action id="EditorToggleCase" />
   <action id="Exit" />
   <action id="FileChooser.GotoDesktop" />
   <action id="FileChooser.GotoModule" />
@@ -154,6 +152,9 @@
   </action>
   <action id="FixDocComment">
     <keyboard-shortcut first-keystroke="alt d" />
+  </action>
+  <action id="Git.CompareWithBranch">
+    <keyboard-shortcut first-keystroke="ctrl s" />
   </action>
   <action id="Git.Pull">
     <keyboard-shortcut first-keystroke="shift meta u" />
@@ -254,7 +255,7 @@
     <keyboard-shortcut first-keystroke="shift ctrl v" />
   </action>
   <action id="StringManipulation.SwitchStyleAction">
-    <keyboard-shortcut first-keystroke="ctrl s" />
+    <keyboard-shortcut first-keystroke="alt x" />
   </action>
   <action id="StringManipulation.ToPascalCaseOrCamelCase">
     <keyboard-shortcut first-keystroke="ctrl x" />
@@ -276,7 +277,7 @@
   </action>
   <action id="Uml.ShowDiff" />
   <action id="Vcs.ShowTabbedFileHistory">
-    <keyboard-shortcut first-keystroke="meta alt s" />
+    <keyboard-shortcut first-keystroke="alt s" />
   </action>
   <action id="Vcs.UpdateProject">
     <keyboard-shortcut first-keystroke="meta u" />

@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="transfor" />
+      <item value="transfo" />
+      <item value="transform" />
+      <item value="转换" />
       <item value="Reports calls to divide() or setScale() without a rounding mode argument. Such calls can lead to an ArithmeticException when the exact value cannot be represented in the result (e.g. because it has a non-terminating decimal expansion). Specifying a rounding mode prevents the ArithmeticException.  " />
       <item value="pull Comments" />
       <item value="tuple" />
@@ -47,15 +51,11 @@
       <item value="annotated" />
       <item value="Declares whether the annotated dependency is required. * &lt;p&gt;Defaults to {@code true}." />
       <item value="and" />
-      <item value="Ordered" />
-      <item value="&lt;p&gt;Although {@code @Autowired} can technically be declared on individual method * or constructor parameters since Spring Framework 5.0, most parts of the * framework ignore such declarations. The only part of the core Spring Framework * that actively supports autowired parameters is the JUnit Jupiter support in * the {@code spring-test} module (see the" />
-      <item value="the" />
-      <item value="details" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="474" />
-        <entry key="ENGLISH" value="474" />
+        <entry key="CHINESE" value="475" />
+        <entry key="ENGLISH" value="475" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />

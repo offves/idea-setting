@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="code" />
       <item value="No such extension org.apache.dubbo.registry.RegistryFactory by name nacos" />
       <item value="transfor" />
       <item value="transfo" />
@@ -50,12 +51,11 @@
       <item value="Annotation Config Reactive Web Server Application Context" />
       <item value="required" />
       <item value="annotated" />
-      <item value="Declares whether the annotated dependency is required. * &lt;p&gt;Defaults to {@code true}." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="475" />
-        <entry key="ENGLISH" value="476" />
+        <entry key="CHINESE" value="476" />
+        <entry key="ENGLISH" value="477" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />

@@ -6,6 +6,7 @@
     <option name="SPACE_AFTER_DOTS_IN_REST_PARAMETER" value="true" />
   </JSCodeStyleSettings>
   <JavaCodeStyleSettings>
+    <option name="ALIGN_MULTILINE_RECORDS" value="false" />
     <option name="JD_ADD_BLANK_AFTER_DESCRIPTION" value="false" />
     <option name="JD_KEEP_INVALID_TAGS" value="false" />
     <option name="JD_KEEP_EMPTY_EXCEPTION" value="false" />
@@ -20,10 +21,7 @@
     <option name="LINE_COMMENT_ADD_SPACE" value="true" />
     <option name="KEEP_LINE_BREAKS" value="false" />
     <option name="KEEP_FIRST_COLUMN_COMMENT" value="false" />
-    <option name="ALIGN_MULTILINE_CHAINED_METHODS" value="true" />
-    <option name="CALL_PARAMETERS_WRAP" value="2" />
-    <option name="METHOD_CALL_CHAIN_WRAP" value="5" />
-    <option name="WRAP_ON_TYPING" value="0" />
+    <option name="METHOD_CALL_CHAIN_WRAP" value="2" />
   </codeStyleSettings>
   <codeStyleSettings language="JavaScript">
     <option name="ALIGN_MULTILINE_CHAINED_METHODS" value="true" />

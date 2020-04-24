@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="no applicable action for" />
       <item value="target Character Code" />
       <item value="website" />
       <item value="rolling Policy" />
@@ -8,7 +9,6 @@
       <item value="rollover daily" />
       <item value="or whenever the file size reaches 100MB" />
       <item value="or whenever the file size reaches" />
-      <item value="no applicable action for" />
       <item value="耗时" />
       <item value="消耗" />
       <item value="consumertime" />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="486" />
-        <entry key="ENGLISH" value="487" />
+        <entry key="CHINESE" value="487" />
+        <entry key="ENGLISH" value="488" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />

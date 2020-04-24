@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="rolling Policy" />
+      <item value="rollover" />
+      <item value="rollover daily" />
       <item value="or whenever the file size reaches 100MB" />
       <item value="or whenever the file size reaches" />
       <item value="no applicable action for" />
@@ -48,14 +51,11 @@
       <item value="反序列化" />
       <item value="Serialization" />
       <item value="序列化" />
-      <item value="Serializ" />
-      <item value="protocol" />
-      <item value="Length Field Based Frame Decoder" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="481" />
-        <entry key="ENGLISH" value="482" />
+        <entry key="CHINESE" value="484" />
+        <entry key="ENGLISH" value="485" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />

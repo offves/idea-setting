@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="耗时" />
+      <item value="消耗" />
+      <item value="consumertime" />
+      <item value="latency" />
       <item value="module" />
       <item value="li" />
       <item value="pullcomm 7_0_" />
@@ -29,7 +33,6 @@
       <item value="dashboar" />
       <item value="spatial" />
       <item value="spat" />
-      <item value="耗时" />
       <item value="time consuming" />
       <item value="consuming" />
       <item value="time consumering" />
@@ -48,14 +51,11 @@
       <item value="out Trade No" />
       <item value="Documentation Type" />
       <item value="Request Handler Selectors" />
-      <item value="SWAGGER_2" />
-      <item value="prepare Environment" />
-      <item value="main Application Class" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="477" />
-        <entry key="ENGLISH" value="478" />
+        <entry key="CHINESE" value="479" />
+        <entry key="ENGLISH" value="480" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
@@ -77,6 +77,7 @@
         <entry key="PORTUGUESE" value="1" />
         <entry key="JAPANESE" value="2" />
         <entry key="SESOTHO" value="4" />
+        <entry key="ITALIAN" value="1" />
         <entry key="SUNDANESE" value="1" />
         <entry key="INDONESIAN" value="1" />
         <entry key="JAVANESE" value="1" />

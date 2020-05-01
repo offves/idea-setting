@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="INFO" />
       <item value="no applicable action for" />
       <item value="target Character Code" />
       <item value="website" />
@@ -50,7 +51,6 @@
       <item value="Objenesis" />
       <item value="ation" />
       <item value="serialize" />
-      <item value="反序列化" />
     </histories>
     <option name="languageScores">
       <map>

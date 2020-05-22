@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="logger" />
+      <item value="debug" />
+      <item value="old Cache" />
+      <item value="create" />
       <item value="to Store Value" />
       <item value="24" />
       <item value="INFO" />
@@ -47,19 +51,16 @@
       <item value="time consuming" />
       <item value="consuming" />
       <item value="time consumering" />
-      <item value="Time consumering" />
-      <item value="batch" />
-      <item value="stub" />
-      <item value="Objenesis" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="487" />
-        <entry key="ENGLISH" value="489" />
+        <entry key="CHINESE" value="494" />
+        <entry key="ENGLISH" value="498" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
         <entry key="AFRIKAANS" value="1" />
+        <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="RUSSIAN" value="1" />
         <entry key="FRENCH" value="5" />
@@ -86,6 +87,12 @@
     </option>
   </component>
   <component name="Settings">
+    <option name="googleTranslateSettings">
+      <google-translate>
+        <option name="primaryLanguage" value="CHINESE" />
+        <option name="useTranslateGoogleCom" value="true" />
+      </google-translate>
+    </option>
     <option name="ignoreRegExp" value="" />
   </component>
 </application>

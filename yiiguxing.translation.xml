@@ -90,7 +90,6 @@
     <option name="googleTranslateSettings">
       <google-translate>
         <option name="primaryLanguage" value="CHINESE" />
-        <option name="useTranslateGoogleCom" value="true" />
       </google-translate>
     </option>
     <option name="ignoreRegExp" value="" />

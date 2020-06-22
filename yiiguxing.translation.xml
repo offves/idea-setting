@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="course" />
       <item value="Duration" />
       <item value="token Expiration" />
       <item value="Auth Service" />
@@ -50,12 +51,11 @@
       <item value="select Count" />
       <item value="SCHEDULED ANNOTATION PROCESSOR BEAN NAME" />
       <item value="Executor" />
-      <item value="new Cached Thread Pool" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="501" />
-        <entry key="ENGLISH" value="505" />
+        <entry key="CHINESE" value="503" />
+        <entry key="ENGLISH" value="507" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />

@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="the selected converter type" />
+      <item value="type" />
+      <item value="Whether this component supports the given controller method return type * and the selected {@code HttpMessageConverter} type." />
+      <item value="介绍" />
       <item value="crash" />
       <item value="course" />
       <item value="Duration" />
@@ -47,15 +51,11 @@
       <item value="get Track Ids" />
       <item value="serialization" />
       <item value="Could not find an appender named [LOGSTASH]. Did you define it below instead of above in the configuration file" />
-      <item value="Logstash Tcp Socket Appender" />
-      <item value="NOT ACCEPTABLE" />
-      <item value="select Count" />
-      <item value="SCHEDULED ANNOTATION PROCESSOR BEAN NAME" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="504" />
-        <entry key="ENGLISH" value="507" />
+        <entry key="CHINESE" value="508" />
+        <entry key="ENGLISH" value="511" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />

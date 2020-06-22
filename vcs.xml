@@ -218,6 +218,10 @@
           <option name="url" value="https://gitee.com/itopener/springboot.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitee.com/edwardshi95/cspiration.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Projects" />

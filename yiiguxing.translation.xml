@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Duration" />
+      <item value="token Expiration" />
+      <item value="Auth Service" />
+      <item value="scene" />
+      <item value="announcement" />
+      <item value="certification" />
       <item value="logger" />
       <item value="debug" />
       <item value="old Cache" />
@@ -45,17 +51,11 @@
       <item value="SCHEDULED ANNOTATION PROCESSOR BEAN NAME" />
       <item value="Executor" />
       <item value="new Cached Thread Pool" />
-      <item value="dashboar" />
-      <item value="spatial" />
-      <item value="spat" />
-      <item value="time consuming" />
-      <item value="consuming" />
-      <item value="time consumering" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="494" />
-        <entry key="ENGLISH" value="498" />
+        <entry key="CHINESE" value="501" />
+        <entry key="ENGLISH" value="505" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />

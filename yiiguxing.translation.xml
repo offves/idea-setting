@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="验证签名不通过" />
+      <item value="Wx Pay Order Notify Result" />
+      <item value="订单支付金额不一致" />
+      <item value="支付金额不一致" />
       <item value="could not found order by order_number" />
       <item value="out Trade No" />
       <item value="值" />
@@ -47,15 +51,11 @@
       <item value="transfo" />
       <item value="transform" />
       <item value="转换" />
-      <item value="Reports calls to divide() or setScale() without a rounding mode argument. Such calls can lead to an ArithmeticException when the exact value cannot be represented in the result (e.g. because it has a non-terminating decimal expansion). Specifying a rounding mode prevents the ArithmeticException.  " />
-      <item value="pull Comments" />
-      <item value="tuple" />
-      <item value="后缀名" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="514" />
-        <entry key="ENGLISH" value="516" />
+        <entry key="CHINESE" value="518" />
+        <entry key="ENGLISH" value="518" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="3" />

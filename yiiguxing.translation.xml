@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="replies" />
+      <item value="replys" />
+      <item value="回复" />
+      <item value="childrens" />
       <item value="engine" />
       <item value="Application Filter Chain" />
       <item value="unknow" />
@@ -47,15 +51,11 @@
       <item value="latency" />
       <item value="module" />
       <item value="li" />
-      <item value="pullcomm 7_0_" />
-      <item value="code" />
-      <item value="No such extension org.apache.dubbo.registry.RegistryFactory by name nacos" />
-      <item value="transfor" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="518" />
-        <entry key="ENGLISH" value="519" />
+        <entry key="CHINESE" value="522" />
+        <entry key="ENGLISH" value="523" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="3" />

@@ -9,4 +9,14 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
+  <template name="grouping" value=".collect(Collectors.groupingBy($END$))" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="join" value=".collect(Collectors.joining($END$))" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
 </templateSet>

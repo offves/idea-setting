@@ -1,0 +1,12 @@
+<templateSet group="Stream">
+  <template name="tolist" value=".collect(Collectors.toList())" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="tomap" value=".collect(Collectors.toMap($END$))" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>

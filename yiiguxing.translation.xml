@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Application Filter Chain" />
       <item value="childs" />
       <item value="Base Entity" />
       <item value="Note the order is from least to most specific (last one wins)" />
@@ -26,7 +27,6 @@
       <item value="回复" />
       <item value="childrens" />
       <item value="engine" />
-      <item value="Application Filter Chain" />
       <item value="unknow" />
       <item value="验证签名不通过" />
       <item value="Wx Pay Order Notify Result" />

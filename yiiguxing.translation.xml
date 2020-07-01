@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="childs" />
+      <item value="Base Entity" />
       <item value="Note the order is from least to most specific (last one wins)" />
       <item value="INFO" />
       <item value="Post Mapping" />
@@ -49,13 +51,11 @@
       <item value="announcement" />
       <item value="certification" />
       <item value="logger" />
-      <item value="debug" />
-      <item value="old Cache" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="531" />
-        <entry key="ENGLISH" value="532" />
+        <entry key="CHINESE" value="533" />
+        <entry key="ENGLISH" value="534" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="3" />

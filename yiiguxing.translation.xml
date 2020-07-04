@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="worker Id can't be greater than 31 or less than 0" />
       <item value="Pay Type" />
       <item value="Service Impl" />
       <item value="Application Filter Chain" />
@@ -50,12 +51,11 @@
       <item value="token Expiration" />
       <item value="Auth Service" />
       <item value="scene" />
-      <item value="announcement" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="535" />
-        <entry key="ENGLISH" value="536" />
+        <entry key="CHINESE" value="536" />
+        <entry key="ENGLISH" value="537" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="3" />

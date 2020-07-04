@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="开通课程" />
+      <item value="open Course" />
+      <item value="Effective" />
+      <item value="有效日期" />
+      <item value="private final UserAuthService userAuthService; private final TrainClassService trainClassService; private final UserCourseService userCourseService; @Override public IPage&lt;OrderVO&gt; getOrderByPage(Page&lt;Order&gt; page, Long userId, Long classId) { LambdaQueryWrapper&lt;Order&gt; queryWrapper = new LambdaQueryWrapper&lt;&gt;(); if (userId != null) { queryWrapper.eq(Order::getUserId, userId); } if (classId != null) { queryWrapper.eq(Order::getClassId, classId); } IPage&lt;Order&gt; orderPage = super.page(page, queryWrapper); if (CollectionUtils.isEmpty(orderPage.getRecords())) { return new Page&lt;&gt;(page.getCurrent(), page.getSize(), 0); } Set&lt;Long&gt; userIds = page.getRecords().stream().map(Order::getUserId).collect(Collectors.toSet()); Set&lt;Long&gt; classIds = page.getRecords().stream().map(Order::getClassId).collect(Collectors.toSet()); Map&lt;Long, String&gt; userAuthDict = userAuthService.findUserAuthDictByIds(userIds, UserAuth::getUsername); Map&lt;Long, String&gt; trainClassNameDict = trainClassService.findTrainClassDictByIds(classIds, TrainClass::getName); return orderPage.convert(order -&gt; new OrderVO(order, userAuthDict.getOrDefault(order.getUserId(), String.valueOf(order.getUserId())), trainClassNameDict.getOrDefault(order.getClassId(), String.valueOf(order.getClassId())))); } @Override @Transactional public Long addOrder(OrderAO orderAO) { Order order = new Order(); BeanUtils.copyProperties(orderAO, order); order.setStatus(EnumsUtils.getEnumObject(OrderStatus.class, p -&gt; p.ordinal() == orderAO.getStatus()).orElseThrow(() -&gt; new BusinessException(&quot;订单状态值错误&quot;))); order.setPaymentMethod(EnumsUtils.getEnumObject(PayType.class, p -&gt; p.ordinal() == orderAO.getPaymentMethod()).orElseThrow(() -&gt; new BusinessException(&quot;订单支付方式值错误&quot;))); order.setOrderNumber(IdGenerator.nextIdStr()); if (order.getStatus() == OrderStatus.WAIT_FOR_PAY) { order.setPaymentTime(null); } super.save(order); userCourseService.addCourseFor(order.getUserId(), order.getClassId()); return order.getId(); }" />
       <item value="active" />
       <item value="worker Id can't be greater than 31 or less than 0" />
       <item value="Pay Type" />
@@ -46,16 +51,11 @@
       <item value="type" />
       <item value="Whether this component supports the given controller method return type * and the selected {@code HttpMessageConverter} type." />
       <item value="介绍" />
-      <item value="crash" />
-      <item value="course" />
-      <item value="Duration" />
-      <item value="token Expiration" />
-      <item value="Auth Service" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="536" />
-        <entry key="ENGLISH" value="537" />
+        <entry key="CHINESE" value="540" />
+        <entry key="ENGLISH" value="540" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="3" />

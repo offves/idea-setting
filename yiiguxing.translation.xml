@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="子节点" />
       <item value="&lt;groupId&gt;com.alibaba&lt;/groupId&gt; &lt;artifactId&gt;easyexcel&lt;/artifactId&gt; &lt;version&gt;1.0.1&lt;/version&gt;" />
       <item value="开通课程" />
       <item value="open Course" />
@@ -50,12 +51,11 @@
       <item value="msg" />
       <item value="the selected converter type" />
       <item value="type" />
-      <item value="Whether this component supports the given controller method return type * and the selected {@code HttpMessageConverter} type." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="540" />
-        <entry key="ENGLISH" value="540" />
+        <entry key="ENGLISH" value="541" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="3" />

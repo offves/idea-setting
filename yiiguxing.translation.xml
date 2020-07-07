@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Chapters" />
       <item value="间隔" />
       <item value="CODE URL PREFIX" />
       <item value="章" />
@@ -50,12 +51,11 @@
       <item value="out Trade No" />
       <item value="值" />
       <item value="valus" />
-      <item value="the msg" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="542" />
-        <entry key="ENGLISH" value="543" />
+        <entry key="CHINESE" value="543" />
+        <entry key="ENGLISH" value="544" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="3" />

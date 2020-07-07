@@ -1,11 +1,5 @@
 <application>
   <component name="dataSourceStorage" format="xml" multifile-model="true">
-    <data-source source="LOCAL" name="cspiration@dev" uuid="1ed60f10-08fb-4317-8c1d-a3d9b5d1abf1">
-      <driver-ref>mysql.8</driver-ref>
-      <synchronize>true</synchronize>
-      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
-      <jdbc-url>jdbc:mysql://121.199.57.154:3316/cspiration</jdbc-url>
-    </data-source>
     <data-source source="LOCAL" name="Local" uuid="3b82b0a8-b639-45a8-9bfc-dd3546847fc9">
       <driver-ref>mysql.8</driver-ref>
       <synchronize>true</synchronize>

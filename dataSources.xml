@@ -6,17 +6,17 @@
       <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
       <jdbc-url>jdbc:mysql://localhost:3306/</jdbc-url>
     </data-source>
-    <data-source source="LOCAL" name="GoogleCloud" uuid="bbb7bcbf-bc59-494e-af87-aa22ffc80207">
-      <driver-ref>mysql.8</driver-ref>
-      <synchronize>true</synchronize>
-      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
-      <jdbc-url>jdbc:mysql://offves.com:3306</jdbc-url>
-    </data-source>
     <data-source source="LOCAL" name="test@maxiao" uuid="0a2a27e1-7d20-44fd-8803-c3c0fdf293d3">
       <driver-ref>mysql.8</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
       <jdbc-url>jdbc:mysql://203.195.130.212:3306</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="prod@maxiao" uuid="1033c283-c842-4fd7-a50b-e57e8b0ef287">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://47.106.86.165:3306</jdbc-url>
     </data-source>
   </component>
 </application>

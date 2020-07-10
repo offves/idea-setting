@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Result" />
+      <item value="The param tag @{(*|**|f1[*])[,[-]f2[*]...]} is expected when parameter loginAO is an entity type." />
       <item value="Sys Resource Mapper" />
       <item value="null" />
       <item value="user Name" />
@@ -49,13 +51,11 @@
       <item value="unknow" />
       <item value="验证签名不通过" />
       <item value="Wx Pay Order Notify Result" />
-      <item value="订单支付金额不一致" />
-      <item value="支付金额不一致" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="548" />
-        <entry key="ENGLISH" value="549" />
+        <entry key="CHINESE" value="550" />
+        <entry key="ENGLISH" value="551" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="3" />

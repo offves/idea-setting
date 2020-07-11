@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="章" />
       <item value="pay Complish" />
       <item value="冻结" />
       <item value="剩余" />
@@ -19,7 +20,6 @@
       <item value="Chapters" />
       <item value="间隔" />
       <item value="CODE URL PREFIX" />
-      <item value="章" />
       <item value="子节点" />
       <item value="&lt;groupId&gt;com.alibaba&lt;/groupId&gt; &lt;artifactId&gt;easyexcel&lt;/artifactId&gt; &lt;version&gt;1.0.1&lt;/version&gt;" />
       <item value="开通课程" />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="558" />
-        <entry key="ENGLISH" value="559" />
+        <entry key="CHINESE" value="559" />
+        <entry key="ENGLISH" value="560" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="3" />

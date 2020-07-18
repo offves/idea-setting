@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Certification" />
       <item value="手动" />
       <item value="固定时间" />
       <item value="增量" />
@@ -50,12 +51,11 @@
       <item value="studying" />
       <item value="studyed" />
       <item value="study" />
-      <item value="学习" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="561" />
-        <entry key="ENGLISH" value="562" />
+        <entry key="CHINESE" value="562" />
+        <entry key="ENGLISH" value="563" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="3" />

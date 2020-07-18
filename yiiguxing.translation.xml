@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="增量" />
+      <item value="incr" />
       <item value="User Course" />
       <item value="章" />
       <item value="pay Complish" />
@@ -49,13 +51,11 @@
       <item value="学习" />
       <item value="note" />
       <item value="course note" />
-      <item value="private" />
-      <item value="privite" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="560" />
-        <entry key="ENGLISH" value="561" />
+        <entry key="CHINESE" value="561" />
+        <entry key="ENGLISH" value="562" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="3" />
@@ -78,7 +78,7 @@
         <entry key="PORTUGUESE" value="1" />
         <entry key="JAPANESE" value="2" />
         <entry key="SESOTHO" value="4" />
-        <entry key="ITALIAN" value="1" />
+        <entry key="ITALIAN" value="2" />
         <entry key="SUNDANESE" value="1" />
         <entry key="INDONESIAN" value="1" />
         <entry key="JAVANESE" value="1" />

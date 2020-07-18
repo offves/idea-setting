@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="手动" />
+      <item value="固定时间" />
       <item value="增量" />
       <item value="incr" />
       <item value="User Course" />
@@ -49,8 +51,6 @@
       <item value="studyed" />
       <item value="study" />
       <item value="学习" />
-      <item value="note" />
-      <item value="course note" />
     </histories>
     <option name="languageScores">
       <map>

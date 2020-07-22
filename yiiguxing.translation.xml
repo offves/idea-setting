@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="延期" />
+      <item value="延期时间" />
       <item value="沟通详情 " />
       <item value="评分" />
       <item value="score" />
@@ -49,13 +51,11 @@
       <item value="优惠方式" />
       <item value="check Exist" />
       <item value="check Extis" />
-      <item value="生成邀请码" />
-      <item value="Result" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="567" />
-        <entry key="ENGLISH" value="568" />
+        <entry key="CHINESE" value="569" />
+        <entry key="ENGLISH" value="569" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="3" />

@@ -1,6 +1,36 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="沟通详情 " />
+      <item value="评分" />
+      <item value="score" />
+      <item value="分数" />
+      <item value="第四次 " />
+      <item value="第三次 " />
+      <item value="第一次 " />
+      <item value="第二次 " />
+      <item value="第八周" />
+      <item value="八" />
+      <item value="刷题情况" />
+      <item value="结果情况 " />
+      <item value="导师评语" />
+      <item value="满意程度" />
+      <item value="入学题量" />
+      <item value="admission" />
+      <item value="入学水平 " />
+      <item value="入学水平" />
+      <item value="专业" />
+      <item value="公司" />
+      <item value="学校" />
+      <item value="身份状态" />
+      <item value="身份状态 " />
+      <item value="student" />
+      <item value="学员" />
+      <item value="小班课" />
+      <item value="班期" />
+      <item value="课程排期" />
+      <item value="排期" />
+      <item value="课程排期 " />
       <item value="173" />
       <item value="http" />
       <item value="core" />
@@ -21,41 +51,11 @@
       <item value="check Extis" />
       <item value="生成邀请码" />
       <item value="Result" />
-      <item value="The param tag @{(*|**|f1[*])[,[-]f2[*]...]} is expected when parameter loginAO is an entity type." />
-      <item value="Sys Resource Mapper" />
-      <item value="null" />
-      <item value="user Name" />
-      <item value="cover" />
-      <item value="Chapters" />
-      <item value="间隔" />
-      <item value="CODE URL PREFIX" />
-      <item value="子节点" />
-      <item value="&lt;groupId&gt;com.alibaba&lt;/groupId&gt; &lt;artifactId&gt;easyexcel&lt;/artifactId&gt; &lt;version&gt;1.0.1&lt;/version&gt;" />
-      <item value="开通课程" />
-      <item value="open Course" />
-      <item value="Effective" />
-      <item value="有效日期" />
-      <item value="private final UserAuthService userAuthService; private final TrainClassService trainClassService; private final UserCourseService userCourseService; @Override public IPage&lt;OrderVO&gt; getOrderByPage(Page&lt;Order&gt; page, Long userId, Long classId) { LambdaQueryWrapper&lt;Order&gt; queryWrapper = new LambdaQueryWrapper&lt;&gt;(); if (userId != null) { queryWrapper.eq(Order::getUserId, userId); } if (classId != null) { queryWrapper.eq(Order::getClassId, classId); } IPage&lt;Order&gt; orderPage = super.page(page, queryWrapper); if (CollectionUtils.isEmpty(orderPage.getRecords())) { return new Page&lt;&gt;(page.getCurrent(), page.getSize(), 0); } Set&lt;Long&gt; userIds = page.getRecords().stream().map(Order::getUserId).collect(Collectors.toSet()); Set&lt;Long&gt; classIds = page.getRecords().stream().map(Order::getClassId).collect(Collectors.toSet()); Map&lt;Long, String&gt; userAuthDict = userAuthService.findUserAuthDictByIds(userIds, UserAuth::getUsername); Map&lt;Long, String&gt; trainClassNameDict = trainClassService.findTrainClassDictByIds(classIds, TrainClass::getName); return orderPage.convert(order -&gt; new OrderVO(order, userAuthDict.getOrDefault(order.getUserId(), String.valueOf(order.getUserId())), trainClassNameDict.getOrDefault(order.getClassId(), String.valueOf(order.getClassId())))); } @Override @Transactional public Long addOrder(OrderAO orderAO) { Order order = new Order(); BeanUtils.copyProperties(orderAO, order); order.setStatus(EnumsUtils.getEnumObject(OrderStatus.class, p -&gt; p.ordinal() == orderAO.getStatus()).orElseThrow(() -&gt; new BusinessException(&quot;订单状态值错误&quot;))); order.setPaymentMethod(EnumsUtils.getEnumObject(PayType.class, p -&gt; p.ordinal() == orderAO.getPaymentMethod()).orElseThrow(() -&gt; new BusinessException(&quot;订单支付方式值错误&quot;))); order.setOrderNumber(IdGenerator.nextIdStr()); if (order.getStatus() == OrderStatus.WAIT_FOR_PAY) { order.setPaymentTime(null); } super.save(order); userCourseService.addCourseFor(order.getUserId(), order.getClassId()); return order.getId(); }" />
-      <item value="active" />
-      <item value="worker Id can't be greater than 31 or less than 0" />
-      <item value="Pay Type" />
-      <item value="Service Impl" />
-      <item value="Application Filter Chain" />
-      <item value="childs" />
-      <item value="Base Entity" />
-      <item value="Note the order is from least to most specific (last one wins)" />
-      <item value="INFO" />
-      <item value="Post Mapping" />
-      <item value="活动" />
-      <item value="认证" />
-      <item value="课程" />
-      <item value="Course Section Mapper" />
-      <item value="DEBUG" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="562" />
-        <entry key="ENGLISH" value="563" />
+        <entry key="CHINESE" value="567" />
+        <entry key="ENGLISH" value="568" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="3" />

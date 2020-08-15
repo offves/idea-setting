@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="nonbreaking force tab" />
+      <item value="cors" />
+      <item value="imagetools cors hosts" />
+      <item value="skins" />
       <item value="importance" />
       <item value="staging" />
       <item value="搜索" />
@@ -47,15 +51,11 @@
       <item value="incr" />
       <item value="User Course" />
       <item value="章" />
-      <item value="pay Complish" />
-      <item value="冻结" />
-      <item value="剩余" />
-      <item value="剩余有效天数" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="571" />
-        <entry key="ENGLISH" value="572" />
+        <entry key="CHINESE" value="574" />
+        <entry key="ENGLISH" value="575" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="3" />
@@ -68,6 +68,7 @@
         <entry key="FINNISH" value="1" />
         <entry key="GUJARATI" value="1" />
         <entry key="DUTCH" value="1" />
+        <entry key="CATALAN" value="2" />
         <entry key="KANNADA" value="1" />
         <entry key="CROATIAN" value="1" />
         <entry key="LATIN" value="3" />

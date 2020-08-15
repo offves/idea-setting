@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Predicate" />
       <item value="associate" />
       <item value="关联" />
       <item value="关联查询" />
@@ -50,12 +51,11 @@
       <item value="课程排期" />
       <item value="排期" />
       <item value="课程排期 " />
-      <item value="173" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="582" />
-        <entry key="ENGLISH" value="582" />
+        <entry key="ENGLISH" value="583" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="3" />

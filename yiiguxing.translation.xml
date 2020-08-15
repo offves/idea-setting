@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="precision" />
+      <item value="numeric precision" />
+      <item value="numeric scale" />
       <item value="nonbreaking force tab" />
       <item value="cors" />
       <item value="imagetools cors hosts" />
@@ -48,14 +51,11 @@
       <item value="手动" />
       <item value="固定时间" />
       <item value="增量" />
-      <item value="incr" />
-      <item value="User Course" />
-      <item value="章" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="574" />
-        <entry key="ENGLISH" value="575" />
+        <entry key="CHINESE" value="577" />
+        <entry key="ENGLISH" value="578" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="3" />

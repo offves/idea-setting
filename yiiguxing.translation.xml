@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="has Feedback" />
       <item value="Duplicate keys detected: '1'. This may cause an update error" />
       <item value="Each record in dataSource of table should have a unique `key` prop, or set `rowKey` of Table to an unique primary key," />
       <item value="use a data or computed property based on the prop's value. Prop being mutated: &quot;value&quot;  " />
@@ -50,12 +51,11 @@
       <item value="入学水平 " />
       <item value="入学水平" />
       <item value="专业" />
-      <item value="公司" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="589" />
-        <entry key="ENGLISH" value="589" />
+        <entry key="ENGLISH" value="590" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="3" />

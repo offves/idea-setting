@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="user Id" />
       <item value="Redirected when going from &quot;/user/login?redirect=%2F&quot; to &quot;/&quot; via a navigation guard." />
       <item value="so the navigation will not leave a history record" />
       <item value="hack方法" />
@@ -50,12 +51,11 @@
       <item value="延期" />
       <item value="延期时间" />
       <item value="沟通详情 " />
-      <item value="评分" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="603" />
-        <entry key="ENGLISH" value="603" />
+        <entry key="ENGLISH" value="604" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="3" />

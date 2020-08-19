@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="no element matches" />
+      <item value="It's an empty enum identifier: reset the enum value to null." />
       <item value="Feature that allows unknown Enum values to be parsed as null values. * If disabled, unknown Enum values will throw exceptions." />
       <item value="Feature that determines standard deserialization mechanism used for * Enum values: if enabled, Enums are assumed to have been serialized using * return value of &lt;code&gt;Enum.toString()&lt;/code&gt;; * if disabled, return value of &lt;code&gt;Enum.name()&lt;/code&gt; is assumed to have been used." />
       <item value="Feature that determines standard serialization mechanism used for * Enum values: if enabled, return value of &lt;code&gt;Enum.toString()&lt;/code&gt; * is used; if disabled, return value of &lt;code&gt;Enum.name()&lt;/code&gt; is used. *&lt;p&gt; * Note: this feature should usually have same value * as {@link DeserializationFeature#READ_ENUMS_USING_TO_STRING}. *&lt;p&gt; * Feature is disabled by default." />
@@ -49,13 +51,11 @@
       <item value="numeric scale" />
       <item value="nonbreaking force tab" />
       <item value="cors" />
-      <item value="imagetools cors hosts" />
-      <item value="skins" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="609" />
-        <entry key="ENGLISH" value="610" />
+        <entry key="CHINESE" value="611" />
+        <entry key="ENGLISH" value="612" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="3" />

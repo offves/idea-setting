@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="catalina" />
+      <item value="Standard Context Valve" />
       <item value="anticon" />
       <item value="no element matches" />
       <item value="It's an empty enum identifier: reset the enum value to null." />
@@ -23,7 +25,6 @@
       <item value="encrypted" />
       <item value="collaps" />
       <item value="collapsed" />
-      <item value="catalina" />
       <item value="captcha" />
       <item value="get Captcha" />
       <item value="Whether the property specified via {@link #target()} should be ignored by the generated mapping method or not. * This can be useful when certain attributes should not be propagated from source or target or when properties in * the target object are populated using a decorator and thus would be reported as unmapped target property by * default." />
@@ -50,7 +51,6 @@
       <item value="precision" />
       <item value="numeric precision" />
       <item value="numeric scale" />
-      <item value="nonbreaking force tab" />
     </histories>
     <option name="languageScores">
       <map>

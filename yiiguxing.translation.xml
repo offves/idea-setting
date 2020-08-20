@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="encrypted" />
+      <item value="encrypt" />
+      <item value="convert" />
+      <item value="conveter" />
       <item value="rawtypes" />
       <item value="catalina" />
       <item value="Standard Context Valve" />
@@ -21,9 +25,7 @@
       <item value="const Routes" />
       <item value=" Redirected when going from &quot;/user/login?redirect=%2F&quot; to &quot;/&quot; via a navigation guard." />
       <item value="true so the navigation will not leave a history record" />
-      <item value="encrypt" />
       <item value="encrypte" />
-      <item value="encrypted" />
       <item value="collaps" />
       <item value="collapsed" />
       <item value="captcha" />
@@ -49,13 +51,11 @@
       <item value="Related Query" />
       <item value="主键" />
       <item value="convet Field Type" />
-      <item value="precision" />
-      <item value="numeric precision" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="612" />
-        <entry key="ENGLISH" value="613" />
+        <entry key="CHINESE" value="616" />
+        <entry key="ENGLISH" value="617" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="3" />

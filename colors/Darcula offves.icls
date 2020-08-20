@@ -4,7 +4,7 @@
     <property name="created">2019-07-15T20:04:22</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2019.2.0.0</property>
-    <property name="modified">2019-07-15T20:04:26</property>
+    <property name="modified">2020-08-21T01:34:34</property>
     <property name="originalScheme">_@user_Darcula</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="Menlo" />
@@ -56,6 +56,13 @@
       <value>
         <option name="FOREGROUND" value="62a817" />
         <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="INFO_ATTRIBUTES">
+      <value>
+        <option name="EFFECT_COLOR" value="659c6b" />
+        <option name="ERROR_STRIPE_COLOR" value="756d56" />
+        <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
     <option name="INJECTED_LANGUAGE_FRAGMENT">
@@ -133,11 +140,6 @@
       <value>
         <option name="FOREGROUND" value="66d9ee" />
         <option name="FONT_TYPE" value="1" />
-      </value>
-    </option>
-    <option name="TYPO">
-      <value>
-        <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
     <option name="WARNING_ATTRIBUTES">

@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="optimize code" />
       <item value="encrypted" />
       <item value="encrypt" />
       <item value="convert" />
@@ -50,11 +51,10 @@
       <item value="关联查询" />
       <item value="Related Query" />
       <item value="主键" />
-      <item value="convet Field Type" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="616" />
+        <entry key="CHINESE" value="617" />
         <entry key="ENGLISH" value="617" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ARABIC" value="1" />

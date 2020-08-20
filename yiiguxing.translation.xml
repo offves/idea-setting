@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="rawtypes" />
       <item value="catalina" />
       <item value="Standard Context Valve" />
       <item value="anticon" />
@@ -50,12 +51,11 @@
       <item value="convet Field Type" />
       <item value="precision" />
       <item value="numeric precision" />
-      <item value="numeric scale" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="612" />
-        <entry key="ENGLISH" value="612" />
+        <entry key="ENGLISH" value="613" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="3" />

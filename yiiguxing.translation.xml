@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="房型名称" />
       <item value="BucketAlreadyExists: The requested bucket name is not available. The bucket namespace is shared by all users of the system. Please select a different name and try again. " />
       <item value="The bucket you are attempting to access must be addressed using the specified endpoint. Please send all future requests to this endpoint" />
       <item value="bucket you are attempting to access must be addressed using the specified endpoint. Please send all future requests to this endpoint" />
@@ -50,7 +51,6 @@
       <item value="排序" />
       <item value="UPPER UNDERSCORE" />
       <item value="后缀" />
-      <item value="object is not an instance of declaring class" />
     </histories>
     <option name="languageScores">
       <map>

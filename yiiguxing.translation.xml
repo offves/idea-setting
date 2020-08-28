@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="mysql" />
       <item value="Ignoring entryPoint because dockerDirectory is set" />
       <item value="Failed to execute goal com.spotify:docker-maven-plugin:1.2.2:build (default-cli) on project admin: Exception caught" />
       <item value="package docker-ce-3:19.03.12-3.el7.x86_64 requires containerd.io &gt;= 1.2.2-3, but none of the providers can be installed" />
@@ -50,12 +51,11 @@
       <item value="存在" />
       <item value="授权" />
       <item value="has Feedback" />
-      <item value="Duplicate keys detected: '1'. This may cause an update error" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="629" />
-        <entry key="ENGLISH" value="630" />
+        <entry key="CHINESE" value="635" />
+        <entry key="ENGLISH" value="636" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="3" />

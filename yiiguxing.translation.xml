@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="alpine" />
       <item value="part Refund" />
       <item value="习惯" />
       <item value="user Habbit" />
@@ -50,12 +51,11 @@
       <item value="Each record in dataSource of table should have a unique `key` prop, or set `rowKey` of Table to an unique primary key," />
       <item value="use a data or computed property based on the prop's value. Prop being mutated: &quot;value&quot;  " />
       <item value="perfix Url" />
-      <item value="non-compatible bean definition of same name" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="626" />
-        <entry key="ENGLISH" value="627" />
+        <entry key="CHINESE" value="627" />
+        <entry key="ENGLISH" value="628" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="3" />

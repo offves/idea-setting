@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="profit share" />
       <item value="improt Url" />
       <item value="会员" />
       <item value="NONE" />
@@ -50,11 +51,10 @@
       <item value="Feature that determines standard serialization mechanism used for * Enum values: if enabled, return value of &lt;code&gt;Enum.toString()&lt;/code&gt; * is used; if disabled, return value of &lt;code&gt;Enum.name()&lt;/code&gt; is used. *&lt;p&gt; * Note: this feature should usually have same value * as {@link DeserializationFeature#READ_ENUMS_USING_TO_STRING}. *&lt;p&gt; * Feature is disabled by default." />
       <item value="Feature that determines whether Java Enum values are serialized * as numbers (true), or textual values (false). If textual values are * used, other settings are also considered. * If this feature is enabled, * return value of &lt;code&gt;Enum.ordinal()&lt;/code&gt; * (an integer) will be used as the serialization. *&lt;p&gt; * Note that this feature has precedence over {@link #WRITE_ENUMS_USING_TO_STRING}, * which is only considered if this feature is set to false. *&lt;p&gt; * Note that since 2.10, this does NOT apply to {@link Enum}s written as * keys of {@link java.util.Map} values, which has separate setting, * {@link #WRITE_ENUM_KEYS_USING_INDEX}. *&lt;p&gt; * Feature is disabled by default." />
       <item value="booking" />
-      <item value="noinspection unchecked, type check is ok" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="648" />
+        <entry key="CHINESE" value="649" />
         <entry key="ENGLISH" value="649" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ARABIC" value="1" />

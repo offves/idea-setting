@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="lightgray" />
+      <item value="skin url" />
+      <item value="Multiple entries with same key: serialVersionUID=private static final long com.github.binarywang.wxpay.bean.result.BaseWxPayResult.serialVersionUID and serialVersionUID=private static final long com.github.binarywang.wxpay.bean.notify.WxPayOrderNotifyResult.serialVersionUID. To index multiple values under a key, use Multimaps.index." />
+      <item value="same" />
       <item value="get Loyal" />
       <item value="lottery" />
       <item value="抽奖" />
@@ -47,15 +51,11 @@
       <item value="convert" />
       <item value="conveter" />
       <item value="rawtypes" />
-      <item value="catalina" />
-      <item value="Standard Context Valve" />
-      <item value="anticon" />
-      <item value="no element matches" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="654" />
-        <entry key="ENGLISH" value="655" />
+        <entry key="CHINESE" value="656" />
+        <entry key="ENGLISH" value="657" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="3" />

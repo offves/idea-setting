@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="get Or Anonymous" />
+      <item value="get Unthrow" />
+      <item value="hotelId not exits" />
       <item value="SYSTEM TENANT ID" />
       <item value="record Habit Balance" />
       <item value="record Habbit Balance" />
@@ -48,14 +51,11 @@
       <item value="The bucket you are attempting to access must be addressed using the specified endpoint. Please send all future requests to this endpoint" />
       <item value="bucket you are attempting to access must be addressed using the specified endpoint. Please send all future requests to this endpoint" />
       <item value="Select" />
-      <item value="Illegal operation on empty result set" />
-      <item value="推荐" />
-      <item value="optimize code" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="659" />
-        <entry key="ENGLISH" value="660" />
+        <entry key="CHINESE" value="662" />
+        <entry key="ENGLISH" value="663" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="3" />

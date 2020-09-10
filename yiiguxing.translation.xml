@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="normal" />
+      <item value="正常" />
+      <item value="普通" />
       <item value="get Or Anonymous" />
       <item value="get Unthrow" />
       <item value="hotelId not exits" />
@@ -48,14 +51,11 @@
       <item value="If you want to set empty value, use `null` instead." />
       <item value="房型名称" />
       <item value="BucketAlreadyExists: The requested bucket name is not available. The bucket namespace is shared by all users of the system. Please select a different name and try again. " />
-      <item value="The bucket you are attempting to access must be addressed using the specified endpoint. Please send all future requests to this endpoint" />
-      <item value="bucket you are attempting to access must be addressed using the specified endpoint. Please send all future requests to this endpoint" />
-      <item value="Select" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="662" />
-        <entry key="ENGLISH" value="663" />
+        <entry key="CHINESE" value="664" />
+        <entry key="ENGLISH" value="664" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="3" />

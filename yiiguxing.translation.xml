@@ -1,6 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="已离店" />
+      <item value="已退款" />
+      <item value="已拒绝" />
+      <item value="已入住" />
+      <item value="已确认" />
+      <item value="支付成功" />
+      <item value="待确认" />
+      <item value="未支付" />
       <item value="已获取" />
       <item value="已使用" />
       <item value="已过期" />
@@ -10,7 +18,6 @@
       <item value="Recharge Policy Type" />
       <item value="已完成" />
       <item value="已支付" />
-      <item value="未支付" />
       <item value="匹配" />
       <item value="Prize" />
       <item value="抽奖" />
@@ -44,18 +51,11 @@
       <item value="hotelId not exits" />
       <item value="SYSTEM TENANT ID" />
       <item value="record Habit Balance" />
-      <item value="record Habbit Balance" />
-      <item value="habit" />
-      <item value="喜好" />
-      <item value="lightgray" />
-      <item value="skin url" />
-      <item value="Multiple entries with same key: serialVersionUID=private static final long com.github.binarywang.wxpay.bean.result.BaseWxPayResult.serialVersionUID and serialVersionUID=private static final long com.github.binarywang.wxpay.bean.notify.WxPayOrderNotifyResult.serialVersionUID. To index multiple values under a key, use Multimaps.index." />
-      <item value="same" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="691" />
-        <entry key="ENGLISH" value="691" />
+        <entry key="CHINESE" value="702" />
+        <entry key="ENGLISH" value="702" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="3" />

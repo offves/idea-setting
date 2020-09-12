@@ -1,6 +1,19 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="add Breakfast Coupon" />
+      <item value="none" />
+      <item value="REGISTER" />
+      <item value="HOBBY" />
+      <item value="天数" />
+      <item value="日期" />
+      <item value="指定天数" />
+      <item value="套餐赠送" />
+      <item value="ota客人赠送" />
+      <item value="记录喜好赠送" />
+      <item value="新用户赠送" />
+      <item value="后台推送" />
+      <item value="购买" />
       <item value="折扣卡" />
       <item value="立减卡" />
       <item value="noinspection unchecked" />
@@ -38,24 +51,11 @@
       <item value="不加价" />
       <item value="周末加价" />
       <item value="is Saturday" />
-      <item value="is Friday" />
-      <item value="loadBalance" />
-      <item value="负载均衡" />
-      <item value="SSH Site not specified" />
-      <item value="editable" />
-      <item value="entry Point" />
-      <item value="工具" />
-      <item value="insecure" />
-      <item value="inse" />
-      <item value="mysql" />
-      <item value="Ignoring entryPoint because dockerDirectory is set" />
-      <item value="Failed to execute goal com.spotify:docker-maven-plugin:1.2.2:build (default-cli) on project admin: Exception caught" />
-      <item value="package docker-ce-3:19.03.12-3.el7.x86_64 requires containerd.io &gt;= 1.2.2-3, but none of the providers can be installed" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="667" />
-        <entry key="ENGLISH" value="667" />
+        <entry key="CHINESE" value="679" />
+        <entry key="ENGLISH" value="680" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="3" />
@@ -77,7 +77,7 @@
         <entry key="ROMANIAN" value="3" />
         <entry key="NORWEGIAN" value="2" />
         <entry key="PORTUGUESE" value="1" />
-        <entry key="JAPANESE" value="2" />
+        <entry key="JAPANESE" value="3" />
         <entry key="SESOTHO" value="4" />
         <entry key="ITALIAN" value="3" />
         <entry key="SUNDANESE" value="1" />

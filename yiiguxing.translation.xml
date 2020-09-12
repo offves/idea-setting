@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Prize" />
+      <item value="抽奖" />
+      <item value="draw Num" />
       <item value="WEBSITE" />
       <item value="add Breakfast Coupon" />
       <item value="none" />
@@ -39,9 +42,7 @@
       <item value="same" />
       <item value="get Loyal" />
       <item value="lottery" />
-      <item value="抽奖" />
       <item value="Activity" />
-      <item value="Prize" />
       <item value="member prize" />
       <item value="profit share" />
       <item value="improt Url" />
@@ -50,12 +51,11 @@
       <item value="周日加价" />
       <item value="周六加价" />
       <item value="不加价" />
-      <item value="周末加价" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="680" />
-        <entry key="ENGLISH" value="681" />
+        <entry key="CHINESE" value="682" />
+        <entry key="ENGLISH" value="682" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="3" />

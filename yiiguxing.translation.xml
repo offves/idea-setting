@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="noinspection unchecked" />
+      <item value="不支持" />
+      <item value="un Support" />
+      <item value="un support" />
       <item value="optimize code" />
       <item value="normal" />
       <item value="正常" />
@@ -47,15 +51,11 @@
       <item value="package docker-ce-3:19.03.12-3.el7.x86_64 requires containerd.io &gt;= 1.2.2-3, but none of the providers can be installed" />
       <item value="alpine" />
       <item value="part Refund" />
-      <item value="习惯" />
-      <item value="user Habbit" />
-      <item value="If you want to set empty value, use `null` instead." />
-      <item value="房型名称" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="664" />
-        <entry key="ENGLISH" value="664" />
+        <entry key="CHINESE" value="665" />
+        <entry key="ENGLISH" value="666" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="3" />
@@ -63,7 +63,7 @@
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="RUSSIAN" value="1" />
-        <entry key="FRENCH" value="5" />
+        <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="2" />
         <entry key="FINNISH" value="1" />
         <entry key="GUJARATI" value="1" />

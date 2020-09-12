@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="merchant Bind Phone" />
       <item value="merchant" />
       <item value="merchant Bind" />
       <item value="已离店" />
@@ -50,12 +51,11 @@
       <item value="普通" />
       <item value="get Or Anonymous" />
       <item value="get Unthrow" />
-      <item value="hotelId not exits" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="703" />
-        <entry key="ENGLISH" value="704" />
+        <entry key="CHINESE" value="704" />
+        <entry key="ENGLISH" value="705" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="3" />

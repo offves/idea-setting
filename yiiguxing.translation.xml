@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="is Birthday Valid" />
       <item value="get Breakfast Price" />
       <item value="room Can Order" />
       <item value="is Room Can Order" />
@@ -50,12 +51,11 @@
       <item value="HOBBY" />
       <item value="天数" />
       <item value="日期" />
-      <item value="指定天数" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="718" />
-        <entry key="ENGLISH" value="719" />
+        <entry key="CHINESE" value="720" />
+        <entry key="ENGLISH" value="721" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="3" />
@@ -90,6 +90,5 @@
   </component>
   <component name="Settings">
     <option name="ignoreRegExp" value="" />
-    <option name="translateDocumentation" value="true" />
   </component>
 </application>

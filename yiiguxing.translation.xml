@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="get Weekend Access" />
+      <item value="discounted Price" />
+      <item value="discounted" />
       <item value="check In Date" />
       <item value="tabbar" />
       <item value="get Breakfast Time" />
@@ -48,14 +51,11 @@
       <item value="购买" />
       <item value="折扣卡" />
       <item value="立减卡" />
-      <item value="noinspection unchecked" />
-      <item value="不支持" />
-      <item value="un Support" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="708" />
-        <entry key="ENGLISH" value="709" />
+        <entry key="CHINESE" value="711" />
+        <entry key="ENGLISH" value="712" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="3" />

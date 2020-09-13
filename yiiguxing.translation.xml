@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="is Internal Sync" />
       <item value="is Birthday Valid" />
       <item value="get Breakfast Price" />
       <item value="room Can Order" />
@@ -50,7 +51,6 @@
       <item value="REGISTER" />
       <item value="HOBBY" />
       <item value="天数" />
-      <item value="日期" />
     </histories>
     <option name="languageScores">
       <map>

@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="not found element" />
+      <item value="not found" />
+      <item value="无限" />
+      <item value="close" />
+      <item value="关闭" />
       <item value="get Weekend Access" />
       <item value="discounted Price" />
       <item value="discounted" />
@@ -46,16 +51,11 @@
       <item value="套餐赠送" />
       <item value="ota客人赠送" />
       <item value="记录喜好赠送" />
-      <item value="新用户赠送" />
-      <item value="后台推送" />
-      <item value="购买" />
-      <item value="折扣卡" />
-      <item value="立减卡" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="711" />
-        <entry key="ENGLISH" value="712" />
+        <entry key="CHINESE" value="715" />
+        <entry key="ENGLISH" value="716" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="3" />

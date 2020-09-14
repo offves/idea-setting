@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="recommend Id" />
+      <item value="check Booking Repeated" />
+      <item value="检测是否重复订房" />
+      <item value="throttle For Front Room Order" />
       <item value="portal" />
       <item value="is Internal Sync" />
       <item value="is Birthday Valid" />
@@ -47,15 +51,11 @@
       <item value="抽奖" />
       <item value="draw Num" />
       <item value="WEBSITE" />
-      <item value="add Breakfast Coupon" />
-      <item value="none" />
-      <item value="REGISTER" />
-      <item value="HOBBY" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="721" />
-        <entry key="ENGLISH" value="722" />
+        <entry key="CHINESE" value="725" />
+        <entry key="ENGLISH" value="726" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="3" />

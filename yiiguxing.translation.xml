@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="duplicate" />
+      <item value="重复" />
+      <item value="dulicate" />
+      <item value="Deposit Order Service" />
       <item value="increase Metrics" />
       <item value="增加" />
       <item value="Statement" />
@@ -47,15 +51,11 @@
       <item value="支付成功" />
       <item value="待确认" />
       <item value="未支付" />
-      <item value="已获取" />
-      <item value="已使用" />
-      <item value="已过期" />
-      <item value="倍率" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="733" />
-        <entry key="ENGLISH" value="734" />
+        <entry key="CHINESE" value="736" />
+        <entry key="ENGLISH" value="736" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="3" />
@@ -81,6 +81,7 @@
         <entry key="SWEDISH" value="1" />
         <entry key="SESOTHO" value="4" />
         <entry key="ITALIAN" value="3" />
+        <entry key="HINDI" value="1" />
         <entry key="SUNDANESE" value="1" />
         <entry key="INDONESIAN" value="1" />
         <entry key="JAVANESE" value="1" />

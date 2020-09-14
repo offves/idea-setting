@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="increase Metrics" />
+      <item value="增加" />
       <item value="Statement" />
       <item value="对账单" />
       <item value="对账订单" />
@@ -49,13 +51,11 @@
       <item value="已使用" />
       <item value="已过期" />
       <item value="倍率" />
-      <item value="满赠" />
-      <item value="首充" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="732" />
-        <entry key="ENGLISH" value="732" />
+        <entry key="CHINESE" value="733" />
+        <entry key="ENGLISH" value="734" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="3" />

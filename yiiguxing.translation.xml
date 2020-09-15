@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="坏账" />
+      <item value="已对账" />
+      <item value="未对账" />
+      <item value="consume Amount" />
       <item value="手动推送" />
       <item value="已经参加活动" />
       <item value="已经参加" />
@@ -47,15 +51,11 @@
       <item value="检测是否重复订房" />
       <item value="throttle For Front Room Order" />
       <item value="portal" />
-      <item value="is Internal Sync" />
-      <item value="is Birthday Valid" />
-      <item value="get Breakfast Price" />
-      <item value="room Can Order" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="753" />
-        <entry key="ENGLISH" value="753" />
+        <entry key="CHINESE" value="756" />
+        <entry key="ENGLISH" value="756" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ARABIC" value="2" />
         <entry key="ESTONIAN" value="3" />

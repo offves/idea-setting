@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="order Type 1" />
+      <item value="received Coupons" />
+      <item value="领过券" />
+      <item value="is Get Coupon" />
       <item value="recent" />
       <item value="坏账" />
       <item value="已对账" />
@@ -47,15 +51,11 @@
       <item value="repeat Purchase" />
       <item value="validity Period" />
       <item value="匹配" />
-      <item value="recommend Id" />
-      <item value="check Booking Repeated" />
-      <item value="检测是否重复订房" />
-      <item value="throttle For Front Room Order" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="756" />
-        <entry key="ENGLISH" value="757" />
+        <entry key="CHINESE" value="759" />
+        <entry key="ENGLISH" value="760" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ARABIC" value="2" />
         <entry key="ESTONIAN" value="3" />
@@ -92,5 +92,6 @@
   </component>
   <component name="Settings">
     <option name="ignoreRegExp" value="" />
+    <option name="translateDocumentation" value="true" />
   </component>
 </application>

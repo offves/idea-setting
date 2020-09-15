@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="trans Room Coupon Id" />
       <item value="throttle For Prize" />
       <item value="pull New Amount" />
       <item value="prize Amount" />
@@ -50,12 +51,11 @@
       <item value="get Breakfast Time" />
       <item value="apache" />
       <item value="累计间夜量" />
-      <item value="累计消费" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="744" />
-        <entry key="ENGLISH" value="745" />
+        <entry key="CHINESE" value="745" />
+        <entry key="ENGLISH" value="746" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="3" />

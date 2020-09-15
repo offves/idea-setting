@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="已经参加活动" />
+      <item value="已经参加" />
+      <item value="已经参与" />
+      <item value="您已经参与了该活动" />
+      <item value="limit Activity" />
       <item value="UN SHARE" />
       <item value="SHARED" />
       <item value="SHAREED" />
@@ -46,16 +51,11 @@
       <item value="get Breakfast Price" />
       <item value="room Can Order" />
       <item value="is Room Can Order" />
-      <item value="not found element" />
-      <item value="not found" />
-      <item value="无限" />
-      <item value="close" />
-      <item value="关闭" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="750" />
-        <entry key="ENGLISH" value="750" />
+        <entry key="CHINESE" value="752" />
+        <entry key="ENGLISH" value="753" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ARABIC" value="2" />
         <entry key="ESTONIAN" value="3" />

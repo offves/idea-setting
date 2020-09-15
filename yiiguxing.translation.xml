@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="throttle For Prize" />
+      <item value="pull New Amount" />
+      <item value="prize Amount" />
+      <item value="prize Name" />
       <item value="increase Activity Visit Num" />
       <item value="ACTIVITY VISIT KEY" />
       <item value="已完成" />
@@ -47,15 +51,11 @@
       <item value="apache" />
       <item value="累计间夜量" />
       <item value="累计消费" />
-      <item value="Variable 'upgradeType' initializer '0' is redundant " />
-      <item value="merchant Bind Phone" />
-      <item value="merchant" />
-      <item value="merchant Bind" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="741" />
-        <entry key="ENGLISH" value="742" />
+        <entry key="CHINESE" value="744" />
+        <entry key="ENGLISH" value="745" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="3" />

@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="No validator could be found for constraint" />
       <item value="add balance: {}, add consumeAmount" />
       <item value="add balance" />
       <item value="update member discount card info. discount card id: {}, add balance: {}, add consumeAmount: {}" />
@@ -50,12 +51,11 @@
       <item value="进行中" />
       <item value="purchase Discount Card" />
       <item value="duplicate" />
-      <item value="重复" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="770" />
-        <entry key="ENGLISH" value="771" />
+        <entry key="CHINESE" value="771" />
+        <entry key="ENGLISH" value="772" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ARABIC" value="2" />
         <entry key="ESTONIAN" value="3" />

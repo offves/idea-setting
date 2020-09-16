@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="repeat Purchase" />
+      <item value="add Score" />
+      <item value="奖励" />
       <item value="negate" />
       <item value="order Type 1" />
       <item value="received Coupons" />
@@ -48,14 +51,11 @@
       <item value="对账单" />
       <item value="对账订单" />
       <item value="Admin" />
-      <item value="notify Settlement Amount" />
-      <item value="repeat Purchase" />
-      <item value="validity Period" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="760" />
-        <entry key="ENGLISH" value="761" />
+        <entry key="CHINESE" value="762" />
+        <entry key="ENGLISH" value="763" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ARABIC" value="2" />
         <entry key="ESTONIAN" value="3" />

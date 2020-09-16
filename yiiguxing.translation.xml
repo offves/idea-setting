@@ -1,12 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="received Coupons" />
+      <item value="昨天" />
       <item value="repeat Purchase" />
       <item value="add Score" />
       <item value="奖励" />
       <item value="negate" />
       <item value="order Type 1" />
-      <item value="received Coupons" />
       <item value="领过券" />
       <item value="is Get Coupon" />
       <item value="recent" />
@@ -50,12 +51,11 @@
       <item value="Statement" />
       <item value="对账单" />
       <item value="对账订单" />
-      <item value="Admin" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="762" />
-        <entry key="ENGLISH" value="763" />
+        <entry key="CHINESE" value="764" />
+        <entry key="ENGLISH" value="765" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ARABIC" value="2" />
         <entry key="ESTONIAN" value="3" />

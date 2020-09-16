@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="add balance: {}, add consumeAmount" />
+      <item value="add balance" />
+      <item value="update member discount card info. discount card id: {}, add balance: {}, add consumeAmount: {}" />
+      <item value="update member discount card info. discountCardId: {}, add balance: {}, add consumeAmount: {}" />
+      <item value="update the number of discount card sold" />
       <item value="Method 'getById()' recurses infinitely, and can only end by throwing an exception " />
       <item value="process Related" />
       <item value="received Coupons" />
@@ -46,16 +51,11 @@
       <item value="purchase Discount Card" />
       <item value="duplicate" />
       <item value="重复" />
-      <item value="dulicate" />
-      <item value="Deposit Order Service" />
-      <item value="increase Metrics" />
-      <item value="增加" />
-      <item value="Statement" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="766" />
-        <entry key="ENGLISH" value="766" />
+        <entry key="CHINESE" value="770" />
+        <entry key="ENGLISH" value="771" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ARABIC" value="2" />
         <entry key="ESTONIAN" value="3" />

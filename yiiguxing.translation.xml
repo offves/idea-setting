@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="363" />
       <item value="discount card expired" />
       <item value="discount card expire" />
       <item value="No validator could be found for constraint" />
@@ -50,7 +51,6 @@
       <item value="未支付" />
       <item value="is Buy Activity" />
       <item value="过期" />
-      <item value="进行中" />
     </histories>
     <option name="languageScores">
       <map>

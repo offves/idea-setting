@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="change packagename to booking" />
+      <item value="change package name to booking" />
+      <item value="更改包名为 booking" />
+      <item value="Disables the tag goal; it becomes a no-op" />
       <item value="bind Discount Card" />
       <item value="会员绑定折扣卡" />
       <item value="member bind discount card" />
@@ -47,15 +51,11 @@
       <item value="未分账" />
       <item value="trans Room Coupon Id" />
       <item value="throttle For Prize" />
-      <item value="pull New Amount" />
-      <item value="prize Amount" />
-      <item value="prize Name" />
-      <item value="increase Activity Visit Num" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="776" />
-        <entry key="ENGLISH" value="777" />
+        <entry key="CHINESE" value="779" />
+        <entry key="ENGLISH" value="779" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ARABIC" value="2" />
         <entry key="ESTONIAN" value="3" />

@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="hobby" />
       <item value="candidate Entity" />
       <item value="o" />
       <item value="Member Service" />
@@ -50,12 +51,11 @@
       <item value="已经参加" />
       <item value="已经参与" />
       <item value="您已经参与了该活动" />
-      <item value="limit Activity" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="786" />
-        <entry key="ENGLISH" value="787" />
+        <entry key="CHINESE" value="787" />
+        <entry key="ENGLISH" value="788" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ARABIC" value="2" />
         <entry key="ESTONIAN" value="3" />

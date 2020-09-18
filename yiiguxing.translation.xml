@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Member Service" />
       <item value="order" />
       <item value="Support for specifying both a day-of-week AND a day-of-month parameter is not implemented.  " />
       <item value="minus Days" />
@@ -50,12 +51,11 @@
       <item value="limit Activity" />
       <item value="UN SHARE" />
       <item value="SHARED" />
-      <item value="SHAREED" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="783" />
-        <entry key="ENGLISH" value="784" />
+        <entry key="CHINESE" value="784" />
+        <entry key="ENGLISH" value="785" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ARABIC" value="2" />
         <entry key="ESTONIAN" value="3" />

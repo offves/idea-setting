@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="summaries" />
+      <item value="summarys" />
       <item value="默认" />
       <item value="found" />
       <item value="do Room Order Refund" />
@@ -49,13 +51,11 @@
       <item value="坏账" />
       <item value="已对账" />
       <item value="未对账" />
-      <item value="consume Amount" />
-      <item value="手动推送" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="789" />
-        <entry key="ENGLISH" value="790" />
+        <entry key="CHINESE" value="790" />
+        <entry key="ENGLISH" value="791" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ARABIC" value="2" />
         <entry key="ESTONIAN" value="3" />

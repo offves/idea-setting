@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="editor" />
       <item value="received Coupons" />
       <item value="The AudioContext was not allowed to start. It must be resumed (or created) after a user gesture on the page" />
       <item value="match If Missing" />
@@ -50,7 +51,6 @@
       <item value="order Type 1" />
       <item value="领过券" />
       <item value="is Get Coupon" />
-      <item value="recent" />
     </histories>
     <option name="languageScores">
       <map>

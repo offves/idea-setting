@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="received Coupons" />
       <item value="The AudioContext was not allowed to start. It must be resumed (or created) after a user gesture on the page" />
       <item value="match If Missing" />
       <item value="websocket" />
@@ -41,7 +42,6 @@
       <item value="update the number of discount card sold" />
       <item value="Method 'getById()' recurses infinitely, and can only end by throwing an exception " />
       <item value="process Related" />
-      <item value="received Coupons" />
       <item value="昨天" />
       <item value="repeat Purchase" />
       <item value="add Score" />
@@ -55,7 +55,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="793" />
-        <entry key="ENGLISH" value="793" />
+        <entry key="ENGLISH" value="794" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ARABIC" value="2" />
         <entry key="ESTONIAN" value="3" />

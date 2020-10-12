@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Reports calls to divide() or setScale() without a rounding mode argument. Such calls can lead to an ArithmeticException when the exact value cannot be represented in the result (e.g. because it has a non-terminating decimal expansion). Specifying a rounding mode prevents the ArithmeticException.  " />
       <item value="优化重复查询" />
       <item value="room Coupon Order Valid" />
       <item value="is Room Coupon Order Valid" />
@@ -50,11 +51,10 @@
       <item value="found" />
       <item value="do Room Order Refund" />
       <item value="10240000" />
-      <item value="hobby" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="823" />
+        <entry key="CHINESE" value="824" />
         <entry key="ENGLISH" value="824" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ARABIC" value="2" />

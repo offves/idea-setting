@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="服务商" />
+      <item value="普通模式" />
       <item value="has Ke Fu Online" />
       <item value="客服" />
       <item value="取消" />
@@ -49,13 +51,11 @@
       <item value="match If Missing" />
       <item value="websocket" />
       <item value="summaries" />
-      <item value="summarys" />
-      <item value="默认" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="827" />
-        <entry key="ENGLISH" value="826" />
+        <entry key="CHINESE" value="829" />
+        <entry key="ENGLISH" value="828" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ARABIC" value="2" />
         <entry key="ESTONIAN" value="3" />

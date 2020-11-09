@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="determine Route" />
       <item value="服务商" />
       <item value="普通模式" />
       <item value="has Ke Fu Online" />
@@ -50,12 +51,11 @@
       <item value="The AudioContext was not allowed to start. It must be resumed (or created) after a user gesture on the page" />
       <item value="match If Missing" />
       <item value="websocket" />
-      <item value="summaries" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="829" />
-        <entry key="ENGLISH" value="828" />
+        <entry key="ENGLISH" value="829" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ARABIC" value="2" />
         <entry key="ESTONIAN" value="3" />

@@ -1,8 +1,5 @@
 <application>
   <component name="NotificationConfiguration">
-    <notification groupId="Database configuration" displayType="NONE" />
-    <notification groupId="Database detector" displayType="NONE" />
     <notification groupId="Docker: Dockerfile detection" displayType="NONE" shouldLog="false" />
-    <notification groupId="Spring Configuration Check" displayType="NONE" shouldLog="false" />
   </component>
 </application>

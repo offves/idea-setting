@@ -1,7 +1,0 @@
-<application>
-  <component name="SshConfigs">
-    <configs>
-      <sshConfig authType="PASSWORD" host="offves.com" id="a1400495-154a-41f5-a28c-204bc82bf9d1" port="223" username="root" />
-    </configs>
-  </component>
-</application>

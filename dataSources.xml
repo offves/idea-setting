@@ -6,23 +6,17 @@
       <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
       <jdbc-url>jdbc:mysql://localhost:3306/</jdbc-url>
     </data-source>
-    <data-source source="LOCAL" name="test@maxiao" uuid="0a2a27e1-7d20-44fd-8803-c3c0fdf293d3">
+    <data-source source="LOCAL" name="test@maxiao" uuid="7de08459-1d47-450d-a61e-29d28be00d53">
       <driver-ref>mysql.8</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
       <jdbc-url>jdbc:mysql://203.195.130.212:3306</jdbc-url>
     </data-source>
-    <data-source source="LOCAL" name="prod@maxiao" uuid="1033c283-c842-4fd7-a50b-e57e8b0ef287">
+    <data-source source="LOCAL" name="prod@maxiao" uuid="ee1a1644-1195-45b2-baa1-5d3668b24323">
       <driver-ref>mysql.8</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
       <jdbc-url>jdbc:mysql://47.106.86.165:3306</jdbc-url>
-    </data-source>
-    <data-source source="LOCAL" name="dev@cspiration" uuid="1ed60f10-08fb-4317-8c1d-a3d9b5d1abf1">
-      <driver-ref>mysql.8</driver-ref>
-      <synchronize>true</synchronize>
-      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
-      <jdbc-url>jdbc:mysql://121.199.57.154:3316/cspiration</jdbc-url>
     </data-source>
   </component>
 </application>

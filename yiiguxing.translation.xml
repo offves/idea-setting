@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="valves" />
       <item value="The specified key does not exist" />
       <item value="场景" />
       <item value="determine Route" />
@@ -50,7 +51,6 @@
       <item value="skin url" />
       <item value="editor" />
       <item value="received Coupons" />
-      <item value="The AudioContext was not allowed to start. It must be resumed (or created) after a user gesture on the page" />
     </histories>
     <option name="languageScores">
       <map>

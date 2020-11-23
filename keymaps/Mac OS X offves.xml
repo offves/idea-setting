@@ -183,7 +183,6 @@
   </action>
   <action id="Images.ShowThumbnails" />
   <action id="IntroduceVariable">
-    <keyboard-shortcut first-keystroke="meta alt v" />
     <keyboard-shortcut first-keystroke="alt v" />
   </action>
   <action id="Jdbc.OpenConsole.New.Generate">
@@ -272,6 +271,12 @@
   </action>
   <action id="SurroundWith">
     <keyboard-shortcut first-keystroke="alt r" />
+  </action>
+  <action id="TerminalSplitActionBase$Horizontal">
+    <keyboard-shortcut first-keystroke="ctrl meta h" />
+  </action>
+  <action id="TerminalSplitActionBase$Vertical">
+    <keyboard-shortcut first-keystroke="ctrl meta v" />
   </action>
   <action id="ToggleDistractionFreeMode">
     <keyboard-shortcut first-keystroke="ctrl d" />

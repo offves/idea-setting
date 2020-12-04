@@ -1,11 +1,5 @@
 <application>
   <component name="dataSourceStorage" format="xml" multifile-model="true">
-    <data-source source="LOCAL" name="local" uuid="3b82b0a8-b639-45a8-9bfc-dd3546847fc9">
-      <driver-ref>mysql.8</driver-ref>
-      <synchronize>true</synchronize>
-      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
-      <jdbc-url>jdbc:mysql://localhost:3306/</jdbc-url>
-    </data-source>
     <data-source source="LOCAL" name="test@maxiao" uuid="7de08459-1d47-450d-a61e-29d28be00d53">
       <driver-ref>mysql.8</driver-ref>
       <synchronize>true</synchronize>

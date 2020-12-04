@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="entity" />
       <item value="er" />
       <item value="valves" />
       <item value="The specified key does not exist" />
@@ -50,7 +51,6 @@
       <item value="monday" />
       <item value="对账单" />
       <item value="skin url" />
-      <item value="editor" />
     </histories>
     <option name="languageScores">
       <map>

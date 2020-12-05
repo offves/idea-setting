@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Possibly consider using a shorter maxLifetime value" />
+      <item value="No operations allowed after connection closed" />
       <item value="entity" />
       <item value="er" />
       <item value="valves" />
@@ -49,13 +51,11 @@
       <item value="退押金" />
       <item value="summary" />
       <item value="monday" />
-      <item value="对账单" />
-      <item value="skin url" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="831" />
-        <entry key="ENGLISH" value="831" />
+        <entry key="CHINESE" value="832" />
+        <entry key="ENGLISH" value="833" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ARABIC" value="2" />
         <entry key="ESTONIAN" value="3" />

@@ -12,5 +12,11 @@
       <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
       <jdbc-url>jdbc:mysql://47.106.86.165:3306</jdbc-url>
     </data-source>
+    <data-source source="LOCAL" name="@hk" uuid="393d2d8c-dc2a-4609-aac5-627e76fd40d5">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://offves.com:5555</jdbc-url>
+    </data-source>
   </component>
 </application>
